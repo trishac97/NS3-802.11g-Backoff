@@ -1,0 +1,7875 @@
+Waf: Entering directory `/home/trishachakraborty/ns3/ns-allinone-3.25/ns-3.25/build'
+Waf: Leaving directory `/home/trishachakraborty/ns3/ns-allinone-3.25/ns-3.25/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.220s)
+
+NUMCLIENTS:40
+
+(0xb61db0) 30
+(0xb44a80) 832
+(0xb41030) 832
+(0xb48670) 832
+(0xb4c0e0) 832
+(0xb15350) 832
+(0xb39b90) 832
+(0xb18e20) 832
+(0xb0de70) 832
+(0xb202c0) 832
+(0xa936e0) 832
+(0xb068a0) 832
+(0xb32650) 832
+(0xaf0a90) 832
+(0xa887c0) 832
+(0xb2ebe0) 832
+(0xa84d90) 832
+(0xb2b170) 832
+(0xafba20) 832
+(0xb44e00) Missed ACK 945
+(0xb413b0) Missed ACK 945
+(0xb489f0) Missed ACK 945
+(0xb4c460) Missed ACK 945
+(0xb156d0) Missed ACK 945
+(0xb39f10) Missed ACK 945
+(0xb191a0) Missed ACK 945
+(0xb0e1f0) Missed ACK 945
+(0xb20640) Missed ACK 945
+(0xa93a60) Missed ACK 945
+(0xb06c20) Missed ACK 945
+(0xb329d0) Missed ACK 945
+(0xaf0e10) Missed ACK 945
+(0xa88b40) Missed ACK 945
+(0xb2ef60) Missed ACK 945
+(0xa85110) Missed ACK 945
+(0xb2b4f0) Missed ACK 945
+(0xafbda0) Missed ACK 945
+(0xb41030) 995
+(0xb39b90) 995
+(0xb202c0) 995
+(0xaf0a90) 995
+(0xb2ebe0) 995
+(0xb2b170) 995
+(0xb413b0) Missed ACK 1108
+(0xb39f10) Missed ACK 1108
+(0xb20640) Missed ACK 1108
+(0xaf0e10) Missed ACK 1108
+(0xb2ef60) Missed ACK 1108
+(0xb2b4f0) Missed ACK 1108
+(0xb202c0) 1158
+(0xaf0a90) 1158
+(0xb2ebe0) 1158
+(0xb20640) Missed ACK 1271
+(0xaf0e10) Missed ACK 1271
+(0xb2ef60) Missed ACK 1271
+(0xb1c870) 1326
+(0xb4fb50) 1326
+(0xb23d10) 1326
+(0xaecf90) 1326
+(0xb535c0) 1326
+(0xaf4500) 1326
+(0xb27700) 1326
+(0xb48670) 1326
+(0xae9520) 1326
+(0xb57030) 1326
+(0xaf7fd0) 1326
+(0xb32650) 1326
+(0xaff470) 1326
+(0xb5e550) 1326
+(0xb02ec0) 1326
+(0xb2b170) 1326
+(0xae5ab0) 1326
+(0xb5ab00) 1326
+(0xafba20) 1326
+(0xb360c0) 1326
+(0xa813b0) 1326
+(0xa84d90) 1326
+(0xb118e0) 1326
+(0xb41030) 1326
+(0xb39b90) 1326
+(0xb0a310) 1326
+(0xa8c210) 1326
+(0xa8fc50) 1326
+(0xb3d5e0) 1326
+(0xb1cbf0) Missed ACK 1439
+(0xb4fed0) Missed ACK 1439
+(0xb24090) Missed ACK 1439
+(0xaed310) Missed ACK 1439
+(0xb53940) Missed ACK 1439
+(0xaf4880) Missed ACK 1439
+(0xb27a80) Missed ACK 1439
+(0xb489f0) Missed ACK 1439
+(0xae98a0) Missed ACK 1439
+(0xb573b0) Missed ACK 1439
+(0xaf8350) Missed ACK 1439
+(0xb329d0) Missed ACK 1439
+(0xaff7f0) Missed ACK 1439
+(0xb5e8d0) Missed ACK 1439
+(0xb03240) Missed ACK 1439
+(0xb2b4f0) Missed ACK 1439
+(0xae5e30) Missed ACK 1439
+(0xb5ae80) Missed ACK 1439
+(0xafbda0) Missed ACK 1439
+(0xb36440) Missed ACK 1439
+(0xa81730) Missed ACK 1439
+(0xa85110) Missed ACK 1439
+(0xb11c60) Missed ACK 1439
+(0xb413b0) Missed ACK 1439
+(0xb39f10) Missed ACK 1439
+(0xb0a690) Missed ACK 1439
+(0xa8c590) Missed ACK 1439
+(0xa8ffd0) Missed ACK 1439
+(0xb3d960) Missed ACK 1439
+(0xb23d10) 1489
+(0xb27700) 1489
+(0xb48670) 1489
+(0xb57030) 1489
+(0xb5e550) 1489
+(0xb2b170) 1489
+(0xae5ab0) 1489
+(0xafba20) 1489
+(0xb118e0) 1489
+(0xa8fc50) 1489
+(0xb24090) Missed ACK 1602
+(0xb27a80) Missed ACK 1602
+(0xb489f0) Missed ACK 1602
+(0xb573b0) Missed ACK 1602
+(0xb5e8d0) Missed ACK 1602
+(0xb2b4f0) Missed ACK 1602
+(0xae5e30) Missed ACK 1602
+(0xafbda0) Missed ACK 1602
+(0xb11c60) Missed ACK 1602
+(0xa8ffd0) Missed ACK 1602
+(0xb23d10) 1652
+(0xb57030) 1652
+(0xb5e550) 1652
+(0xae5ab0) 1652
+(0xa8fc50) 1652
+(0xb24090) Missed ACK 1765
+(0xb573b0) Missed ACK 1765
+(0xb5e8d0) Missed ACK 1765
+(0xae5e30) Missed ACK 1765
+(0xa8ffd0) Missed ACK 1765
+(0xb23d10) 1815
+(0xb61db0) 1863
+(0xb61db0) 1947
+(0xb23d10) 1991
+(0xb44a80) 2237
+(0xb4c0e0) 2237
+(0xb3d5e0) 2237
+(0xb15350) 2237
+(0xb39b90) 2237
+(0xb18e20) 2237
+(0xb118e0) 2237
+(0xb1c870) 2237
+(0xb0de70) 2237
+(0xb535c0) 2237
+(0xb360c0) 2237
+(0xae9520) 2237
+(0xa936e0) 2237
+(0xaecf90) 2237
+(0xb068a0) 2237
+(0xb32650) 2237
+(0xaf0a90) 2237
+(0xa8c210) 2237
+(0xb27700) 2237
+(0xaf4500) 2237
+(0xa887c0) 2237
+(0xaf7fd0) 2237
+(0xa84d90) 2237
+(0xaff470) 2237
+(0xb44e00) Missed ACK 2350
+(0xb4c460) Missed ACK 2350
+(0xb3d960) Missed ACK 2350
+(0xb156d0) Missed ACK 2350
+(0xb39f10) Missed ACK 2350
+(0xb191a0) Missed ACK 2350
+(0xb11c60) Missed ACK 2350
+(0xb1cbf0) Missed ACK 2350
+(0xb0e1f0) Missed ACK 2350
+(0xb53940) Missed ACK 2350
+(0xb36440) Missed ACK 2350
+(0xae98a0) Missed ACK 2350
+(0xa93a60) Missed ACK 2350
+(0xaed310) Missed ACK 2350
+(0xb06c20) Missed ACK 2350
+(0xb329d0) Missed ACK 2350
+(0xaf0e10) Missed ACK 2350
+(0xa8c590) Missed ACK 2350
+(0xb27a80) Missed ACK 2350
+(0xaf4880) Missed ACK 2350
+(0xa88b40) Missed ACK 2350
+(0xaf8350) Missed ACK 2350
+(0xa85110) Missed ACK 2350
+(0xaff7f0) Missed ACK 2350
+(0xb44a80) 2400
+(0xb39b90) 2400
+(0xb18e20) 2400
+(0xb1c870) 2400
+(0xb0de70) 2400
+(0xb535c0) 2400
+(0xb068a0) 2400
+(0xa8c210) 2400
+(0xaf4500) 2400
+(0xaf7fd0) 2400
+(0xb44e00) Missed ACK 2513
+(0xb39f10) Missed ACK 2513
+(0xb191a0) Missed ACK 2513
+(0xb1cbf0) Missed ACK 2513
+(0xb0e1f0) Missed ACK 2513
+(0xb53940) Missed ACK 2513
+(0xb06c20) Missed ACK 2513
+(0xa8c590) Missed ACK 2513
+(0xaf4880) Missed ACK 2513
+(0xaf8350) Missed ACK 2513
+(0xb44a80) 2563
+(0xb39b90) 2563
+(0xb1c870) 2563
+(0xb44e00) Missed ACK 2676
+(0xb39f10) Missed ACK 2676
+(0xb1cbf0) Missed ACK 2676
+(0xb15350) 2731
+(0xb48670) 2731
+(0xb3d5e0) 2731
+(0xb0a310) 2731
+(0xb360c0) 2731
+(0xb4c0e0) 2731
+(0xa936e0) 2731
+(0xae9520) 2731
+(0xaecf90) 2731
+(0xb068a0) 2731
+(0xb4fb50) 2731
+(0xaf0a90) 2731
+(0xa8c210) 2731
+(0xb32650) 2731
+(0xa887c0) 2731
+(0xb02ec0) 2731
+(0xb535c0) 2731
+(0xa84d90) 2731
+(0xaff470) 2731
+(0xa813b0) 2731
+(0xb2b170) 2731
+(0xb5ab00) 2731
+(0xafba20) 2731
+(0xb156d0) Missed ACK 2844
+(0xb489f0) Missed ACK 2844
+(0xb3d960) Missed ACK 2844
+(0xb0a690) Missed ACK 2844
+(0xb36440) Missed ACK 2844
+(0xb4c460) Missed ACK 2844
+(0xa93a60) Missed ACK 2844
+(0xae98a0) Missed ACK 2844
+(0xaed310) Missed ACK 2844
+(0xb06c20) Missed ACK 2844
+(0xb4fed0) Missed ACK 2844
+(0xaf0e10) Missed ACK 2844
+(0xa8c590) Missed ACK 2844
+(0xb329d0) Missed ACK 2844
+(0xa88b40) Missed ACK 2844
+(0xb03240) Missed ACK 2844
+(0xb53940) Missed ACK 2844
+(0xa85110) Missed ACK 2844
+(0xaff7f0) Missed ACK 2844
+(0xa81730) Missed ACK 2844
+(0xb2b4f0) Missed ACK 2844
+(0xb5ae80) Missed ACK 2844
+(0xafbda0) Missed ACK 2844
+(0xb0a310) 2894
+(0xb4c0e0) 2894
+(0xae9520) 2894
+(0xb4fb50) 2894
+(0xb32650) 2894
+(0xb02ec0) 2894
+(0xa813b0) 2894
+(0xb2b170) 2894
+(0xafba20) 2894
+(0xb0a690) Missed ACK 3007
+(0xb4c460) Missed ACK 3007
+(0xae98a0) Missed ACK 3007
+(0xb4fed0) Missed ACK 3007
+(0xb329d0) Missed ACK 3007
+(0xb03240) Missed ACK 3007
+(0xa81730) Missed ACK 3007
+(0xb2b4f0) Missed ACK 3007
+(0xafbda0) Missed ACK 3007
+(0xb32650) 3057
+(0xafba20) 3057
+(0xb329d0) Missed ACK 3170
+(0xafbda0) Missed ACK 3170
+(0xa84d90) 3225
+(0xa887c0) 3225
+(0xb0de70) 3225
+(0xb41030) 3225
+(0xb118e0) 3225
+(0xa936e0) 3225
+(0xb5ab00) 3225
+(0xb44a80) 3225
+(0xaf0a90) 3225
+(0xb48670) 3225
+(0xaecf90) 3225
+(0xb1c870) 3225
+(0xb4c0e0) 3225
+(0xa85110) Missed ACK 3338
+(0xa88b40) Missed ACK 3338
+(0xb0e1f0) Missed ACK 3338
+(0xb413b0) Missed ACK 3338
+(0xb11c60) Missed ACK 3338
+(0xa93a60) Missed ACK 3338
+(0xb5ae80) Missed ACK 3338
+(0xb44e00) Missed ACK 3338
+(0xaf0e10) Missed ACK 3338
+(0xb489f0) Missed ACK 3338
+(0xaed310) Missed ACK 3338
+(0xb1cbf0) Missed ACK 3338
+(0xb4c460) Missed ACK 3338
+(0xb118e0) 3388
+(0xa936e0) 3388
+(0xb44a80) 3388
+(0xb48670) 3388
+(0xaecf90) 3388
+(0xb4c0e0) 3388
+(0xb11c60) Missed ACK 3501
+(0xa93a60) Missed ACK 3501
+(0xb44e00) Missed ACK 3501
+(0xb489f0) Missed ACK 3501
+(0xaed310) Missed ACK 3501
+(0xb4c460) Missed ACK 3501
+(0xb118e0) 3551
+(0xa936e0) 3551
+(0xb11c60) Missed ACK 3664
+(0xa93a60) Missed ACK 3664
+(0xa936e0) 3714
+(0xb61db0) 3762
+(0xb61db0) 3846
+(0xa936e0) 3890
+(0xb15350) 4136
+(0xb39b90) 4136
+(0xb0de70) 4136
+(0xb1c870) 4136
+(0xb535c0) 4136
+(0xb202c0) 4136
+(0xae5ab0) 4136
+(0xa8fc50) 4136
+(0xaecf90) 4136
+(0xb068a0) 4136
+(0xb57030) 4136
+(0xa8c210) 4136
+(0xb5e550) 4136
+(0xa887c0) 4136
+(0xaf4500) 4136
+(0xb2ebe0) 4136
+(0xa84d90) 4136
+(0xaf7fd0) 4136
+(0xa813b0) 4136
+(0xb156d0) Missed ACK 4249
+(0xb39f10) Missed ACK 4249
+(0xb0e1f0) Missed ACK 4249
+(0xb1cbf0) Missed ACK 4249
+(0xb53940) Missed ACK 4249
+(0xb20640) Missed ACK 4249
+(0xae5e30) Missed ACK 4249
+(0xa8ffd0) Missed ACK 4249
+(0xaed310) Missed ACK 4249
+(0xb06c20) Missed ACK 4249
+(0xb573b0) Missed ACK 4249
+(0xa8c590) Missed ACK 4249
+(0xb5e8d0) Missed ACK 4249
+(0xa88b40) Missed ACK 4249
+(0xaf4880) Missed ACK 4249
+(0xb2ef60) Missed ACK 4249
+(0xa85110) Missed ACK 4249
+(0xaf8350) Missed ACK 4249
+(0xa81730) Missed ACK 4249
+(0xb39b90) 4299
+(0xb0de70) 4299
+(0xb535c0) 4299
+(0xa8c210) 4299
+(0xb2ebe0) 4299
+(0xb39f10) Missed ACK 4412
+(0xb0e1f0) Missed ACK 4412
+(0xb53940) Missed ACK 4412
+(0xa8c590) Missed ACK 4412
+(0xb2ef60) Missed ACK 4412
+(0xb39b90) 4462
+(0xb2ebe0) 4462
+(0xb39f10) Missed ACK 4575
+(0xb2ef60) Missed ACK 4575
+(0xb068a0) 4630
+(0xb41030) 4630
+(0xb02ec0) 4630
+(0xa887c0) 4630
+(0xa8fc50) 4630
+(0xaff470) 4630
+(0xb5e550) 4630
+(0xb15350) 4630
+(0xa813b0) 4630
+(0xb18e20) 4630
+(0xae9520) 4630
+(0xb4fb50) 4630
+(0xb535c0) 4630
+(0xaf4500) 4630
+(0xb57030) 4630
+(0xb27700) 4630
+(0xb5ab00) 4630
+(0xb06c20) Missed ACK 4743
+(0xb413b0) Missed ACK 4743
+(0xb03240) Missed ACK 4743
+(0xa88b40) Missed ACK 4743
+(0xa8ffd0) Missed ACK 4743
+(0xaff7f0) Missed ACK 4743
+(0xb5e8d0) Missed ACK 4743
+(0xb156d0) Missed ACK 4743
+(0xa81730) Missed ACK 4743
+(0xb191a0) Missed ACK 4743
+(0xae98a0) Missed ACK 4743
+(0xb4fed0) Missed ACK 4743
+(0xb53940) Missed ACK 4743
+(0xaf4880) Missed ACK 4743
+(0xb573b0) Missed ACK 4743
+(0xb27a80) Missed ACK 4743
+(0xb5ae80) Missed ACK 4743
+(0xb41030) 4793
+(0xaff470) 4793
+(0xb5e550) 4793
+(0xb15350) 4793
+(0xa813b0) 4793
+(0xb535c0) 4793
+(0xb57030) 4793
+(0xb27700) 4793
+(0xb413b0) Missed ACK 4906
+(0xaff7f0) Missed ACK 4906
+(0xb5e8d0) Missed ACK 4906
+(0xb156d0) Missed ACK 4906
+(0xa81730) Missed ACK 4906
+(0xb53940) Missed ACK 4906
+(0xb573b0) Missed ACK 4906
+(0xb27a80) Missed ACK 4906
+(0xb57030) 4956
+(0xb61db0) 5004
+(0xb61db0) 5088
+(0xb57030) 5132
+(0xb44a80) 5378
+(0xb3d5e0) 5378
+(0xb4fb50) 5378
+(0xb39b90) 5378
+(0xb535c0) 5378
+(0xb360c0) 5378
+(0xb202c0) 5378
+(0xb0a310) 5378
+(0xae5ab0) 5378
+(0xae9520) 5378
+(0xa8fc50) 5378
+(0xb27700) 5378
+(0xb02ec0) 5378
+(0xaf4500) 5378
+(0xaf7fd0) 5378
+(0xaff470) 5378
+(0xafba20) 5378
+(0xb44e00) Missed ACK 5491
+(0xb3d960) Missed ACK 5491
+(0xb4fed0) Missed ACK 5491
+(0xb39f10) Missed ACK 5491
+(0xb53940) Missed ACK 5491
+(0xb36440) Missed ACK 5491
+(0xb20640) Missed ACK 5491
+(0xb0a690) Missed ACK 5491
+(0xae5e30) Missed ACK 5491
+(0xae98a0) Missed ACK 5491
+(0xa8ffd0) Missed ACK 5491
+(0xb27a80) Missed ACK 5491
+(0xb03240) Missed ACK 5491
+(0xaf4880) Missed ACK 5491
+(0xaf8350) Missed ACK 5491
+(0xaff7f0) Missed ACK 5491
+(0xafbda0) Missed ACK 5491
+(0xb535c0) 5541
+(0xb360c0) 5541
+(0xb0a310) 5541
+(0xb27700) 5541
+(0xaf7fd0) 5541
+(0xb53940) Missed ACK 5654
+(0xb36440) Missed ACK 5654
+(0xb0a690) Missed ACK 5654
+(0xb27a80) Missed ACK 5654
+(0xaf8350) Missed ACK 5654
+(0xb360c0) 5704
+(0xb27700) 5704
+(0xb36440) Missed ACK 5817
+(0xb27a80) Missed ACK 5817
+(0xb0a310) 5872
+(0xb02ec0) 5872
+(0xb3d5e0) 5872
+(0xa8c210) 5872
+(0xaf7fd0) 5872
+(0xb2b170) 5872
+(0xaf4500) 5872
+(0xb5ab00) 5872
+(0xb41030) 5872
+(0xb202c0) 5872
+(0xb4fb50) 5872
+(0xaf0a90) 5872
+(0xb1c870) 5872
+(0xae5ab0) 5872
+(0xb18e20) 5872
+(0xb0a690) Missed ACK 5985
+(0xb03240) Missed ACK 5985
+(0xb3d960) Missed ACK 5985
+(0xa8c590) Missed ACK 5985
+(0xaf8350) Missed ACK 5985
+(0xb2b4f0) Missed ACK 5985
+(0xaf4880) Missed ACK 5985
+(0xb5ae80) Missed ACK 5985
+(0xb413b0) Missed ACK 5985
+(0xb20640) Missed ACK 5985
+(0xb4fed0) Missed ACK 5985
+(0xaf0e10) Missed ACK 5985
+(0xb1cbf0) Missed ACK 5985
+(0xae5e30) Missed ACK 5985
+(0xb191a0) Missed ACK 5985
+(0xb3d5e0) 6035
+(0xb5ab00) 6035
+(0xb41030) 6035
+(0xaf0a90) 6035
+(0xae5ab0) 6035
+(0xb18e20) 6035
+(0xb3d960) Missed ACK 6148
+(0xb5ae80) Missed ACK 6148
+(0xb413b0) Missed ACK 6148
+(0xaf0e10) Missed ACK 6148
+(0xae5e30) Missed ACK 6148
+(0xb191a0) Missed ACK 6148
+(0xb2b170) 6203
+(0xa8fc50) 6203
+(0xb068a0) 6203
+(0xafba20) 6203
+(0xa887c0) 6203
+(0xb48670) 6203
+(0xb4c0e0) 6203
+(0xb2b4f0) Missed ACK 6316
+(0xa8ffd0) Missed ACK 6316
+(0xb06c20) Missed ACK 6316
+(0xafbda0) Missed ACK 6316
+(0xa88b40) Missed ACK 6316
+(0xb489f0) Missed ACK 6316
+(0xb4c460) Missed ACK 6316
+(0xb2b170) 6366
+(0xafba20) 6366
+(0xb48670) 6366
+(0xb2b4f0) Missed ACK 6479
+(0xafbda0) Missed ACK 6479
+(0xb489f0) Missed ACK 6479
+(0xb2b170) 6529
+(0xb61db0) 6577
+(0xb61db0) 6661
+(0xb2b170) 6705
+(0xb44a80) 6951
+(0xb118e0) 6951
+(0xb068a0) 6951
+(0xaf0a90) 6951
+(0xa8c210) 6951
+(0xb27700) 6951
+(0xaf4500) 6951
+(0xa84d90) 6951
+(0xafba20) 6951
+(0xb44e00) Missed ACK 7064
+(0xb11c60) Missed ACK 7064
+(0xb06c20) Missed ACK 7064
+(0xaf0e10) Missed ACK 7064
+(0xa8c590) Missed ACK 7064
+(0xb27a80) Missed ACK 7064
+(0xaf4880) Missed ACK 7064
+(0xa85110) Missed ACK 7064
+(0xafbda0) Missed ACK 7064
+(0xb44a80) 7114
+(0xb068a0) 7114
+(0xaf4500) 7114
+(0xa84d90) 7114
+(0xb44e00) Missed ACK 7227
+(0xb06c20) Missed ACK 7227
+(0xaf4880) Missed ACK 7227
+(0xa85110) Missed ACK 7227
+(0xa84d90) 7277
+(0xb61db0) 7325
+(0xb61db0) 7409
+(0xa84d90) 7453
+(0xb44a80) 7699
+(0xb41030) 7699
+(0xb48670) 7699
+(0xb4fb50) 7699
+(0xae5ab0) 7699
+(0xae9520) 7699
+(0xa8fc50) 7699
+(0xb068a0) 7699
+(0xb32650) 7699
+(0xa8c210) 7699
+(0xaf0a90) 7699
+(0xb27700) 7699
+(0xaf4500) 7699
+(0xaf7fd0) 7699
+(0xa813b0) 7699
+(0xb44e00) Missed ACK 7812
+(0xb413b0) Missed ACK 7812
+(0xb489f0) Missed ACK 7812
+(0xb4fed0) Missed ACK 7812
+(0xae5e30) Missed ACK 7812
+(0xae98a0) Missed ACK 7812
+(0xa8ffd0) Missed ACK 7812
+(0xb06c20) Missed ACK 7812
+(0xb329d0) Missed ACK 7812
+(0xa8c590) Missed ACK 7812
+(0xaf0e10) Missed ACK 7812
+(0xb27a80) Missed ACK 7812
+(0xaf4880) Missed ACK 7812
+(0xaf8350) Missed ACK 7812
+(0xa81730) Missed ACK 7812
+(0xb44a80) 7862
+(0xb41030) 7862
+(0xb48670) 7862
+(0xb4fb50) 7862
+(0xae5ab0) 7862
+(0xa8c210) 7862
+(0xb44e00) Missed ACK 7975
+(0xb413b0) Missed ACK 7975
+(0xb489f0) Missed ACK 7975
+(0xb4fed0) Missed ACK 7975
+(0xae5e30) Missed ACK 7975
+(0xa8c590) Missed ACK 7975
+(0xb4fb50) 8025
+(0xae5ab0) 8025
+(0xb4fed0) Missed ACK 8138
+(0xae5e30) Missed ACK 8138
+(0xb1c870) 8193
+(0xaf7fd0) 8193
+(0xb44a80) 8193
+(0xa8fc50) 8193
+(0xb1cbf0) Missed ACK 8306
+(0xaf8350) Missed ACK 8306
+(0xb44e00) Missed ACK 8306
+(0xa8ffd0) Missed ACK 8306
+(0xaf7fd0) 8356
+(0xb61db0) 8405
+(0xb61db0) 8489
+(0xaf7fd0) 8533
+(0xb44a80) 8779
+(0xb48670) 8779
+(0xb4c0e0) 8779
+(0xb3d5e0) 8779
+(0xb4fb50) 8779
+(0xb18e20) 8779
+(0xb118e0) 8779
+(0xb0de70) 8779
+(0xae9520) 8779
+(0xaecf90) 8779
+(0xa8fc50) 8779
+(0xb02ec0) 8779
+(0xa887c0) 8779
+(0xb2ebe0) 8779
+(0xb44e00) Missed ACK 8892
+(0xb489f0) Missed ACK 8892
+(0xb4c460) Missed ACK 8892
+(0xb3d960) Missed ACK 8892
+(0xb4fed0) Missed ACK 8892
+(0xb191a0) Missed ACK 8892
+(0xb11c60) Missed ACK 8892
+(0xb0e1f0) Missed ACK 8892
+(0xae98a0) Missed ACK 8892
+(0xaed310) Missed ACK 8892
+(0xa8ffd0) Missed ACK 8892
+(0xb03240) Missed ACK 8892
+(0xa88b40) Missed ACK 8892
+(0xb2ef60) Missed ACK 8892
+(0xb44a80) 8942
+(0xb61db0) 8990
+(0xb61db0) 9074
+(0xb44a80) 9118
+(0xb4c0e0) 9364
+(0xb15350) 9364
+(0xb4fb50) 9364
+(0xb118e0) 9364
+(0xb1c870) 9364
+(0xb0a310) 9364
+(0xb202c0) 9364
+(0xaecf90) 9364
+(0xb32650) 9364
+(0xb5e550) 9364
+(0xa887c0) 9364
+(0xa813b0) 9364
+(0xb4c460) Missed ACK 9477
+(0xb156d0) Missed ACK 9477
+(0xb4fed0) Missed ACK 9477
+(0xb11c60) Missed ACK 9477
+(0xb1cbf0) Missed ACK 9477
+(0xb0a690) Missed ACK 9477
+(0xb20640) Missed ACK 9477
+(0xaed310) Missed ACK 9477
+(0xb329d0) Missed ACK 9477
+(0xb5e8d0) Missed ACK 9477
+(0xa88b40) Missed ACK 9477
+(0xa81730) Missed ACK 9477
+(0xb4c0e0) 9527
+(0xb4fb50) 9527
+(0xb0a310) 9527
+(0xb202c0) 9527
+(0xaecf90) 9527
+(0xa813b0) 9527
+(0xb4c460) Missed ACK 9640
+(0xb4fed0) Missed ACK 9640
+(0xb0a690) Missed ACK 9640
+(0xb20640) Missed ACK 9640
+(0xaed310) Missed ACK 9640
+(0xa81730) Missed ACK 9640
+(0xb202c0) 9690
+(0xaecf90) 9690
+(0xa813b0) 9690
+(0xb20640) Missed ACK 9803
+(0xaed310) Missed ACK 9803
+(0xa81730) Missed ACK 9803
+(0xb1c870) 9858
+(0xae9520) 9858
+(0xb48670) 9858
+(0xb118e0) 9858
+(0xaff470) 9858
+(0xb02ec0) 9858
+(0xa887c0) 9858
+(0xb3d5e0) 9858
+(0xb1cbf0) Missed ACK 9971
+(0xae98a0) Missed ACK 9971
+(0xb489f0) Missed ACK 9971
+(0xb11c60) Missed ACK 9971
+(0xaff7f0) Missed ACK 9971
+(0xb03240) Missed ACK 9971
+(0xa88b40) Missed ACK 9971
+(0xb3d960) Missed ACK 9971
+(0xb1c870) 10021
+(0xae9520) 10021
+(0xb3d5e0) 10021
+(0xb1cbf0) Missed ACK 10134
+(0xae98a0) Missed ACK 10134
+(0xb3d960) Missed ACK 10134
+(0xb18e20) 10189
+(0xb202c0) 10189
+(0xb0de70) 10189
+(0xb5ab00) 10189
+(0xb0a310) 10189
+(0xb360c0) 10189
+(0xb2ebe0) 10189
+(0xb191a0) Missed ACK 10302
+(0xb20640) Missed ACK 10302
+(0xb0e1f0) Missed ACK 10302
+(0xb5ae80) Missed ACK 10302
+(0xb0a690) Missed ACK 10302
+(0xb36440) Missed ACK 10302
+(0xb2ef60) Missed ACK 10302
+(0xb18e20) 10352
+(0xb0de70) 10352
+(0xb0a310) 10352
+(0xb191a0) Missed ACK 10465
+(0xb0e1f0) Missed ACK 10465
+(0xb0a690) Missed ACK 10465
+(0xb0de70) 10515
+(0xb61db0) 10563
+(0xb61db0) 10647
+(0xb0de70) 10691
+(0xb48670) 10937
+(0xb3d5e0) 10937
+(0xb39b90) 10937
+(0xb15350) 10937
+(0xb4fb50) 10937
+(0xb18e20) 10937
+(0xb360c0) 10937
+(0xb32650) 10937
+(0xb5e550) 10937
+(0xb02ec0) 10937
+(0xb2ebe0) 10937
+(0xb5ab00) 10937
+(0xaff470) 10937
+(0xb489f0) Missed ACK 11050
+(0xb3d960) Missed ACK 11050
+(0xb39f10) Missed ACK 11050
+(0xb156d0) Missed ACK 11050
+(0xb4fed0) Missed ACK 11050
+(0xb191a0) Missed ACK 11050
+(0xb36440) Missed ACK 11050
+(0xb329d0) Missed ACK 11050
+(0xb5e8d0) Missed ACK 11050
+(0xb03240) Missed ACK 11050
+(0xb2ef60) Missed ACK 11050
+(0xb5ae80) Missed ACK 11050
+(0xaff7f0) Missed ACK 11050
+(0xb3d5e0) 11100
+(0xb2ebe0) 11100
+(0xb3d960) Missed ACK 11213
+(0xb2ef60) Missed ACK 11213
+(0xb0a310) 11268
+(0xb15350) 11268
+(0xae5ab0) 11268
+(0xb32650) 11268
+(0xb02ec0) 11268
+(0xaff470) 11268
+(0xb4fb50) 11268
+(0xb5ab00) 11268
+(0xb0a690) Missed ACK 11381
+(0xb156d0) Missed ACK 11381
+(0xae5e30) Missed ACK 11381
+(0xb329d0) Missed ACK 11381
+(0xb03240) Missed ACK 11381
+(0xaff7f0) Missed ACK 11381
+(0xb4fed0) Missed ACK 11381
+(0xb5ae80) Missed ACK 11381
+(0xb15350) 11431
+(0xb5ab00) 11431
+(0xb156d0) Missed ACK 11544
+(0xb5ae80) Missed ACK 11544
+(0xb48670) 11599
+(0xb41030) 11599
+(0xb3d5e0) 11599
+(0xb4fb50) 11599
+(0xb535c0) 11599
+(0xb360c0) 11599
+(0xaff470) 11599
+(0xb5e550) 11599
+(0xb489f0) Missed ACK 11712
+(0xb413b0) Missed ACK 11712
+(0xb3d960) Missed ACK 11712
+(0xb4fed0) Missed ACK 11712
+(0xb53940) Missed ACK 11712
+(0xb36440) Missed ACK 11712
+(0xaff7f0) Missed ACK 11712
+(0xb5e8d0) Missed ACK 11712
+(0xb48670) 11762
+(0xb5e550) 11762
+(0xb489f0) Missed ACK 11875
+(0xb5e8d0) Missed ACK 11875
+(0xb3d5e0) 11930
+(0xb360c0) 11930
+(0xb068a0) 11930
+(0xb3d960) Missed ACK 12043
+(0xb36440) Missed ACK 12043
+(0xb06c20) Missed ACK 12043
+(0xa887c0) 12098
+(0xb1c870) 12098
+(0xa88b40) Missed ACK 12211
+(0xb1cbf0) Missed ACK 12211
+(0xb3d5e0) 12266
+(0xb5e550) 12266
+(0xb3d960) Missed ACK 12379
+(0xb5e8d0) Missed ACK 12379
+(0xb39b90) 12434
+(0xa8c210) 12434
+(0xa887c0) 12434
+(0xb1c870) 12434
+(0xb535c0) 12434
+(0xafba20) 12434
+(0xb39f10) Missed ACK 12547
+(0xa8c590) Missed ACK 12547
+(0xa88b40) Missed ACK 12547
+(0xb1cbf0) Missed ACK 12547
+(0xb53940) Missed ACK 12547
+(0xafbda0) Missed ACK 12547
+(0xb3d5e0) 12602
+(0xb0a310) 12602
+(0xb068a0) 12602
+(0xa8fc50) 12602
+(0xae5ab0) 12602
+(0xaf0a90) 12602
+(0xb3d960) Missed ACK 12715
+(0xb0a690) Missed ACK 12715
+(0xb06c20) Missed ACK 12715
+(0xa8ffd0) Missed ACK 12715
+(0xae5e30) Missed ACK 12715
+(0xaf0e10) Missed ACK 12715
+(0xb18e20) 12770
+(0xaf4500) 12770
+(0xb191a0) Missed ACK 12883
+(0xaf4880) Missed ACK 12883
+(0xb1c870) 12938
+(0xaecf90) 12938
+(0xaf0a90) 12938
+(0xb39b90) 12938
+(0xb068a0) 12938
+(0xb1cbf0) Missed ACK 13051
+(0xaed310) Missed ACK 13051
+(0xaf0e10) Missed ACK 13051
+(0xb39f10) Missed ACK 13051
+(0xb06c20) Missed ACK 13051
+(0xb1c870) 13101
+(0xb39b90) 13101
+(0xb1cbf0) Missed ACK 13214
+(0xb39f10) Missed ACK 13214
+(0xb18e20) 13269
+(0xb27700) 13269
+(0xb41030) 13269
+(0xb068a0) 13269
+(0xa887c0) 13269
+(0xb5e550) 13269
+(0xb191a0) Missed ACK 13382
+(0xb27a80) Missed ACK 13382
+(0xb413b0) Missed ACK 13382
+(0xb06c20) Missed ACK 13382
+(0xa88b40) Missed ACK 13382
+(0xb5e8d0) Missed ACK 13382
+(0xb5e550) 13432
+(0xb61db0) 13480
+(0xb61db0) 13564
+(0xb5e550) 13608
+(0xb41030) 13854
+(0xb39b90) 13854
+(0xb1c870) 13854
+(0xb535c0) 13854
+(0xb0a310) 13854
+(0xaecf90) 13854
+(0xb32650) 13854
+(0xb068a0) 13854
+(0xaf0a90) 13854
+(0xaf4500) 13854
+(0xa813b0) 13854
+(0xb413b0) Missed ACK 13967
+(0xb39f10) Missed ACK 13967
+(0xb1cbf0) Missed ACK 13967
+(0xb53940) Missed ACK 13967
+(0xb0a690) Missed ACK 13967
+(0xaed310) Missed ACK 13967
+(0xb329d0) Missed ACK 13967
+(0xb06c20) Missed ACK 13967
+(0xaf0e10) Missed ACK 13967
+(0xaf4880) Missed ACK 13967
+(0xa81730) Missed ACK 13967
+(0xb535c0) 14017
+(0xb0a310) 14017
+(0xb32650) 14017
+(0xb53940) Missed ACK 14130
+(0xb0a690) Missed ACK 14130
+(0xb329d0) Missed ACK 14130
+(0xb360c0) 14185
+(0xa887c0) 14185
+(0xb4c0e0) 14185
+(0xaf0a90) 14185
+(0xafba20) 14185
+(0xae5ab0) 14185
+(0xb36440) Missed ACK 14298
+(0xa88b40) Missed ACK 14298
+(0xb4c460) Missed ACK 14298
+(0xaf0e10) Missed ACK 14298
+(0xafbda0) Missed ACK 14298
+(0xae5e30) Missed ACK 14298
+(0xa887c0) 14348
+(0xae5ab0) 14348
+(0xa88b40) Missed ACK 14461
+(0xae5e30) Missed ACK 14461
+(0xb0a310) 14516
+(0xae9520) 14516
+(0xb2ebe0) 14516
+(0xb118e0) 14516
+(0xb18e20) 14516
+(0xb41030) 14516
+(0xaf0a90) 14516
+(0xaf4500) 14516
+(0xb535c0) 14516
+(0xb27700) 14516
+(0xafba20) 14516
+(0xb0a690) Missed ACK 14629
+(0xae98a0) Missed ACK 14629
+(0xb2ef60) Missed ACK 14629
+(0xb11c60) Missed ACK 14629
+(0xb191a0) Missed ACK 14629
+(0xb413b0) Missed ACK 14629
+(0xaf0e10) Missed ACK 14629
+(0xaf4880) Missed ACK 14629
+(0xb53940) Missed ACK 14629
+(0xb27a80) Missed ACK 14629
+(0xafbda0) Missed ACK 14629
+(0xb18e20) 14679
+(0xb41030) 14679
+(0xaf4500) 14679
+(0xb191a0) Missed ACK 14792
+(0xb413b0) Missed ACK 14792
+(0xaf4880) Missed ACK 14792
+(0xb18e20) 14842
+(0xaf4500) 14842
+(0xb191a0) Missed ACK 14955
+(0xaf4880) Missed ACK 14955
+(0xae9520) 15010
+(0xb4c0e0) 15010
+(0xae5ab0) 15010
+(0xb27700) 15010
+(0xa8c210) 15010
+(0xb5ab00) 15010
+(0xb360c0) 15010
+(0xb32650) 15010
+(0xae98a0) Missed ACK 15123
+(0xb4c460) Missed ACK 15123
+(0xae5e30) Missed ACK 15123
+(0xb27a80) Missed ACK 15123
+(0xa8c590) Missed ACK 15123
+(0xb5ae80) Missed ACK 15123
+(0xb36440) Missed ACK 15123
+(0xb329d0) Missed ACK 15123
+(0xb4c0e0) 15173
+(0xb27700) 15173
+(0xb32650) 15173
+(0xb4c460) Missed ACK 15286
+(0xb27a80) Missed ACK 15286
+(0xb329d0) Missed ACK 15286
+(0xb4c0e0) 15336
+(0xb61db0) 15384
+(0xb61db0) 15468
+(0xb4c0e0) 15512
+(0xb1c870) 15758
+(0xb202c0) 15758
+(0xaecf90) 15758
+(0xb32650) 15758
+(0xb27700) 15758
+(0xb02ec0) 15758
+(0xb2ebe0) 15758
+(0xafba20) 15758
+(0xb1cbf0) Missed ACK 15871
+(0xb20640) Missed ACK 15871
+(0xaed310) Missed ACK 15871
+(0xb329d0) Missed ACK 15871
+(0xb27a80) Missed ACK 15871
+(0xb03240) Missed ACK 15871
+(0xb2ef60) Missed ACK 15871
+(0xafbda0) Missed ACK 15871
+(0xaecf90) 15921
+(0xb27700) 15921
+(0xaed310) Missed ACK 16034
+(0xb27a80) Missed ACK 16034
+(0xae9520) 16089
+(0xafba20) 16089
+(0xb5ab00) 16089
+(0xb4fb50) 16089
+(0xa8fc50) 16089
+(0xae98a0) Missed ACK 16202
+(0xafbda0) Missed ACK 16202
+(0xb5ae80) Missed ACK 16202
+(0xb4fed0) Missed ACK 16202
+(0xa8ffd0) Missed ACK 16202
+(0xae9520) 16252
+(0xb61db0) 16300
+(0xb61db0) 16384
+(0xae9520) 16429
+(0xaecf90) 16675
+(0xb32650) 16675
+(0xa813b0) 16675
+(0xaed310) Missed ACK 16788
+(0xb329d0) Missed ACK 16788
+(0xa81730) Missed ACK 16788
+(0xa813b0) 16838
+(0xb61db0) 16886
+(0xb61db0) 16970
+(0xa813b0) 17014
+(0xb15350) 17260
+(0xb360c0) 17260
+(0xb202c0) 17260
+(0xa8c210) 17260
+(0xb2ebe0) 17260
+(0xaff470) 17260
+(0xb156d0) Missed ACK 17373
+(0xb36440) Missed ACK 17373
+(0xb20640) Missed ACK 17373
+(0xa8c590) Missed ACK 17373
+(0xb2ef60) Missed ACK 17373
+(0xaff7f0) Missed ACK 17373
+(0xb15350) 17423
+(0xb202c0) 17423
+(0xb2ebe0) 17423
+(0xb156d0) Missed ACK 17536
+(0xb20640) Missed ACK 17536
+(0xb2ef60) Missed ACK 17536
+(0xb5ab00) 17591
+(0xb61db0) 17639
+(0xb61db0) 17723
+(0xb5ab00) 17767
+(0xb15350) 18013
+(0xb360c0) 18013
+(0xa8fc50) 18013
+(0xa8c210) 18013
+(0xb2ebe0) 18013
+(0xb156d0) Missed ACK 18126
+(0xb36440) Missed ACK 18126
+(0xa8ffd0) Missed ACK 18126
+(0xa8c590) Missed ACK 18126
+(0xb2ef60) Missed ACK 18126
+(0xb15350) 18176
+(0xb61db0) 18224
+(0xb61db0) 18308
+(0xb15350) 18352
+(0xb118e0) 18598
+(0xb360c0) 18598
+(0xb202c0) 18598
+(0xae5ab0) 18598
+(0xa8c210) 18598
+(0xb11c60) Missed ACK 18711
+(0xb36440) Missed ACK 18711
+(0xb20640) Missed ACK 18711
+(0xae5e30) Missed ACK 18711
+(0xa8c590) Missed ACK 18711
+(0xa8fc50) 18766
+(0xb1c870) 18766
+(0xb02ec0) 18766
+(0xaf4500) 18766
+(0xa8ffd0) Missed ACK 18879
+(0xb1cbf0) Missed ACK 18879
+(0xb03240) Missed ACK 18879
+(0xaf4880) Missed ACK 18879
+(0xb202c0) 18934
+(0xb32650) 18934
+(0xb4fb50) 18934
+(0xb360c0) 18934
+(0xb39b90) 18934
+(0xb20640) Missed ACK 19047
+(0xb329d0) Missed ACK 19047
+(0xb4fed0) Missed ACK 19047
+(0xb36440) Missed ACK 19047
+(0xb39f10) Missed ACK 19047
+(0xaff470) 19102
+(0xb118e0) 19102
+(0xa8fc50) 19102
+(0xaff7f0) Missed ACK 19215
+(0xb11c60) Missed ACK 19215
+(0xa8ffd0) Missed ACK 19215
+(0xb32650) 19270
+(0xb61db0) 19318
+(0xb61db0) 19402
+(0xb32650) 19446
+(0xb118e0) 19692
+(0xb02ec0) 19692
+(0xaff470) 19692
+(0xb11c60) Missed ACK 19805
+(0xb03240) Missed ACK 19805
+(0xaff7f0) Missed ACK 19805
+(0xb118e0) 19855
+(0xaff470) 19855
+(0xb11c60) Missed ACK 19968
+(0xaff7f0) Missed ACK 19968
+(0xb3d5e0) 20023
+(0xb1c870) 20023
+(0xb02ec0) 20023
+(0xb3d960) Missed ACK 20136
+(0xb1cbf0) Missed ACK 20136
+(0xb03240) Missed ACK 20136
+(0xb1c870) 20186
+(0xb61db0) 20234
+(0xb61db0) 20318
+(0xb1c870) 20362
+(0xb3d5e0) 20608
+(0xae5ab0) 20608
+(0xaecf90) 20608
+(0xb27700) 20608
+(0xb02ec0) 20608
+(0xaf4500) 20608
+(0xaff470) 20608
+(0xb3d960) Missed ACK 20721
+(0xae5e30) Missed ACK 20721
+(0xaed310) Missed ACK 20721
+(0xb27a80) Missed ACK 20721
+(0xb03240) Missed ACK 20721
+(0xaf4880) Missed ACK 20721
+(0xaff7f0) Missed ACK 20721
+(0xb27700) 20771
+(0xb61db0) 20819
+(0xb61db0) 20903
+(0xb27700) 20947
+(0xb41030) 21193
+(0xb202c0) 21193
+(0xb413b0) Missed ACK 21306
+(0xb20640) Missed ACK 21306
+(0xb3d5e0) 21361
+(0xb39b90) 21361
+(0xaf0a90) 21361
+(0xaf4500) 21361
+(0xb360c0) 21361
+(0xb3d960) Missed ACK 21474
+(0xb39f10) Missed ACK 21474
+(0xaf0e10) Missed ACK 21474
+(0xaf4880) Missed ACK 21474
+(0xb36440) Missed ACK 21474
+(0xae5ab0) 21529
+(0xb4fb50) 21529
+(0xb2ebe0) 21529
+(0xae5e30) Missed ACK 21642
+(0xb4fed0) Missed ACK 21642
+(0xb2ef60) Missed ACK 21642
+(0xb41030) 21697
+(0xb48670) 21697
+(0xb02ec0) 21697
+(0xaf4500) 21697
+(0xb413b0) Missed ACK 21810
+(0xb489f0) Missed ACK 21810
+(0xb03240) Missed ACK 21810
+(0xaf4880) Missed ACK 21810
+(0xb118e0) 21865
+(0xb3d5e0) 21865
+(0xb360c0) 21865
+(0xb11c60) Missed ACK 21978
+(0xb3d960) Missed ACK 21978
+(0xb36440) Missed ACK 21978
+(0xb3d5e0) 22028
+(0xb61db0) 22077
+(0xb61db0) 22161
+(0xb3d5e0) 22205
+(0xb535c0) 22451
+(0xae5ab0) 22451
+(0xaf0a90) 22451
+(0xaf4500) 22451
+(0xb53940) Missed ACK 22564
+(0xae5e30) Missed ACK 22564
+(0xaf0e10) Missed ACK 22564
+(0xaf4880) Missed ACK 22564
+(0xae5ab0) 22614
+(0xaf4500) 22614
+(0xae5e30) Missed ACK 22727
+(0xaf4880) Missed ACK 22727
+(0xae5ab0) 22777
+(0xb61db0) 22825
+(0xb61db0) 22909
+(0xae5ab0) 22953
+(0xb360c0) 23199
+(0xb202c0) 23199
+(0xb2ebe0) 23199
+(0xb36440) Missed ACK 23312
+(0xb20640) Missed ACK 23312
+(0xb2ef60) Missed ACK 23312
+(0xb360c0) 23362
+(0xb61db0) 23410
+(0xb61db0) 23494
+(0xb360c0) 23538
+(0xb39b90) 23784
+(0xb4fb50) 23784
+(0xb18e20) 23784
+(0xaf4500) 23784
+(0xb39f10) Missed ACK 23897
+(0xb4fed0) Missed ACK 23897
+(0xb191a0) Missed ACK 23897
+(0xaf4880) Missed ACK 23897
+(0xb202c0) 23952
+(0xb068a0) 23952
+(0xaf0a90) 23952
+(0xb20640) Missed ACK 24065
+(0xb06c20) Missed ACK 24065
+(0xaf0e10) Missed ACK 24065
+(0xb202c0) 24115
+(0xb61db0) 24163
+(0xb61db0) 24247
+(0xb202c0) 24291
+(0xb068a0) 24537
+(0xb61db0) 24585
+(0xb61db0) 24669
+(0xb068a0) 24713
+(0xb41030) 24959
+(0xb4fb50) 24959
+(0xb18e20) 24959
+(0xa887c0) 24959
+(0xb413b0) Missed ACK 25072
+(0xb4fed0) Missed ACK 25072
+(0xb191a0) Missed ACK 25072
+(0xa88b40) Missed ACK 25072
+(0xb118e0) 25127
+(0xb39b90) 25127
+(0xaecf90) 25127
+(0xaf0a90) 25127
+(0xaf4500) 25127
+(0xafba20) 25127
+(0xb2ebe0) 25127
+(0xb11c60) Missed ACK 25240
+(0xb39f10) Missed ACK 25240
+(0xaed310) Missed ACK 25240
+(0xaf0e10) Missed ACK 25240
+(0xaf4880) Missed ACK 25240
+(0xafbda0) Missed ACK 25240
+(0xb2ef60) Missed ACK 25240
+(0xaf0a90) 25290
+(0xb61db0) 25338
+(0xb61db0) 25422
+(0xaf0a90) 25466
+(0xb4fb50) 25712
+(0xb39b90) 25712
+(0xb2ebe0) 25712
+(0xb4fed0) Missed ACK 25825
+(0xb39f10) Missed ACK 25825
+(0xb2ef60) Missed ACK 25825
+(0xb2ebe0) 25875
+(0xb61db0) 25923
+(0xb61db0) 26007
+(0xb2ebe0) 26051
+(0xb39b90) 26297
+(0xb61db0) 26345
+(0xb61db0) 26429
+(0xb39b90) 26473
+(0xb48670) 26719
+(0xb18e20) 26719
+(0xa8fc50) 26719
+(0xb489f0) Missed ACK 26832
+(0xb191a0) Missed ACK 26832
+(0xa8ffd0) Missed ACK 26832
+(0xb41030) 26887
+(0xb118e0) 26887
+(0xb0a310) 26887
+(0xb413b0) Missed ACK 27000
+(0xb11c60) Missed ACK 27000
+(0xb0a690) Missed ACK 27000
+(0xaf4500) 27056
+(0xb61db0) 27104
+(0xb61db0) 27188
+(0xaf4500) 27232
+(0xaecf90) 27478
+(0xb02ec0) 27478
+(0xaed310) Missed ACK 27591
+(0xb03240) Missed ACK 27591
+(0xb02ec0) 27641
+(0xb61db0) 27689
+(0xb61db0) 27773
+(0xb02ec0) 27817
+(0xb41030) 28063
+(0xb118e0) 28063
+(0xb413b0) Missed ACK 28176
+(0xb11c60) Missed ACK 28176
+(0xb41030) 28226
+(0xb61db0) 28274
+(0xb61db0) 28358
+(0xb41030) 28402
+(0xb18e20) 28648
+(0xafba20) 28648
+(0xb191a0) Missed ACK 28761
+(0xafbda0) Missed ACK 28761
+(0xb118e0) 28816
+(0xb535c0) 28816
+(0xb11c60) Missed ACK 28929
+(0xb53940) Missed ACK 28929
+(0xb118e0) 28979
+(0xb535c0) 28979
+(0xb11c60) Missed ACK 29092
+(0xb53940) Missed ACK 29092
+(0xaecf90) 29147
+(0xb61db0) 29195
+(0xb61db0) 29279
+(0xaecf90) 29323
+(0xb18e20) 29569
+(0xa8c210) 29569
+(0xb191a0) Missed ACK 29682
+(0xa8c590) Missed ACK 29682
+(0xb48670) 29737
+(0xb61db0) 29785
+(0xb61db0) 29869
+(0xb48670) 29913
+(0xb18e20) 30159
+(0xb535c0) 30159
+(0xb191a0) Missed ACK 30272
+(0xb53940) Missed ACK 30272
+(0xb0a310) 30327
+(0xb61db0) 30375
+(0xb61db0) 30459
+(0xb0a310) 30503
+(0xb535c0) 30749
+(0xb61db0) 30797
+(0xb61db0) 30881
+(0xb535c0) 30925
+(0xa887c0) 31171
+(0xafba20) 31171
+(0xa88b40) Missed ACK 31284
+(0xafbda0) Missed ACK 31284
+(0xa887c0) 31334
+(0xb61db0) 31383
+(0xb61db0) 31467
+(0xa887c0) 31511
+(0xb118e0) 31757
+(0xa8fc50) 31757
+(0xb11c60) Missed ACK 31870
+(0xa8ffd0) Missed ACK 31870
+(0xaff470) 31945
+(0xafba20) 31945
+(0xaff7f0) Missed ACK 32058
+(0xafbda0) Missed ACK 32058
+(0xafba20) 32128
+(0xb61db0) 32176
+(0xb61db0) 32260
+(0xafba20) 32304
+(0xaff470) 32550
+(0xb61db0) 32598
+(0xb61db0) 32682
+(0xaff470) 32726
+(0xa8c210) 32992
+(0xb61db0) 33040
+(0xb61db0) 33124
+(0xa8c210) 33168
+(0xa8fc50) 33434
+(0xb61db0) 33482
+(0xb61db0) 33566
+(0xa8fc50) 33610
+(0xb118e0) 34176
+(0xb61db0) 34224
+(0xb61db0) 34308
+(0xb118e0) 34352
+(0xb4fb50) 34798
+(0xb61db0) 34846
+(0xb61db0) 34930
+(0xb4fb50) 34974
+(0xb18e20) 35520
+(0xb61db0) 35569
+(0xb61db0) 35653
+(0xb18e20) 35697
+(0xb61db0) 102400
+(0xb61db0) 204800
+(0xb61db0) 307200
+(0xb61db0) 409600
+(0xb61db0) 512000
+(0xb61db0) 614400
+(0xb61db0) 716800
+(0xb61db0) 819200
+(0xb61db0) 921600
+(0xb61db0) 1024000
+(0xb61db0) 1126400
+(0xb61db0) 1228800
+(0xb61db0) 1331200
+(0xb61db0) 1433600
+(0xb61db0) 1536000
+(0xb61db0) 1638400
+(0xb61db0) 1740800
+(0xb61db0) 1843200
+(0xb61db0) 1945600
+(0xb61db0) 2048000
+(0xb61db0) 2150400
+(0xb61db0) 2252800
+(0xb61db0) 2355200
+(0xb61db0) 2457600
+(0xb61db0) 2560000
+(0xb61db0) 2662400
+(0xb61db0) 2764800
+(0xb61db0) 2867200
+(0xb61db0) 2969600
+(0xb61db0) 3072000
+(0xb61db0) 3174400
+(0xb61db0) 3276800
+(0xb61db0) 3379200
+(0xb61db0) 3481600
+(0xb61db0) 3584000
+(0xb61db0) 3686400
+(0xb61db0) 3788800
+(0xb61db0) 3891200
+(0xb61db0) 3993600
+(0xb61db0) 4096000
+(0xb61db0) 4198400
+(0xb61db0) 4300800
+(0xb61db0) 4403200
+(0xb61db0) 4505600
+(0xb61db0) 4608000
+(0xb61db0) 4710400
+(0xb61db0) 4812800
+(0xb61db0) 4915200
+(0xb61db0) 5017600
+(0xb61db0) 5120000
+(0xb61db0) 5222400
+(0xb61db0) 5324800
+(0xb61db0) 5427200
+(0xb61db0) 5529600
+(0xb61db0) 5632000
+(0xb61db0) 5734400
+(0xb61db0) 5836800
+(0xb61db0) 5939200
+(0xb61db0) 6041600
+(0xb61db0) 6144000
+(0xb61db0) 6246400
+(0xb61db0) 6348800
+(0xb61db0) 6451200
+(0xb61db0) 6553600
+(0xb61db0) 6656000
+(0xb61db0) 6758400
+(0xb61db0) 6860800
+(0xb61db0) 6963200
+(0xb61db0) 7065600
+(0xb61db0) 7168000
+(0xb61db0) 7270400
+(0xb61db0) 7372800
+(0xb61db0) 7475200
+(0xb61db0) 7577600
+(0xb61db0) 7680000
+(0xb61db0) 7782400
+(0xb61db0) 7884800
+(0xb61db0) 7987200
+(0xb61db0) 8089600
+(0xb61db0) 8192000
+(0xb61db0) 8294400
+(0xb61db0) 8396800
+(0xb61db0) 8499200
+(0xb61db0) 8601600
+(0xb61db0) 8704000
+(0xb61db0) 8806400
+(0xb61db0) 8908800
+(0xb61db0) 9011200
+(0xb61db0) 9113600
+(0xb61db0) 9216000
+(0xb61db0) 9318400
+(0xb61db0) 9420800
+(0xb61db0) 9523200
+(0xb61db0) 9625600
+(0xb61db0) 9728000
+(0xb61db0) 9830400
+(0xb61db0) 9932800
+(0xb61db0) 10035200
+(0xb61db0) 10137600
+(0xb61db0) 10240000
+(0xb61db0) 10342400
+(0xb61db0) 10444800
+(0xb61db0) 10547200
+(0xb61db0) 10649600
+(0xb61db0) 10752000
+(0xb61db0) 10854400
+(0xb61db0) 10956800
+(0xb61db0) 11059200
+(0xb61db0) 11161600
+(0xb61db0) 11264000
+(0xb61db0) 11366400
+(0xb61db0) 11468800
+(0xb61db0) 11571200
+(0xb61db0) 11673600
+(0xb61db0) 11776000
+(0xb61db0) 11878400
+(0xb61db0) 11980800
+(0xb61db0) 12083200
+(0xb61db0) 12185600
+(0xb61db0) 12288000
+(0xb61db0) 12390400
+(0xb61db0) 12492800
+(0xb61db0) 12595200
+(0xb61db0) 12697600
+(0xb61db0) 12800000
+(0xb61db0) 12902400
+(0xb61db0) 13004800
+(0xb61db0) 13107200
+(0xb61db0) 13209600
+(0xb61db0) 13312000
+(0xb61db0) 13414400
+(0xb61db0) 13516800
+(0xb61db0) 13619200
+(0xb61db0) 13721600
+(0xb61db0) 13824000
+(0xb61db0) 13926400
+(0xb61db0) 14028800
+(0xb61db0) 14131200
+(0xb61db0) 14233600
+(0xb61db0) 14336000
+(0xb61db0) 14438400
+(0xb61db0) 14540800
+(0xb61db0) 14643200
+(0xb61db0) 14745600
+(0xb61db0) 14848000
+(0xb61db0) 14950400
+(0xb61db0) 15052800
+(0xb61db0) 15155200
+(0xb61db0) 15257600
+(0xb61db0) 15360000
+(0xb61db0) 15462400
+(0xb61db0) 15564800
+(0xb61db0) 15667200
+(0xb61db0) 15769600
+(0xb61db0) 15872000
+(0xb61db0) 15974400
+(0xb61db0) 16076800
+(0xb61db0) 16179200
+(0xb61db0) 16281600
+(0xb61db0) 16384000
+(0xb61db0) 16486400
+(0xb61db0) 16588800
+(0xb61db0) 16691200
+(0xb61db0) 16793600
+(0xb61db0) 16896000
+(0xb61db0) 16998400
+(0xb61db0) 17100800
+(0xb61db0) 17203200
+(0xb61db0) 17305600
+(0xb61db0) 17408000
+(0xb61db0) 17510400
+(0xb61db0) 17612800
+(0xb61db0) 17715200
+(0xb61db0) 17817600
+(0xb61db0) 17920000
+(0xb61db0) 18022400
+(0xb61db0) 18124800
+(0xb61db0) 18227200
+(0xb61db0) 18329600
+(0xb61db0) 18432000
+(0xb61db0) 18534400
+(0xb61db0) 18636800
+(0xb61db0) 18739200
+(0xb61db0) 18841600
+(0xb61db0) 18944000
+(0xb61db0) 19046400
+(0xb61db0) 19148800
+(0xb61db0) 19251200
+(0xb61db0) 19353600
+(0xb61db0) 19456000
+(0xb61db0) 19558400
+(0xb61db0) 19660800
+(0xb61db0) 19763200
+(0xb61db0) 19865600
+(0xb61db0) 19968000
+(0xb61db0) 20070400
+(0xb61db0) 20172800
+(0xb61db0) 20275200
+(0xb61db0) 20377600
+(0xb61db0) 20480000
+(0xb61db0) 20582400
+(0xb61db0) 20684800
+(0xb61db0) 20787200
+(0xb61db0) 20889600
+(0xb61db0) 20992000
+(0xb61db0) 21094400
+(0xb61db0) 21196800
+(0xb61db0) 21299200
+(0xb61db0) 21401600
+(0xb61db0) 21504000
+(0xb61db0) 21606400
+(0xb61db0) 21708800
+(0xb61db0) 21811200
+(0xb61db0) 21913600
+(0xb61db0) 22016000
+(0xb61db0) 22118400
+(0xb61db0) 22220800
+(0xb61db0) 22323200
+(0xb61db0) 22425600
+(0xb61db0) 22528000
+(0xb61db0) 22630400
+(0xb61db0) 22732800
+(0xb61db0) 22835200
+(0xb61db0) 22937600
+(0xb61db0) 23040000
+(0xb61db0) 23142400
+(0xb61db0) 23244800
+(0xb61db0) 23347200
+(0xb61db0) 23449600
+(0xb61db0) 23552000
+(0xb61db0) 23654400
+(0xb61db0) 23756800
+(0xb61db0) 23859200
+(0xb61db0) 23961600
+(0xb61db0) 24064000
+(0xb61db0) 24166400
+(0xb61db0) 24268800
+(0xb61db0) 24371200
+(0xb61db0) 24473600
+(0xb61db0) 24576000
+(0xb61db0) 24678400
+(0xb61db0) 24780800
+(0xb61db0) 24883200
+(0xb61db0) 24985600
+(0xb61db0) 25088000
+(0xb61db0) 25190400
+(0xb61db0) 25292800
+(0xb61db0) 25395200
+(0xb61db0) 25497600
+(0xb61db0) 25600000
+(0xb61db0) 25702400
+(0xb61db0) 25804800
+(0xb61db0) 25907200
+(0xb61db0) 26009600
+(0xb61db0) 26112000
+(0xb61db0) 26214400
+(0xb61db0) 26316800
+(0xb61db0) 26419200
+(0xb61db0) 26521600
+(0xb61db0) 26624000
+(0xb61db0) 26726400
+(0xb61db0) 26828800
+(0xb61db0) 26931200
+(0xb61db0) 27033600
+(0xb61db0) 27136000
+(0xb61db0) 27238400
+(0xb61db0) 27340800
+(0xb61db0) 27443200
+(0xb61db0) 27545600
+(0xb61db0) 27648000
+(0xb61db0) 27750400
+(0xb61db0) 27852800
+(0xb61db0) 27955200
+(0xb61db0) 28057600
+(0xb61db0) 28160000
+(0xb61db0) 28262400
+(0xb61db0) 28364800
+(0xb61db0) 28467200
+(0xb61db0) 28569600
+(0xb61db0) 28672000
+(0xb61db0) 28774400
+(0xb61db0) 28876800
+(0xb61db0) 28979200
+(0xb61db0) 29081600
+(0xb61db0) 29184000
+(0xb61db0) 29286400
+(0xb61db0) 29388800
+(0xb61db0) 29491200
+(0xb61db0) 29593600
+(0xb61db0) 29696000
+(0xb61db0) 29798400
+(0xb61db0) 29900800
+(0xb02ec0) 30000000
+(0xb202c0) 30000000
+(0xb27700) 30000000
+(0xb2ebe0) 30000000
+(0xb39b90) 30000000
+(0xb03240) Missed ACK 30000113
+(0xb20640) Missed ACK 30000113
+(0xb27a80) Missed ACK 30000113
+(0xb2ef60) Missed ACK 30000113
+(0xb39f10) Missed ACK 30000113
+(0xb02ec0) 30000163
+(0xb202c0) 30000163
+(0xb39b90) 30000163
+(0xb03240) Missed ACK 30000276
+(0xb20640) Missed ACK 30000276
+(0xb39f10) Missed ACK 30000276
+(0xb02ec0) 30000326
+(0xb202c0) 30000326
+(0xb03240) Missed ACK 30000439
+(0xb20640) Missed ACK 30000439
+(0xb2ebe0) 30000494
+(0xb39b90) 30000494
+(0xb2ef60) Missed ACK 30000607
+(0xb39f10) Missed ACK 30000607
+(0xb2ebe0) 30000657
+(0xb61db0) 30000705
+(0xb61db0) 30000789
+(0xb15350) 30001543
+(0xae9520) 30001543
+(0xb068a0) 30001543
+(0xb57030) 30001543
+(0xb156d0) Missed ACK 30001656
+(0xae98a0) Missed ACK 30001656
+(0xb06c20) Missed ACK 30001656
+(0xb573b0) Missed ACK 30001656
+(0xb068a0) 30001706
+(0xb61db0) 30001754
+(0xb61db0) 30001858
+(0xb15350) 30001858
+(0xae9520) 30001858
+(0xaecf90) 30001858
+(0xb27700) 30001858
+(0xa887c0) 30001858
+(0xb62130) Missed ACK 30001971
+(0xb156d0) Missed ACK 30001971
+(0xae98a0) Missed ACK 30001971
+(0xaed310) Missed ACK 30001971
+(0xb27a80) Missed ACK 30001971
+(0xa88b40) Missed ACK 30001971
+(0xb535c0) 30002006
+(0xa8fc50) 30002006
+(0xb23d10) 30002006
+(0xaff470) 30002006
+(0xb53940) Missed ACK 30002119
+(0xa8ffd0) Missed ACK 30002119
+(0xb24090) Missed ACK 30002119
+(0xaff7f0) Missed ACK 30002119
+(0xa887c0) 30002154
+(0xb15350) 30002154
+(0xae9520) 30002154
+(0xa88b40) Missed ACK 30002267
+(0xb156d0) Missed ACK 30002267
+(0xae98a0) Missed ACK 30002267
+(0xb23d10) 30002302
+(0xb61db0) 30002350
+(0xa887c0) 30002434
+(0xb61db0) 30002482
+(0xb61db0) 30002586
+(0xb15350) 30002586
+(0xae9520) 30002586
+(0xaecf90) 30002586
+(0xb57030) 30002586
+(0xb02ec0) 30002586
+(0xb27700) 30002586
+(0xaff470) 30002586
+(0xb62130) Missed ACK 30002699
+(0xb156d0) Missed ACK 30002699
+(0xae98a0) Missed ACK 30002699
+(0xaed310) Missed ACK 30002699
+(0xb573b0) Missed ACK 30002699
+(0xb03240) Missed ACK 30002699
+(0xb27a80) Missed ACK 30002699
+(0xaff7f0) Missed ACK 30002699
+(0xae9520) 30002749
+(0xaff470) 30002749
+(0xae98a0) Missed ACK 30002862
+(0xaff7f0) Missed ACK 30002862
+(0xaff470) 30002912
+(0xb61db0) 30002960
+(0xb0de70) 30003044
+(0xae5ab0) 30003044
+(0xb5e550) 30003044
+(0xb0e1f0) Missed ACK 30003157
+(0xae5e30) Missed ACK 30003157
+(0xb5e8d0) Missed ACK 30003157
+(0xb61db0) 30003200
+(0xb44a80) 30004002
+(0xb48670) 30004002
+(0xb4fb50) 30004002
+(0xb0a310) 30004002
+(0xb32650) 30004002
+(0xaf0a90) 30004002
+(0xaf7fd0) 30004002
+(0xafba20) 30004002
+(0xb44e00) Missed ACK 30004115
+(0xb489f0) Missed ACK 30004115
+(0xb4fed0) Missed ACK 30004115
+(0xb0a690) Missed ACK 30004115
+(0xb329d0) Missed ACK 30004115
+(0xaf0e10) Missed ACK 30004115
+(0xaf8350) Missed ACK 30004115
+(0xafbda0) Missed ACK 30004115
+(0xb44a80) 30004165
+(0xb48670) 30004165
+(0xaf7fd0) 30004165
+(0xb44e00) Missed ACK 30004278
+(0xb489f0) Missed ACK 30004278
+(0xaf8350) Missed ACK 30004278
+(0xb44a80) 30004328
+(0xaf7fd0) 30004328
+(0xb44e00) Missed ACK 30004441
+(0xaf8350) Missed ACK 30004441
+(0xb48670) 30004496
+(0xae5ab0) 30004496
+(0xae9520) 30004496
+(0xaecf90) 30004496
+(0xa8fc50) 30004496
+(0xb202c0) 30004496
+(0xb0a310) 30004496
+(0xb535c0) 30004496
+(0xb61db0) 30004496
+(0xb57030) 30004496
+(0xb5e550) 30004496
+(0xb489f0) Missed ACK 30004609
+(0xae5e30) Missed ACK 30004609
+(0xae98a0) Missed ACK 30004609
+(0xaed310) Missed ACK 30004609
+(0xa8ffd0) Missed ACK 30004609
+(0xb20640) Missed ACK 30004609
+(0xb0a690) Missed ACK 30004609
+(0xb53940) Missed ACK 30004609
+(0xb62130) Missed ACK 30004609
+(0xb573b0) Missed ACK 30004609
+(0xb5e8d0) Missed ACK 30004609
+(0xaecf90) 30004659
+(0xb0a310) 30004659
+(0xaed310) Missed ACK 30004772
+(0xb0a690) Missed ACK 30004772
+(0xb0a310) 30004822
+(0xb61db0) 30004870
+(0xb44a80) 30004974
+(0xb48670) 30004974
+(0xb39b90) 30004974
+(0xb15350) 30004974
+(0xb4fb50) 30004974
+(0xb0de70) 30004974
+(0xb535c0) 30004974
+(0xae5ab0) 30004974
+(0xa8fc50) 30004974
+(0xb32650) 30004974
+(0xb5e550) 30004974
+(0xaf0a90) 30004974
+(0xb02ec0) 30004974
+(0xafba20) 30004974
+(0xb44e00) Missed ACK 30005087
+(0xb489f0) Missed ACK 30005087
+(0xb39f10) Missed ACK 30005087
+(0xb156d0) Missed ACK 30005087
+(0xb4fed0) Missed ACK 30005087
+(0xb0e1f0) Missed ACK 30005087
+(0xb53940) Missed ACK 30005087
+(0xae5e30) Missed ACK 30005087
+(0xa8ffd0) Missed ACK 30005087
+(0xb329d0) Missed ACK 30005087
+(0xb5e8d0) Missed ACK 30005087
+(0xaf0e10) Missed ACK 30005087
+(0xb03240) Missed ACK 30005087
+(0xafbda0) Missed ACK 30005087
+(0xb118e0) 30005122
+(0xb61db0) 30005170
+(0xb48670) 30005254
+(0xb15350) 30005254
+(0xb39b90) 30005254
+(0xb32650) 30005254
+(0xaf0a90) 30005254
+(0xb02ec0) 30005254
+(0xb489f0) Missed ACK 30005367
+(0xb156d0) Missed ACK 30005367
+(0xb39f10) Missed ACK 30005367
+(0xb329d0) Missed ACK 30005367
+(0xaf0e10) Missed ACK 30005367
+(0xb03240) Missed ACK 30005367
+(0xb48670) 30005417
+(0xb32650) 30005417
+(0xaf0a90) 30005417
+(0xb489f0) Missed ACK 30005530
+(0xb329d0) Missed ACK 30005530
+(0xaf0e10) Missed ACK 30005530
+(0xb4fb50) 30005585
+(0xae5ab0) 30005585
+(0xaecf90) 30005585
+(0xb202c0) 30005585
+(0xb535c0) 30005585
+(0xb0de70) 30005585
+(0xa8fc50) 30005585
+(0xb5e550) 30005585
+(0xb39b90) 30005585
+(0xb27700) 30005585
+(0xafba20) 30005585
+(0xb4fed0) Missed ACK 30005698
+(0xae5e30) Missed ACK 30005698
+(0xaed310) Missed ACK 30005698
+(0xb20640) Missed ACK 30005698
+(0xb53940) Missed ACK 30005698
+(0xb0e1f0) Missed ACK 30005698
+(0xa8ffd0) Missed ACK 30005698
+(0xb5e8d0) Missed ACK 30005698
+(0xb39f10) Missed ACK 30005698
+(0xb27a80) Missed ACK 30005698
+(0xafbda0) Missed ACK 30005698
+(0xb202c0) 30005748
+(0xb5e550) 30005748
+(0xafba20) 30005748
+(0xb20640) Missed ACK 30005861
+(0xb5e8d0) Missed ACK 30005861
+(0xafbda0) Missed ACK 30005861
+(0xafba20) 30005911
+(0xb61db0) 30005959
+(0xb3d5e0) 30006043
+(0xb5ab00) 30006043
+(0xb2b170) 30006043
+(0xb3d960) Missed ACK 30006156
+(0xb5ae80) Missed ACK 30006156
+(0xb2b4f0) Missed ACK 30006156
+(0xb44a80) 30006211
+(0xa8fc50) 30006211
+(0xb15350) 30006211
+(0xb32650) 30006211
+(0xb27700) 30006211
+(0xb5e550) 30006211
+(0xaecf90) 30006211
+(0xaf7fd0) 30006211
+(0xb44e00) Missed ACK 30006324
+(0xa8ffd0) Missed ACK 30006324
+(0xb156d0) Missed ACK 30006324
+(0xb329d0) Missed ACK 30006324
+(0xb27a80) Missed ACK 30006324
+(0xb5e8d0) Missed ACK 30006324
+(0xaed310) Missed ACK 30006324
+(0xaf8350) Missed ACK 30006324
+(0xb44a80) 30006374
+(0xa8fc50) 30006374
+(0xb32650) 30006374
+(0xb44e00) Missed ACK 30006487
+(0xa8ffd0) Missed ACK 30006487
+(0xb329d0) Missed ACK 30006487
+(0xa8fc50) 30006537
+(0xb61db0) 30006585
+(0xb61db0) 30006689
+(0xb3d5e0) 30006689
+(0xb4fb50) 30006689
+(0xb535c0) 30006689
+(0xae5ab0) 30006689
+(0xae9520) 30006689
+(0xb57030) 30006689
+(0xb5e550) 30006689
+(0xaf0a90) 30006689
+(0xb27700) 30006689
+(0xb5ab00) 30006689
+(0xb2b170) 30006689
+(0xb62130) Missed ACK 30006802
+(0xb3d960) Missed ACK 30006802
+(0xb4fed0) Missed ACK 30006802
+(0xb53940) Missed ACK 30006802
+(0xae5e30) Missed ACK 30006802
+(0xae98a0) Missed ACK 30006802
+(0xb573b0) Missed ACK 30006802
+(0xb5e8d0) Missed ACK 30006802
+(0xaf0e10) Missed ACK 30006802
+(0xb27a80) Missed ACK 30006802
+(0xb5ae80) Missed ACK 30006802
+(0xb2b4f0) Missed ACK 30006802
+(0xae5ab0) 30006852
+(0xaf0a90) 30006852
+(0xae5e30) Missed ACK 30006965
+(0xaf0e10) Missed ACK 30006965
+(0xa936e0) 30007000
+(0xb1c870) 30007000
+(0xb360c0) 30007000
+(0xa93a60) Missed ACK 30007113
+(0xb1cbf0) Missed ACK 30007113
+(0xb36440) Missed ACK 30007113
+(0xaf0a90) 30007148
+(0xb61db0) 30007196
+(0xb1c870) 30007280
+(0xb61db0) 30007328
+(0xb44a80) 30007432
+(0xb3d5e0) 30007432
+(0xb4fb50) 30007432
+(0xb535c0) 30007432
+(0xb360c0) 30007432
+(0xa936e0) 30007432
+(0xb57030) 30007432
+(0xb5ab00) 30007432
+(0xaf7fd0) 30007432
+(0xb2b170) 30007432
+(0xb44e00) Missed ACK 30007545
+(0xb3d960) Missed ACK 30007545
+(0xb4fed0) Missed ACK 30007545
+(0xb53940) Missed ACK 30007545
+(0xb36440) Missed ACK 30007545
+(0xa93a60) Missed ACK 30007545
+(0xb573b0) Missed ACK 30007545
+(0xb5ae80) Missed ACK 30007545
+(0xaf8350) Missed ACK 30007545
+(0xb2b4f0) Missed ACK 30007545
+(0xb4fb50) 30007595
+(0xb360c0) 30007595
+(0xa936e0) 30007595
+(0xb57030) 30007595
+(0xaf7fd0) 30007595
+(0xb2b170) 30007595
+(0xb4fed0) Missed ACK 30007708
+(0xb36440) Missed ACK 30007708
+(0xa93a60) Missed ACK 30007708
+(0xb573b0) Missed ACK 30007708
+(0xaf8350) Missed ACK 30007708
+(0xb2b4f0) Missed ACK 30007708
+(0xb4fb50) 30007758
+(0xb61db0) 30007806
+(0xb61db0) 30007910
+(0xb44a80) 30007911
+(0xb15350) 30007911
+(0xb39b90) 30007911
+(0xb0de70) 30007911
+(0xb202c0) 30007911
+(0xae9520) 30007911
+(0xb2b170) 30007911
+(0xb62130) Missed ACK 30008023
+(0xb44e00) Missed ACK 30008024
+(0xb156d0) Missed ACK 30008024
+(0xb39f10) Missed ACK 30008024
+(0xb0e1f0) Missed ACK 30008024
+(0xb20640) Missed ACK 30008024
+(0xae98a0) Missed ACK 30008024
+(0xb2b4f0) Missed ACK 30008024
+(0xb4c0e0) 30008059
+(0xb18e20) 30008059
+(0xa8c210) 30008059
+(0xaf4500) 30008059
+(0xa813b0) 30008059
+(0xb4c460) Missed ACK 30008172
+(0xb191a0) Missed ACK 30008172
+(0xa8c590) Missed ACK 30008172
+(0xaf4880) Missed ACK 30008172
+(0xa81730) Missed ACK 30008172
+(0xae9520) 30008207
+(0xb44a80) 30008207
+(0xb0de70) 30008207
+(0xb2b170) 30008207
+(0xae98a0) Missed ACK 30008320
+(0xb44e00) Missed ACK 30008320
+(0xb0e1f0) Missed ACK 30008320
+(0xb2b4f0) Missed ACK 30008320
+(0xaf4500) 30008355
+(0xa813b0) 30008355
+(0xaf4880) Missed ACK 30008468
+(0xa81730) Missed ACK 30008468
+(0xae9520) 30008503
+(0xb61db0) 30008551
+(0xaf4500) 30008635
+(0xb61db0) 30008683
+(0xb61db0) 30008787
+(0xb44a80) 30008787
+(0xb4c0e0) 30008787
+(0xb15350) 30008787
+(0xb0de70) 30008787
+(0xa936e0) 30008787
+(0xa8c210) 30008787
+(0xb2b170) 30008787
+(0xa813b0) 30008787
+(0xb62130) Missed ACK 30008900
+(0xb44e00) Missed ACK 30008900
+(0xb4c460) Missed ACK 30008900
+(0xb156d0) Missed ACK 30008900
+(0xb0e1f0) Missed ACK 30008900
+(0xa93a60) Missed ACK 30008900
+(0xa8c590) Missed ACK 30008900
+(0xb2b4f0) Missed ACK 30008900
+(0xa81730) Missed ACK 30008900
+(0xb4c0e0) 30008950
+(0xb61db0) 30008998
+(0xb41030) 30009082
+(0xa84d90) 30009082
+(0xb413b0) Missed ACK 30009195
+(0xa85110) Missed ACK 30009195
+(0xb15350) 30009250
+(0xb18e20) 30009250
+(0xa8c210) 30009250
+(0xb202c0) 30009250
+(0xb5e550) 30009250
+(0xb156d0) Missed ACK 30009363
+(0xb191a0) Missed ACK 30009363
+(0xa8c590) Missed ACK 30009363
+(0xb20640) Missed ACK 30009363
+(0xb5e8d0) Missed ACK 30009363
+(0xb202c0) 30009413
+(0xb5e550) 30009413
+(0xb20640) Missed ACK 30009526
+(0xb5e8d0) Missed ACK 30009526
+(0xb202c0) 30009576
+(0xb5e550) 30009576
+(0xb20640) Missed ACK 30009689
+(0xb5e8d0) Missed ACK 30009689
+(0xb18e20) 30009744
+(0xae5ab0) 30009744
+(0xb5ab00) 30009744
+(0xb360c0) 30009744
+(0xb02ec0) 30009744
+(0xb39b90) 30009744
+(0xb41030) 30009744
+(0xa936e0) 30009744
+(0xb3d5e0) 30009744
+(0xb191a0) Missed ACK 30009857
+(0xae5e30) Missed ACK 30009857
+(0xb5ae80) Missed ACK 30009857
+(0xb36440) Missed ACK 30009857
+(0xb03240) Missed ACK 30009857
+(0xb39f10) Missed ACK 30009857
+(0xb413b0) Missed ACK 30009857
+(0xa93a60) Missed ACK 30009857
+(0xb3d960) Missed ACK 30009857
+(0xb48670) 30009912
+(0xb32650) 30009912
+(0xa84d90) 30009912
+(0xb27700) 30009912
+(0xb5e550) 30009912
+(0xb489f0) Missed ACK 30010025
+(0xb329d0) Missed ACK 30010025
+(0xa85110) Missed ACK 30010025
+(0xb27a80) Missed ACK 30010025
+(0xb5e8d0) Missed ACK 30010025
+(0xb41030) 30010080
+(0xaecf90) 30010080
+(0xa813b0) 30010080
+(0xaf7fd0) 30010080
+(0xb2b170) 30010080
+(0xa936e0) 30010080
+(0xb5ab00) 30010080
+(0xb39b90) 30010080
+(0xb413b0) Missed ACK 30010193
+(0xaed310) Missed ACK 30010193
+(0xa81730) Missed ACK 30010193
+(0xaf8350) Missed ACK 30010193
+(0xb2b4f0) Missed ACK 30010193
+(0xa93a60) Missed ACK 30010193
+(0xb5ae80) Missed ACK 30010193
+(0xb39f10) Missed ACK 30010193
+(0xa813b0) 30010243
+(0xaf7fd0) 30010243
+(0xb2b170) 30010243
+(0xb39b90) 30010243
+(0xa81730) Missed ACK 30010356
+(0xaf8350) Missed ACK 30010356
+(0xb2b4f0) Missed ACK 30010356
+(0xb39f10) Missed ACK 30010356
+(0xa813b0) 30010406
+(0xb61db0) 30010454
+(0xb3d5e0) 30010558
+(0xb360c0) 30010558
+(0xb57030) 30010558
+(0xa8c210) 30010558
+(0xb5ab00) 30010558
+(0xa84d90) 30010558
+(0xb2b170) 30010558
+(0xb3d960) Missed ACK 30010671
+(0xb36440) Missed ACK 30010671
+(0xb573b0) Missed ACK 30010671
+(0xa8c590) Missed ACK 30010671
+(0xb5ae80) Missed ACK 30010671
+(0xa85110) Missed ACK 30010671
+(0xb2b4f0) Missed ACK 30010671
+(0xb3d5e0) 30010721
+(0xb360c0) 30010721
+(0xb3d960) Missed ACK 30010834
+(0xb36440) Missed ACK 30010834
+(0xb41030) 30010889
+(0xb44a80) 30010889
+(0xa8c210) 30010889
+(0xb48670) 30010889
+(0xa84d90) 30010889
+(0xb535c0) 30010889
+(0xaf7fd0) 30010889
+(0xb413b0) Missed ACK 30011002
+(0xb44e00) Missed ACK 30011002
+(0xa8c590) Missed ACK 30011002
+(0xb489f0) Missed ACK 30011002
+(0xa85110) Missed ACK 30011002
+(0xb53940) Missed ACK 30011002
+(0xaf8350) Missed ACK 30011002
+(0xb41030) 30011052
+(0xb48670) 30011052
+(0xa84d90) 30011052
+(0xb413b0) Missed ACK 30011165
+(0xb489f0) Missed ACK 30011165
+(0xa85110) Missed ACK 30011165
+(0xb41030) 30011215
+(0xb61db0) 30011263
+(0xb48670) 30011367
+(0xb18e20) 30011367
+(0xb535c0) 30011367
+(0xae5ab0) 30011367
+(0xaecf90) 30011367
+(0xb32650) 30011367
+(0xb57030) 30011367
+(0xa8c210) 30011367
+(0xb02ec0) 30011367
+(0xa84d90) 30011367
+(0xaf7fd0) 30011367
+(0xb2b170) 30011367
+(0xb489f0) Missed ACK 30011480
+(0xb191a0) Missed ACK 30011480
+(0xb53940) Missed ACK 30011480
+(0xae5e30) Missed ACK 30011480
+(0xaed310) Missed ACK 30011480
+(0xb329d0) Missed ACK 30011480
+(0xb573b0) Missed ACK 30011480
+(0xa8c590) Missed ACK 30011480
+(0xb03240) Missed ACK 30011480
+(0xa85110) Missed ACK 30011480
+(0xaf8350) Missed ACK 30011480
+(0xb2b4f0) Missed ACK 30011480
+(0xb18e20) 30011530
+(0xaecf90) 30011530
+(0xb57030) 30011530
+(0xb191a0) Missed ACK 30011643
+(0xaed310) Missed ACK 30011643
+(0xb573b0) Missed ACK 30011643
+(0xaecf90) 30011693
+(0xb61db0) 30011741
+(0xb61db0) 30011845
+(0xb18e20) 30011845
+(0xb0de70) 30011845
+(0xae5ab0) 30011845
+(0xb57030) 30011845
+(0xb27700) 30011845
+(0xb02ec0) 30011845
+(0xb62130) Missed ACK 30011958
+(0xb191a0) Missed ACK 30011958
+(0xb0e1f0) Missed ACK 30011958
+(0xae5e30) Missed ACK 30011958
+(0xb573b0) Missed ACK 30011958
+(0xb27a80) Missed ACK 30011958
+(0xb03240) Missed ACK 30011958
+(0xb18e20) 30012008
+(0xb61db0) 30012056
+(0xb48670) 30012161
+(0xb535c0) 30012161
+(0xae5ab0) 30012161
+(0xb32650) 30012161
+(0xb27700) 30012161
+(0xb02ec0) 30012161
+(0xb489f0) Missed ACK 30012274
+(0xb53940) Missed ACK 30012274
+(0xae5e30) Missed ACK 30012274
+(0xb329d0) Missed ACK 30012274
+(0xb27a80) Missed ACK 30012274
+(0xb03240) Missed ACK 30012274
+(0xb535c0) 30012324
+(0xb32650) 30012324
+(0xb27700) 30012324
+(0xb53940) Missed ACK 30012437
+(0xb329d0) Missed ACK 30012437
+(0xb27a80) Missed ACK 30012437
+(0xb360c0) 30012492
+(0xa84d90) 30012492
+(0xb0de70) 30012492
+(0xb61db0) 30012492
+(0xb36440) Missed ACK 30012605
+(0xa85110) Missed ACK 30012605
+(0xb0e1f0) Missed ACK 30012605
+(0xb62130) Missed ACK 30012605
+(0xa8c210) 30012660
+(0xb44a80) 30012660
+(0xb15350) 30012660
+(0xa8c590) Missed ACK 30012773
+(0xb44e00) Missed ACK 30012773
+(0xb156d0) Missed ACK 30012773
+(0xb0de70) 30012828
+(0xa936e0) 30012828
+(0xb5e550) 30012828
+(0xb535c0) 30012828
+(0xb61db0) 30012828
+(0xb0e1f0) Missed ACK 30012941
+(0xa93a60) Missed ACK 30012941
+(0xb5e8d0) Missed ACK 30012941
+(0xb53940) Missed ACK 30012941
+(0xb62130) Missed ACK 30012941
+(0xb5e550) 30012991
+(0xb61db0) 30013039
+(0xb61db0) 30013143
+(0xb48670) 30013143
+(0xb3d5e0) 30013143
+(0xb0de70) 30013143
+(0xb202c0) 30013143
+(0xb57030) 30013143
+(0xb5ab00) 30013143
+(0xa84d90) 30013143
+(0xb62130) Missed ACK 30013256
+(0xb489f0) Missed ACK 30013256
+(0xb3d960) Missed ACK 30013256
+(0xb0e1f0) Missed ACK 30013256
+(0xb20640) Missed ACK 30013256
+(0xb573b0) Missed ACK 30013256
+(0xb5ae80) Missed ACK 30013256
+(0xa85110) Missed ACK 30013256
+(0xb0de70) 30013306
+(0xb61db0) 30013354
+(0xb15350) 30013458
+(0xa936e0) 30013458
+(0xb27700) 30013458
+(0xb2b170) 30013458
+(0xb156d0) Missed ACK 30013571
+(0xa93a60) Missed ACK 30013571
+(0xb27a80) Missed ACK 30013571
+(0xb2b4f0) Missed ACK 30013571
+(0xa936e0) 30013621
+(0xb2b170) 30013621
+(0xa93a60) Missed ACK 30013734
+(0xb2b4f0) Missed ACK 30013734
+(0xa936e0) 30013784
+(0xb2b170) 30013784
+(0xa93a60) Missed ACK 30013897
+(0xb2b4f0) Missed ACK 30013897
+(0xb2b170) 30013947
+(0xb61db0) 30013995
+(0xb44a80) 30014099
+(0xb3d5e0) 30014099
+(0xb360c0) 30014099
+(0xa8c210) 30014099
+(0xb27700) 30014099
+(0xa84d90) 30014099
+(0xb44e00) Missed ACK 30014212
+(0xb3d960) Missed ACK 30014212
+(0xb36440) Missed ACK 30014212
+(0xa8c590) Missed ACK 30014212
+(0xb27a80) Missed ACK 30014212
+(0xa85110) Missed ACK 30014212
+(0xb3d5e0) 30014262
+(0xa84d90) 30014262
+(0xb3d960) Missed ACK 30014375
+(0xa85110) Missed ACK 30014375
+(0xb3d5e0) 30014425
+(0xa84d90) 30014425
+(0xb3d960) Missed ACK 30014538
+(0xa85110) Missed ACK 30014538
+(0xa936e0) 30014593
+(0xb202c0) 30014593
+(0xb27700) 30014593
+(0xa93a60) Missed ACK 30014706
+(0xb20640) Missed ACK 30014706
+(0xb27a80) Missed ACK 30014706
+(0xa8c210) 30014761
+(0xb44a80) 30014761
+(0xb48670) 30014761
+(0xb39b90) 30014761
+(0xb360c0) 30014761
+(0xb535c0) 30014761
+(0xb57030) 30014761
+(0xb5ab00) 30014761
+(0xa8c590) Missed ACK 30014874
+(0xb44e00) Missed ACK 30014874
+(0xb489f0) Missed ACK 30014874
+(0xb39f10) Missed ACK 30014874
+(0xb36440) Missed ACK 30014874
+(0xb53940) Missed ACK 30014874
+(0xb573b0) Missed ACK 30014874
+(0xb5ae80) Missed ACK 30014874
+(0xb44a80) 30014924
+(0xb5ab00) 30014924
+(0xb44e00) Missed ACK 30015037
+(0xb5ae80) Missed ACK 30015037
+(0xb5ab00) 30015087
+(0xb61db0) 30015135
+(0xb15350) 30015239
+(0xb360c0) 30015239
+(0xb57030) 30015239
+(0xa8c210) 30015239
+(0xb156d0) Missed ACK 30015352
+(0xb36440) Missed ACK 30015352
+(0xb573b0) Missed ACK 30015352
+(0xa8c590) Missed ACK 30015352
+(0xb15350) 30015402
+(0xb360c0) 30015402
+(0xb156d0) Missed ACK 30015515
+(0xb36440) Missed ACK 30015515
+(0xb48670) 30015570
+(0xb02ec0) 30015570
+(0xb3d5e0) 30015570
+(0xb535c0) 30015570
+(0xb27700) 30015570
+(0xb489f0) Missed ACK 30015683
+(0xb03240) Missed ACK 30015683
+(0xb3d960) Missed ACK 30015683
+(0xb53940) Missed ACK 30015683
+(0xb27a80) Missed ACK 30015683
+(0xb535c0) 30015733
+(0xb27700) 30015733
+(0xb53940) Missed ACK 30015846
+(0xb27a80) Missed ACK 30015846
+(0xb535c0) 30015896
+(0xb61db0) 30015944
+(0xb48670) 30016048
+(0xb15350) 30016048
+(0xb39b90) 30016048
+(0xb57030) 30016048
+(0xb489f0) Missed ACK 30016161
+(0xb156d0) Missed ACK 30016161
+(0xb39f10) Missed ACK 30016161
+(0xb573b0) Missed ACK 30016161
+(0xb57030) 30016211
+(0xb61db0) 30016259
+(0xb202c0) 30016363
+(0xaf7fd0) 30016364
+(0xb20640) Missed ACK 30016476
+(0xaf8350) Missed ACK 30016477
+(0xaf7fd0) 30016527
+(0xb61db0) 30016575
+(0xb39b90) 30016679
+(0xb202c0) 30016679
+(0xa84d90) 30016679
+(0xb39f10) Missed ACK 30016792
+(0xb20640) Missed ACK 30016792
+(0xa85110) Missed ACK 30016792
+(0xb39b90) 30016842
+(0xb202c0) 30016842
+(0xb39f10) Missed ACK 30016955
+(0xb20640) Missed ACK 30016955
+(0xb3d5e0) 30017010
+(0xb02ec0) 30017010
+(0xb48670) 30017010
+(0xae5ab0) 30017010
+(0xb3d960) Missed ACK 30017123
+(0xb03240) Missed ACK 30017123
+(0xb489f0) Missed ACK 30017123
+(0xae5e30) Missed ACK 30017123
+(0xb39b90) 30017178
+(0xb360c0) 30017178
+(0xa84d90) 30017178
+(0xb39f10) Missed ACK 30017291
+(0xb36440) Missed ACK 30017291
+(0xa85110) Missed ACK 30017291
+(0xb32650) 30017346
+(0xa936e0) 30017346
+(0xb329d0) Missed ACK 30017459
+(0xa93a60) Missed ACK 30017459
+(0xb02ec0) 30017514
+(0xa84d90) 30017514
+(0xb44a80) 30017514
+(0xb61db0) 30017514
+(0xb27700) 30017514
+(0xb03240) Missed ACK 30017627
+(0xa85110) Missed ACK 30017627
+(0xb44e00) Missed ACK 30017627
+(0xb62130) Missed ACK 30017627
+(0xb27a80) Missed ACK 30017627
+(0xb48670) 30017682
+(0xa936e0) 30017682
+(0xb489f0) Missed ACK 30017795
+(0xa93a60) Missed ACK 30017795
+(0xb3d5e0) 30017850
+(0xb61db0) 30017850
+(0xb360c0) 30017850
+(0xa84d90) 30017850
+(0xb3d960) Missed ACK 30017963
+(0xb62130) Missed ACK 30017963
+(0xb36440) Missed ACK 30017963
+(0xa85110) Missed ACK 30017963
+(0xb3d5e0) 30018013
+(0xb61db0) 30018061
+(0xb44a80) 30018165
+(0xa936e0) 30018165
+(0xa8c210) 30018165
+(0xb02ec0) 30018165
+(0xb44e00) Missed ACK 30018278
+(0xa93a60) Missed ACK 30018278
+(0xa8c590) Missed ACK 30018278
+(0xb03240) Missed ACK 30018278
+(0xae5ab0) 30018333
+(0xb360c0) 30018333
+(0xae5e30) Missed ACK 30018446
+(0xb36440) Missed ACK 30018446
+(0xae5ab0) 30018496
+(0xb360c0) 30018496
+(0xae5e30) Missed ACK 30018609
+(0xb36440) Missed ACK 30018609
+(0xa936e0) 30018664
+(0xb48670) 30018664
+(0xb02ec0) 30018664
+(0xa93a60) Missed ACK 30018777
+(0xb489f0) Missed ACK 30018777
+(0xb03240) Missed ACK 30018777
+(0xb44a80) 30018832
+(0xb61db0) 30018832
+(0xb44e00) Missed ACK 30018945
+(0xb62130) Missed ACK 30018945
+(0xae5ab0) 30019000
+(0xb32650) 30019000
+(0xae5e30) Missed ACK 30019113
+(0xb329d0) Missed ACK 30019113
+(0xb48670) 30019168
+(0xb61db0) 30019168
+(0xb489f0) Missed ACK 30019281
+(0xb62130) Missed ACK 30019281
+(0xb48670) 30019331
+(0xb61db0) 30019379
+(0xb61db0) 30019483
+(0xb44a80) 30019483
+(0xb360c0) 30019483
+(0xae5ab0) 30019483
+(0xb62130) Missed ACK 30019596
+(0xb44e00) Missed ACK 30019596
+(0xb36440) Missed ACK 30019596
+(0xae5e30) Missed ACK 30019596
+(0xb32650) 30019651
+(0xb61db0) 30019699
+(0xb44a80) 30019803
+(0xa8c210) 30019803
+(0xb44e00) Missed ACK 30019916
+(0xa8c590) Missed ACK 30019916
+(0xb44a80) 30019966
+(0xb61db0) 30020014
+(0xb360c0) 30020118
+(0xb61db0) 30020166
+(0xb02ec0) 30020290
+(0xb61db0) 30020338
+(0xb202c0) 30020443
+(0xa8c210) 30020443
+(0xb27700) 30020443
+(0xb20640) Missed ACK 30020556
+(0xa8c590) Missed ACK 30020556
+(0xb27a80) Missed ACK 30020556
+(0xa8c210) 30020606
+(0xb61db0) 30020654
+(0xb27700) 30020758
+(0xb61db0) 30020806
+(0xb39b90) 30020930
+(0xb61db0) 30020978
+(0xb15350) 30021102
+(0xb202c0) 30021102
+(0xb156d0) Missed ACK 30021215
+(0xb20640) Missed ACK 30021215
+(0xa84d90) 30021270
+(0xb61db0) 30021318
+(0xb202c0) 30021442
+(0xb61db0) 30021490
+(0xb15350) 30021654
+(0xae5ab0) 30021654
+(0xb156d0) Missed ACK 30021767
+(0xae5e30) Missed ACK 30021767
+(0xa936e0) 30021882
+(0xb61db0) 30021930
+(0xb15350) 30022094
+(0xb61db0) 30022142
+(0xae5ab0) 30022286
+(0xb61db0) 30022335
+(0xb61db0) 30022439
+(0xb2ebe0) 30022487
+(0xb2ebe0) 30022571
+(0xb61db0) 30022571
+(0xb2ef60) Missed ACK 30022692
+(0xb61db0) 30023345
+(0xb068a0) 30023393
+(0xb068a0) 30023477
+(0xb61db0) 30023533
+(0xb61db0) 30023637
+(0xb2ebe0) 30023637
+(0xb2ef60) Missed ACK 30023758
+(0xb61db0) 30024391
+(0xb23d10) 30024439
+(0xb23d10) 30024523
+(0xb61db0) 30024579
+(0xb61db0) 30024683
+(0xb2ebe0) 30024683
+(0xb2ef60) Missed ACK 30024804
+(0xb61db0) 30025457
+(0xb2ebe0) 30025457
+(0xb62130) Missed ACK 30025570
+(0xb2ef60) Missed ACK 30025578
+(0xb2ebe0) 30025628
+(0xb61db0) 30025684
+(0xb61db0) 30025808
+(0xa887c0) 30025856
+(0xa887c0) 30025940
+(0xb61db0) 30025940
+(0xa88b40) Missed ACK 30026061
+(0xb61db0) 30026694
+(0xaff470) 30026742
+(0xaff470) 30026826
+(0xb61db0) 30026826
+(0xaff7f0) Missed ACK 30026947
+(0xb61db0) 30027600
+(0xa887c0) 30027600
+(0xaff470) 30027600
+(0xb62130) Missed ACK 30027713
+(0xa88b40) Missed ACK 30027721
+(0xaff7f0) Missed ACK 30027721
+(0xaff470) 30027771
+(0xb61db0) 30027828
+(0xb61db0) 30027932
+(0xa887c0) 30027932
+(0xb62130) Missed ACK 30028045
+(0xa88b40) Missed ACK 30028053
+(0xb61db0) 30028095
+(0xb0a310) 30028143
+(0xb0a310) 30028227
+(0xb61db0) 30028227
+(0xb0a690) Missed ACK 30028348
+(0xb61db0) 30028981
+(0xb118e0) 30029029
+(0xb118e0) 30029113
+(0xb61db0) 30029169
+(0xb61db0) 30029273
+(0xb0a310) 30029273
+(0xb0a690) Missed ACK 30029394
+(0xb61db0) 30030027
+(0xb0a310) 30030027
+(0xb62130) Missed ACK 30030140
+(0xb0a690) Missed ACK 30030148
+(0xa887c0) 30030215
+(0xb61db0) 30030271
+(0xb61db0) 30030375
+(0xafba20) 30030423
+(0xafba20) 30030507
+(0xb61db0) 30030507
+(0xafbda0) Missed ACK 30030628
+(0xb61db0) 30031261
+(0xa8fc50) 30031309
+(0xa8fc50) 30031393
+(0xb61db0) 30031449
+(0xb61db0) 30031553
+(0xb0a310) 30031553
+(0xafba20) 30031553
+(0xb0a690) Missed ACK 30031674
+(0xafbda0) Missed ACK 30031674
+(0xb0a310) 30032307
+(0xafba20) 30032307
+(0xb0a690) Missed ACK 30032428
+(0xafbda0) Missed ACK 30032428
+(0xb0a310) 30032478
+(0xb61db0) 30032534
+(0xb61db0) 30032638
+(0xaf0a90) 30032686
+(0xaf0a90) 30032770
+(0xb61db0) 30032771
+(0xaf0e10) Missed ACK 30032891
+(0xaf0a90) 30033525
+(0xb61db0) 30033581
+(0xb61db0) 30033685
+(0xb1c870) 30033733
+(0xb1c870) 30033817
+(0xb61db0) 30033873
+(0xb61db0) 30033977
+(0xb61db0) 30034731
+(0xb4fb50) 30034779
+(0xb4fb50) 30034863
+(0xb61db0) 30034863
+(0xb4fed0) Missed ACK 30034984
+(0xb61db0) 30035617
+(0xb4fb50) 30035617
+(0xb62130) Missed ACK 30035730
+(0xb4fed0) Missed ACK 30035738
+(0xafba20) 30035785
+(0xb61db0) 30035841
+(0xb4fb50) 30035945
+(0xb61db0) 30036001
+(0xb61db0) 30036105
+(0xae9520) 30036153
+(0xae9520) 30036237
+(0xb61db0) 30036293
+(0xb61db0) 30036397
+(0xb61db0) 30037171
+(0xaf4500) 30037219
+(0xaf4500) 30037303
+(0xb61db0) 30037359
+(0xb61db0) 30037463
+(0xb61db0) 30038217
+(0xb4c0e0) 30038265
+(0xb4c0e0) 30038349
+(0xb61db0) 30038406
+(0xb61db0) 30038510
+(0xb61db0) 30039264
+(0xa813b0) 30039312
+(0xa813b0) 30039396
+(0xb61db0) 30039396
+(0xa81730) Missed ACK 30039517
+(0xb61db0) 30040170
+(0xa813b0) 30040170
+(0xb62130) Missed ACK 30040283
+(0xa81730) Missed ACK 30040291
+(0xa813b0) 30040341
+(0xb61db0) 30040397
+(0xb61db0) 30040501
+(0xb41030) 30040549
+(0xb41030) 30040633
+(0xb61db0) 30040689
+(0xb61db0) 30040793
+(0xb61db0) 30041547
+(0xaecf90) 30041595
+(0xaecf90) 30041679
+(0xb61db0) 30041735
+(0xb61db0) 30041839
+(0xb61db0) 30042593
+(0xb18e20) 30042641
+(0xb18e20) 30042725
+(0xb61db0) 30042781
+(0xb61db0) 30042885
+(0xb61db0) 30043659
+(0xb5e550) 30043707
+(0xb5e550) 30043791
+(0xb61db0) 30043847
+(0xb61db0) 30043951
+(0xb61db0) 30044705
+(0xb0de70) 30044753
+(0xb0de70) 30044837
+(0xb61db0) 30044893
+(0xb61db0) 30044997
+(0xb61db0) 30045771
+(0xb2b170) 30045820
+(0xb2b170) 30045904
+(0xb61db0) 30045960
+(0xb61db0) 30046064
+(0xb61db0) 30046838
+(0xb5ab00) 30046886
+(0xb5ab00) 30046970
+(0xb61db0) 30046970
+(0xb5ae80) Missed ACK 30047091
+(0xb61db0) 30047744
+(0xb535c0) 30047792
+(0xb535c0) 30047876
+(0xb61db0) 30047932
+(0xb61db0) 30048036
+(0xb5ab00) 30048036
+(0xb5ae80) Missed ACK 30048157
+(0xb61db0) 30048790
+(0xb5ab00) 30048790
+(0xb62130) Missed ACK 30048903
+(0xb5ae80) Missed ACK 30048911
+(0xb61db0) 30048973
+(0xb57030) 30049021
+(0xb57030) 30049105
+(0xb61db0) 30049161
+(0xb61db0) 30049265
+(0xb5ab00) 30049265
+(0xb5ae80) Missed ACK 30049386
+(0xb5ab00) 30050019
+(0xb61db0) 30050075
+(0xb61db0) 30050179
+(0xaf7fd0) 30050227
+(0xaf7fd0) 30050311
+(0xb61db0) 30050311
+(0xaf8350) Missed ACK 30050432
+(0xaf7fd0) 30051065
+(0xb61db0) 30051121
+(0xb61db0) 30051225
+(0xb3d5e0) 30051274
+(0xb3d5e0) 30051358
+(0xb61db0) 30051414
+(0xb61db0) 30051518
+(0xb61db0) 30052292
+(0xb48670) 30052340
+(0xb48670) 30052424
+(0xb61db0) 30052480
+(0xb61db0) 30052584
+(0xb61db0) 30053338
+(0xb32650) 30053386
+(0xb32650) 30053470
+(0xb61db0) 30053470
+(0xb329d0) Missed ACK 30053591
+(0xb61db0) 30054224
+(0xb44a80) 30054272
+(0xb44a80) 30054356
+(0xb61db0) 30054412
+(0xb61db0) 30054516
+(0xb32650) 30054516
+(0xb329d0) Missed ACK 30054637
+(0xb61db0) 30055270
+(0xb32650) 30055270
+(0xb62130) Missed ACK 30055383
+(0xb329d0) Missed ACK 30055391
+(0xb61db0) 30055453
+(0xb360c0) 30055501
+(0xb360c0) 30055585
+(0xb61db0) 30055585
+(0xb36440) Missed ACK 30055706
+(0xb61db0) 30056339
+(0xb02ec0) 30056387
+(0xb02ec0) 30056471
+(0xb61db0) 30056527
+(0xb61db0) 30056631
+(0xb61db0) 30057385
+(0xa8c210) 30057433
+(0xa8c210) 30057517
+(0xb61db0) 30057517
+(0xa8c590) Missed ACK 30057638
+(0xb61db0) 30058291
+(0xb360c0) 30058291
+(0xb32650) 30058291
+(0xa8c210) 30058291
+(0xb62130) Missed ACK 30058404
+(0xb36440) Missed ACK 30058412
+(0xb329d0) Missed ACK 30058412
+(0xa8c590) Missed ACK 30058412
+(0xb61db0) 30058474
+(0xb27700) 30058522
+(0xb27700) 30058606
+(0xb61db0) 30058662
+(0xb61db0) 30058766
+(0xb360c0) 30058767
+(0xb32650) 30058767
+(0xa8c210) 30058767
+(0xb36440) Missed ACK 30058888
+(0xb329d0) Missed ACK 30058888
+(0xa8c590) Missed ACK 30058888
+(0xb61db0) 30059520
+(0xb32650) 30059521
+(0xb62130) Missed ACK 30059633
+(0xb329d0) Missed ACK 30059642
+(0xb61db0) 30059683
+(0xb39b90) 30059732
+(0xb39b90) 30059816
+(0xb61db0) 30059872
+(0xb61db0) 30059976
+(0xb32650) 30059976
+(0xb329d0) Missed ACK 30060097
+(0xb32650) 30060730
+(0xb61db0) 30060786
+(0xb61db0) 30060890
+(0xa8c210) 30060890
+(0xb62130) Missed ACK 30061003
+(0xa8c590) Missed ACK 30061011
+(0xb360c0) 30061058
+(0xb61db0) 30061114
+(0xb61db0) 30061238
+(0xa8c210) 30061238
+(0xb62130) Missed ACK 30061351
+(0xa8c590) Missed ACK 30061359
+(0xa8c210) 30061409
+(0xb61db0) 30061465
+(0xb61db0) 30061569
+(0xa84d90) 30061617
+(0xa84d90) 30061701
+(0xb61db0) 30061757
+(0xb61db0) 30061861
+(0xb61db0) 30062615
+(0xb202c0) 30062663
+(0xb202c0) 30062747
+(0xb61db0) 30062803
+(0xb61db0) 30062907
+(0xb61db0) 30063661
+(0xa936e0) 30063709
+(0xa936e0) 30063793
+(0xb61db0) 30063793
+(0xa93a60) Missed ACK 30063914
+(0xb61db0) 30064547
+(0xb15350) 30064595
+(0xb15350) 30064679
+(0xb61db0) 30064679
+(0xb156d0) Missed ACK 30064800
+(0xb61db0) 30065433
+(0xb15350) 30065434
+(0xb62130) Missed ACK 30065546
+(0xb156d0) Missed ACK 30065555
+(0xa936e0) 30065602
+(0xb61db0) 30065658
+(0xb15350) 30065762
+(0xb61db0) 30065818
+(0xb61db0) 30065922
+(0xae5ab0) 30065970
+(0xae5ab0) 30066054
+(0xb61db0) 30066110
+(0xb61db0) 30105600
+(0xb61db0) 30208000
+(0xb61db0) 30310400
+(0xb61db0) 30412800
+(0xb61db0) 30515200
+(0xb61db0) 30617600
+(0xb61db0) 30720000
+(0xb61db0) 30822400
+(0xb61db0) 30924800
+(0xb61db0) 31027200
+(0xb61db0) 31129600
+(0xb61db0) 31232000
+(0xb61db0) 31334400
+(0xb61db0) 31436800
+(0xb61db0) 31539200
+(0xb61db0) 31641600
+(0xb61db0) 31744000
+(0xb61db0) 31846400
+(0xb61db0) 31948800
+(0xb61db0) 32051200
+(0xb61db0) 32153600
+(0xb61db0) 32256000
+(0xb61db0) 32358400
+(0xb61db0) 32460800
+(0xb61db0) 32563200
+(0xb61db0) 32665600
+(0xb61db0) 32768000
+(0xb61db0) 32870400
+(0xb61db0) 32972800
+(0xb61db0) 33075200
+(0xb61db0) 33177600
+(0xb61db0) 33280000
+(0xb61db0) 33382400
+(0xb61db0) 33484800
+(0xb61db0) 33587200
+(0xb61db0) 33689600
+(0xb61db0) 33792000
+(0xb61db0) 33894400
+(0xb61db0) 33996800
+(0xb61db0) 34099200
+(0xb61db0) 34201600
+(0xb61db0) 34304000
+(0xb61db0) 34406400
+(0xb61db0) 34508800
+(0xb61db0) 34611200
+(0xb61db0) 34713600
+(0xb61db0) 34816000
+(0xb61db0) 34918400
+(0xb61db0) 35020800
+(0xb61db0) 35123200
+(0xb61db0) 35225600
+(0xb61db0) 35328000
+(0xb61db0) 35430400
+(0xb61db0) 35532800
+(0xb61db0) 35635200
+(0xb61db0) 35737600
+(0xb61db0) 35840000
+(0xb61db0) 35942400
+(0xb61db0) 36044800
+(0xb61db0) 36147200
+(0xb61db0) 36249600
+(0xb61db0) 36352000
+(0xb61db0) 36454400
+(0xb61db0) 36556800
+(0xb61db0) 36659200
+(0xb61db0) 36761600
+(0xb61db0) 36864000
+(0xb61db0) 36966400
+(0xb61db0) 37068800
+(0xb61db0) 37171200
+(0xb61db0) 37273600
+(0xb61db0) 37376000
+(0xb61db0) 37478400
+(0xb61db0) 37580800
+(0xb61db0) 37683200
+(0xb61db0) 37785600
+(0xb61db0) 37888000
+(0xb61db0) 37990400
+(0xb61db0) 38092800
+(0xb61db0) 38195200
+(0xb61db0) 38297600
+(0xb61db0) 38400000
+(0xb61db0) 38502400
+(0xb61db0) 38604800
+(0xb61db0) 38707200
+(0xb61db0) 38809600
+(0xb61db0) 38912000
+(0xb61db0) 39014400
+(0xb61db0) 39116800
+(0xb61db0) 39219200
+(0xb61db0) 39321600
+(0xb61db0) 39424000
+(0xb61db0) 39526400
+(0xb61db0) 39628800
+(0xb61db0) 39731200
+(0xb61db0) 39833600
+(0xb61db0) 39936000
+(0xb61db0) 40038400
+(0xb61db0) 40140800
+(0xb61db0) 40243200
+(0xb61db0) 40345600
+(0xb61db0) 40448000
+(0xb61db0) 40550400
+(0xb61db0) 40652800
+(0xb61db0) 40755200
+(0xb61db0) 40857600
+(0xb61db0) 40960000
+(0xb61db0) 41062400
+(0xb61db0) 41164800
+(0xb61db0) 41267200
+(0xb61db0) 41369600
+(0xb61db0) 41472000
+(0xb61db0) 41574400
+(0xb61db0) 41676800
+(0xb61db0) 41779200
+(0xb61db0) 41881600
+(0xb61db0) 41984000
+(0xb61db0) 42086400
+(0xb61db0) 42188800
+(0xb61db0) 42291200
+(0xb61db0) 42393600
+(0xb61db0) 42496000
+(0xb61db0) 42598400
+(0xb61db0) 42700800
+(0xb61db0) 42803200
+(0xb61db0) 42905600
+(0xb61db0) 43008000
+(0xb61db0) 43110400
+(0xb61db0) 43212800
+(0xb61db0) 43315200
+(0xb61db0) 43417600
+(0xb61db0) 43520000
+(0xb61db0) 43622400
+(0xb61db0) 43724800
+(0xb61db0) 43827200
+(0xb61db0) 43929600
+(0xb61db0) 44032000
+(0xb61db0) 44134400
+(0xb61db0) 44236800
+(0xb61db0) 44339200
+(0xb61db0) 44441600
+(0xb61db0) 44544000
+(0xb61db0) 44646400
+(0xb61db0) 44748800
+(0xb61db0) 44851200
+(0xb61db0) 44953600
+(0xb61db0) 45056000
+(0xb61db0) 45158400
+(0xb61db0) 45260800
+(0xb61db0) 45363200
+(0xb61db0) 45465600
+(0xb61db0) 45568000
+(0xb61db0) 45670400
+(0xb61db0) 45772800
+(0xb61db0) 45875200
+(0xb61db0) 45977600
+(0xb61db0) 46080000
+(0xb61db0) 46182400
+(0xb61db0) 46284800
+(0xb61db0) 46387200
+(0xb61db0) 46489600
+(0xb61db0) 46592000
+(0xb61db0) 46694400
+(0xb61db0) 46796800
+(0xb61db0) 46899200
+(0xb61db0) 47001600
+(0xb61db0) 47104000
+(0xb61db0) 47206400
+(0xb61db0) 47308800
+(0xb61db0) 47411200
+(0xb61db0) 47513600
+(0xb61db0) 47616000
+(0xb61db0) 47718400
+(0xb61db0) 47820800
+(0xb61db0) 47923200
+(0xb61db0) 48025600
+(0xb61db0) 48128000
+(0xb61db0) 48230400
+(0xb61db0) 48332800
+(0xb61db0) 48435200
+(0xb61db0) 48537600
+(0xb61db0) 48640000
+(0xb61db0) 48742400
+(0xb61db0) 48844800
+(0xb61db0) 48947200
+(0xb61db0) 49049600
+(0xb61db0) 49152000
+(0xb61db0) 49254400
+(0xb61db0) 49356800
+(0xb61db0) 49459200
+(0xb61db0) 49561600
+(0xb61db0) 49664000
+(0xb61db0) 49766400
+(0xb61db0) 49868800
+(0xb61db0) 49971200
+(0xb61db0) 50073600
+(0xb61db0) 50176000
+(0xb61db0) 50278400
+(0xb61db0) 50380800
+(0xb61db0) 50483200
+(0xb61db0) 50585600
+(0xb61db0) 50688000
+(0xb61db0) 50790400
+(0xb61db0) 50892800
+(0xb61db0) 50995200
+(0xb61db0) 51097600
+(0xb61db0) 51200000
+(0xb61db0) 51302400
+(0xb61db0) 51404800
+(0xb61db0) 51507200
+(0xb61db0) 51609600
+(0xb61db0) 51712000
+(0xb61db0) 51814400
+(0xb61db0) 51916800
+(0xb61db0) 52019200
+(0xb61db0) 52121600
+(0xb61db0) 52224000
+(0xb61db0) 52326400
+(0xb61db0) 52428800
+(0xb61db0) 52531200
+(0xb61db0) 52633600
+(0xb61db0) 52736000
+(0xb61db0) 52838400
+(0xb61db0) 52940800
+(0xb61db0) 53043200
+(0xb61db0) 53145600
+(0xb61db0) 53248000
+(0xb61db0) 53350400
+(0xb61db0) 53452800
+(0xb61db0) 53555200
+(0xb61db0) 53657600
+(0xb61db0) 53760000
+(0xb61db0) 53862400
+(0xb61db0) 53964800
+(0xb61db0) 54067200
+(0xb61db0) 54169600
+(0xb61db0) 54272000
+(0xb61db0) 54374400
+(0xb61db0) 54476800
+(0xb61db0) 54579200
+(0xb61db0) 54681600
+(0xb61db0) 54784000
+(0xb61db0) 54886400
+(0xb61db0) 54988800
+(0xb61db0) 55091200
+(0xb61db0) 55193600
+(0xb61db0) 55296000
+(0xb61db0) 55398400
+(0xb61db0) 55500800
+(0xb61db0) 55603200
+(0xb61db0) 55705600
+(0xb61db0) 55808000
+(0xb61db0) 55910400
+(0xb61db0) 56012800
+(0xb61db0) 56115200
+(0xb61db0) 56217600
+(0xb61db0) 56320000
+(0xb61db0) 56422400
+(0xb61db0) 56524800
+(0xb61db0) 56627200
+(0xb61db0) 56729600
+(0xb61db0) 56832000
+(0xb61db0) 56934400
+(0xb61db0) 57036800
+(0xb61db0) 57139200
+(0xb61db0) 57241600
+(0xb61db0) 57344000
+(0xb61db0) 57446400
+(0xb61db0) 57548800
+(0xb61db0) 57651200
+(0xb61db0) 57753600
+(0xb61db0) 57856000
+(0xb61db0) 57958400
+(0xb61db0) 58060800
+(0xb61db0) 58163200
+(0xb61db0) 58265600
+(0xb61db0) 58368000
+(0xb61db0) 58470400
+(0xb61db0) 58572800
+(0xb61db0) 58675200
+(0xb61db0) 58777600
+(0xb61db0) 58880000
+(0xb61db0) 58982400
+(0xb61db0) 59084800
+(0xb61db0) 59187200
+(0xb61db0) 59289600
+(0xb61db0) 59392000
+(0xb61db0) 59494400
+(0xb61db0) 59596800
+(0xb61db0) 59699200
+(0xb61db0) 59801600
+(0xb61db0) 59904000
+(0xa813b0) 60000000
+(0xa84d90) 60000000
+(0xa887c0) 60000000
+(0xa8c210) 60000000
+(0xa8fc50) 60000000
+(0xa936e0) 60000000
+(0xae5ab0) 60000000
+(0xae9520) 60000000
+(0xaecf90) 60000000
+(0xaf0a90) 60000000
+(0xaf4500) 60000000
+(0xaf7fd0) 60000000
+(0xafba20) 60000000
+(0xaff470) 60000000
+(0xb02ec0) 60000000
+(0xb068a0) 60000000
+(0xb0a310) 60000000
+(0xb0de70) 60000000
+(0xb118e0) 60000000
+(0xb15350) 60000000
+(0xb18e20) 60000000
+(0xb1c870) 60000000
+(0xb202c0) 60000000
+(0xb23d10) 60000000
+(0xb27700) 60000000
+(0xb2b170) 60000000
+(0xb2ebe0) 60000000
+(0xb32650) 60000000
+(0xb360c0) 60000000
+(0xb39b90) 60000000
+(0xb3d5e0) 60000000
+(0xb41030) 60000000
+(0xb44a80) 60000000
+(0xb48670) 60000000
+(0xb4c0e0) 60000000
+(0xb4fb50) 60000000
+(0xb535c0) 60000000
+(0xb57030) 60000000
+(0xb5ab00) 60000000
+(0xb5e550) 60000000
+(0xa81730) Missed ACK 60000121
+(0xa81900) chose 0 slots
+(0xa85110) Missed ACK 60000121
+(0xa852e0) chose 2 slots
+(0xa88b40) Missed ACK 60000121
+(0xa87870) chose 2 slots
+(0xa8c590) Missed ACK 60000121
+(0xa8b2c0) chose 0 slots
+(0xa8ffd0) Missed ACK 60000121
+(0xa8ed10) chose 1 slots
+(0xa93a60) Missed ACK 60000121
+(0xa92750) chose 1 slots
+(0xae5e30) Missed ACK 60000121
+(0xae6000) chose 1 slots
+(0xae98a0) Missed ACK 60000121
+(0xae9a70) chose 1 slots
+(0xaed310) Missed ACK 60000121
+(0xaed4e0) chose 1 slots
+(0xaf0e10) Missed ACK 60000121
+(0xaf0fe0) chose 2 slots
+(0xaf4880) Missed ACK 60000121
+(0xaf4a50) chose 1 slots
+(0xaf8350) Missed ACK 60000121
+(0xaf7090) chose 0 slots
+(0xafbda0) Missed ACK 60000121
+(0xafaae0) chose 1 slots
+(0xaff7f0) Missed ACK 60000121
+(0xafe530) chose 1 slots
+(0xb03240) Missed ACK 60000121
+(0xb01f80) chose 1 slots
+(0xb06c20) Missed ACK 60000121
+(0xb06df0) chose 2 slots
+(0xb0a690) Missed ACK 60000121
+(0xb0a860) chose 0 slots
+(0xb0e1f0) Missed ACK 60000121
+(0xb0e3c0) chose 2 slots
+(0xb11c60) Missed ACK 60000121
+(0xb11e30) chose 2 slots
+(0xb156d0) Missed ACK 60000121
+(0xb158a0) chose 2 slots
+(0xb191a0) Missed ACK 60000121
+(0xb17ee0) chose 0 slots
+(0xb1cbf0) Missed ACK 60000121
+(0xb1b930) chose 1 slots
+(0xb20640) Missed ACK 60000121
+(0xb1f380) chose 2 slots
+(0xb24090) Missed ACK 60000121
+(0xb22dd0) chose 0 slots
+(0xb27a80) Missed ACK 60000121
+(0xb27c50) chose 1 slots
+(0xb2b4f0) Missed ACK 60000121
+(0xb2b6c0) chose 2 slots
+(0xb2ef60) Missed ACK 60000121
+(0xb2f130) chose 2 slots
+(0xb329d0) Missed ACK 60000121
+(0xb32ba0) chose 0 slots
+(0xb36440) Missed ACK 60000121
+(0xb36610) chose 0 slots
+(0xb39f10) Missed ACK 60000121
+(0xb38c50) chose 1 slots
+(0xb3d960) Missed ACK 60000121
+(0xb3c6a0) chose 2 slots
+(0xb413b0) Missed ACK 60000121
+(0xb400f0) chose 1 slots
+(0xb44e00) Missed ACK 60000121
+(0xb43b40) chose 2 slots
+(0xb489f0) Missed ACK 60000121
+(0xb48bc0) chose 2 slots
+(0xb4c460) Missed ACK 60000121
+(0xb4c630) chose 1 slots
+(0xb4fed0) Missed ACK 60000121
+(0xb500a0) chose 2 slots
+(0xb53940) Missed ACK 60000121
+(0xb53b10) chose 0 slots
+(0xb573b0) Missed ACK 60000121
+(0xb57580) chose 0 slots
+(0xb5ae80) Missed ACK 60000121
+(0xb59bc0) chose 1 slots
+(0xb5e8d0) Missed ACK 60000121
+(0xb5d610) chose 1 slots
+(0xa813b0) 60000171
+(0xa8c210) 60000171
+(0xaf7fd0) 60000171
+(0xb0a310) 60000171
+(0xb18e20) 60000171
+(0xb23d10) 60000171
+(0xb32650) 60000171
+(0xb360c0) 60000171
+(0xb535c0) 60000171
+(0xb57030) 60000171
+(0xa81730) Missed ACK 60000292
+(0xa81900) chose 0 slots
+(0xa8c590) Missed ACK 60000292
+(0xa8b2c0) chose 1 slots
+(0xaf8350) Missed ACK 60000292
+(0xaf7090) chose 0 slots
+(0xb0a690) Missed ACK 60000292
+(0xb0a860) chose 0 slots
+(0xb191a0) Missed ACK 60000292
+(0xb17ee0) chose 0 slots
+(0xb24090) Missed ACK 60000292
+(0xb22dd0) chose 0 slots
+(0xb329d0) Missed ACK 60000292
+(0xb32ba0) chose 0 slots
+(0xb36440) Missed ACK 60000292
+(0xb36610) chose 1 slots
+(0xb53940) Missed ACK 60000292
+(0xb53b10) chose 0 slots
+(0xb573b0) Missed ACK 60000292
+(0xb57580) chose 1 slots
+(0xa813b0) 60000342
+(0xaf7fd0) 60000342
+(0xb0a310) 60000342
+(0xb18e20) 60000342
+(0xb23d10) 60000342
+(0xb32650) 60000342
+(0xb535c0) 60000342
+(0xa81730) Missed ACK 60000463
+(0xa81900) chose 0 slots
+(0xaf8350) Missed ACK 60000463
+(0xaf7090) chose 4 slots
+(0xb0a690) Missed ACK 60000463
+(0xb0a860) chose 3 slots
+(0xb191a0) Missed ACK 60000463
+(0xb17ee0) chose 3 slots
+(0xb24090) Missed ACK 60000463
+(0xb22dd0) chose 1 slots
+(0xb329d0) Missed ACK 60000463
+(0xb32ba0) chose 1 slots
+(0xb53940) Missed ACK 60000463
+(0xb53b10) chose 4 slots
+(0xa813b0) 60000513
+(0xb61db0) 60000569
+(0xa81900) chose 1 slots
+(0xb41030) 60000673
+(0xb4c0e0) 60000673
+(0xb39b90) 60000673
+(0xb1c870) 60000673
+(0xb360c0) 60000673
+(0xae5ab0) 60000673
+(0xa936e0) 60000673
+(0xae9520) 60000673
+(0xa8fc50) 60000673
+(0xaecf90) 60000673
+(0xb32650) 60000673
+(0xb23d10) 60000673
+(0xb57030) 60000673
+(0xa8c210) 60000673
+(0xb5e550) 60000673
+(0xb02ec0) 60000673
+(0xb27700) 60000673
+(0xaf4500) 60000673
+(0xb5ab00) 60000673
+(0xaff470) 60000673
+(0xafba20) 60000673
+(0xb413b0) Missed ACK 60000794
+(0xb400f0) chose 1 slots
+(0xb4c460) Missed ACK 60000794
+(0xb4c630) chose 1 slots
+(0xb39f10) Missed ACK 60000794
+(0xb38c50) chose 1 slots
+(0xb1cbf0) Missed ACK 60000794
+(0xb1b930) chose 0 slots
+(0xb36440) Missed ACK 60000794
+(0xb36610) chose 0 slots
+(0xae5e30) Missed ACK 60000794
+(0xae6000) chose 0 slots
+(0xa93a60) Missed ACK 60000794
+(0xa92750) chose 0 slots
+(0xae98a0) Missed ACK 60000794
+(0xae9a70) chose 1 slots
+(0xa8ffd0) Missed ACK 60000794
+(0xa8ed10) chose 0 slots
+(0xaed310) Missed ACK 60000794
+(0xaed4e0) chose 0 slots
+(0xb329d0) Missed ACK 60000794
+(0xb32ba0) chose 2 slots
+(0xb24090) Missed ACK 60000794
+(0xb22dd0) chose 1 slots
+(0xb573b0) Missed ACK 60000794
+(0xb57580) chose 3 slots
+(0xa8c590) Missed ACK 60000794
+(0xa8b2c0) chose 3 slots
+(0xb5e8d0) Missed ACK 60000794
+(0xb5d610) chose 1 slots
+(0xb03240) Missed ACK 60000794
+(0xb01f80) chose 0 slots
+(0xb27a80) Missed ACK 60000794
+(0xb27c50) chose 1 slots
+(0xaf4880) Missed ACK 60000794
+(0xaf4a50) chose 1 slots
+(0xb5ae80) Missed ACK 60000794
+(0xb59bc0) chose 1 slots
+(0xaff7f0) Missed ACK 60000794
+(0xafe530) chose 0 slots
+(0xafbda0) Missed ACK 60000794
+(0xafaae0) chose 1 slots
+(0xb1c870) 60000844
+(0xb360c0) 60000844
+(0xae5ab0) 60000844
+(0xa936e0) 60000844
+(0xa8fc50) 60000844
+(0xaecf90) 60000844
+(0xb02ec0) 60000844
+(0xaff470) 60000844
+(0xb1cbf0) Missed ACK 60000965
+(0xb1b930) chose 0 slots
+(0xb36440) Missed ACK 60000965
+(0xb36610) chose 2 slots
+(0xae5e30) Missed ACK 60000965
+(0xae6000) chose 4 slots
+(0xa93a60) Missed ACK 60000965
+(0xa92750) chose 4 slots
+(0xa8ffd0) Missed ACK 60000965
+(0xa8ed10) chose 0 slots
+(0xaed310) Missed ACK 60000965
+(0xaed4e0) chose 0 slots
+(0xb03240) Missed ACK 60000965
+(0xb01f80) chose 1 slots
+(0xaff7f0) Missed ACK 60000965
+(0xafe530) chose 1 slots
+(0xb1c870) 60001015
+(0xa8fc50) 60001015
+(0xaecf90) 60001015
+(0xb1cbf0) Missed ACK 60001136
+(0xb1b930) chose 1 slots
+(0xa8ffd0) Missed ACK 60001136
+(0xa8ed10) chose 0 slots
+(0xaed310) Missed ACK 60001136
+(0xaed4e0) chose 1 slots
+(0xa8fc50) 60001186
+(0xb61db0) 60001242
+(0xa8ed10) chose 0 slots
+(0xb44a80) 60001346
+(0xb41030) 60001346
+(0xb48670) 60001346
+(0xb3d5e0) 60001346
+(0xb4c0e0) 60001346
+(0xb15350) 60001346
+(0xb39b90) 60001346
+(0xb4fb50) 60001346
+(0xb118e0) 60001346
+(0xb0de70) 60001346
+(0xb1c870) 60001346
+(0xb202c0) 60001346
+(0xae9520) 60001346
+(0xaecf90) 60001346
+(0xb068a0) 60001346
+(0xb23d10) 60001346
+(0xaf0a90) 60001346
+(0xb5e550) 60001346
+(0xb02ec0) 60001346
+(0xb27700) 60001346
+(0xa887c0) 60001346
+(0xb2ebe0) 60001346
+(0xaf4500) 60001346
+(0xb5ab00) 60001346
+(0xa84d90) 60001346
+(0xaff470) 60001346
+(0xb2b170) 60001346
+(0xafba20) 60001346
+(0xb44e00) Missed ACK 60001467
+(0xb43b40) chose 1 slots
+(0xb413b0) Missed ACK 60001467
+(0xb400f0) chose 1 slots
+(0xb489f0) Missed ACK 60001467
+(0xb48bc0) chose 0 slots
+(0xb3d960) Missed ACK 60001467
+(0xb3c6a0) chose 0 slots
+(0xb4c460) Missed ACK 60001467
+(0xb4c630) chose 1 slots
+(0xb156d0) Missed ACK 60001467
+(0xb158a0) chose 1 slots
+(0xb39f10) Missed ACK 60001467
+(0xb38c50) chose 0 slots
+(0xb4fed0) Missed ACK 60001467
+(0xb500a0) chose 0 slots
+(0xb11c60) Missed ACK 60001467
+(0xb11e30) chose 1 slots
+(0xb0e1f0) Missed ACK 60001467
+(0xb0e3c0) chose 0 slots
+(0xb1cbf0) Missed ACK 60001467
+(0xb1b930) chose 1 slots
+(0xb20640) Missed ACK 60001467
+(0xb1f380) chose 1 slots
+(0xae98a0) Missed ACK 60001467
+(0xae9a70) chose 1 slots
+(0xaed310) Missed ACK 60001467
+(0xaed4e0) chose 1 slots
+(0xb06c20) Missed ACK 60001467
+(0xb06df0) chose 1 slots
+(0xb24090) Missed ACK 60001467
+(0xb22dd0) chose 0 slots
+(0xaf0e10) Missed ACK 60001467
+(0xaf0fe0) chose 1 slots
+(0xb5e8d0) Missed ACK 60001467
+(0xb5d610) chose 0 slots
+(0xb03240) Missed ACK 60001467
+(0xb01f80) chose 0 slots
+(0xb27a80) Missed ACK 60001467
+(0xb27c50) chose 2 slots
+(0xa88b40) Missed ACK 60001467
+(0xa87870) chose 1 slots
+(0xb2ef60) Missed ACK 60001467
+(0xb2f130) chose 0 slots
+(0xaf4880) Missed ACK 60001467
+(0xaf4a50) chose 4 slots
+(0xb5ae80) Missed ACK 60001467
+(0xb59bc0) chose 0 slots
+(0xa85110) Missed ACK 60001467
+(0xa852e0) chose 0 slots
+(0xaff7f0) Missed ACK 60001467
+(0xafe530) chose 2 slots
+(0xb2b4f0) Missed ACK 60001467
+(0xb2b6c0) chose 1 slots
+(0xafbda0) Missed ACK 60001467
+(0xafaae0) chose 1 slots
+(0xb48670) 60001517
+(0xb3d5e0) 60001517
+(0xb39b90) 60001517
+(0xb4fb50) 60001517
+(0xb0de70) 60001517
+(0xb23d10) 60001517
+(0xb5e550) 60001517
+(0xb02ec0) 60001517
+(0xb2ebe0) 60001517
+(0xb5ab00) 60001517
+(0xa84d90) 60001517
+(0xb489f0) Missed ACK 60001638
+(0xb48bc0) chose 0 slots
+(0xb3d960) Missed ACK 60001638
+(0xb3c6a0) chose 2 slots
+(0xb39f10) Missed ACK 60001638
+(0xb38c50) chose 2 slots
+(0xb4fed0) Missed ACK 60001638
+(0xb500a0) chose 4 slots
+(0xb0e1f0) Missed ACK 60001638
+(0xb0e3c0) chose 3 slots
+(0xb24090) Missed ACK 60001638
+(0xb22dd0) chose 2 slots
+(0xb5e8d0) Missed ACK 60001638
+(0xb5d610) chose 1 slots
+(0xb03240) Missed ACK 60001638
+(0xb01f80) chose 0 slots
+(0xb2ef60) Missed ACK 60001638
+(0xb2f130) chose 0 slots
+(0xb5ae80) Missed ACK 60001638
+(0xb59bc0) chose 0 slots
+(0xa85110) Missed ACK 60001638
+(0xa852e0) chose 1 slots
+(0xb48670) 60001688
+(0xb02ec0) 60001688
+(0xb2ebe0) 60001688
+(0xb5ab00) 60001688
+(0xb489f0) Missed ACK 60001809
+(0xb48bc0) chose 2 slots
+(0xb03240) Missed ACK 60001809
+(0xb01f80) chose 1 slots
+(0xb2ef60) Missed ACK 60001809
+(0xb2f130) chose 1 slots
+(0xb5ae80) Missed ACK 60001809
+(0xb59bc0) chose 0 slots
+(0xb5ab00) 60001859
+(0xb61db0) 60001915
+(0xb59bc0) chose 1 slots
+(0xb44a80) 60002019
+(0xb41030) 60002019
+(0xb4c0e0) 60002019
+(0xb15350) 60002019
+(0xb18e20) 60002019
+(0xb118e0) 60002019
+(0xb1c870) 60002019
+(0xb360c0) 60002019
+(0xb202c0) 60002019
+(0xb0a310) 60002019
+(0xae9520) 60002019
+(0xaecf90) 60002019
+(0xb068a0) 60002019
+(0xb32650) 60002019
+(0xaf0a90) 60002019
+(0xb5e550) 60002019
+(0xb02ec0) 60002019
+(0xa887c0) 60002019
+(0xb2ebe0) 60002019
+(0xb2b170) 60002019
+(0xa84d90) 60002019
+(0xafba20) 60002019
+(0xb44e00) Missed ACK 60002140
+(0xb43b40) chose 4 slots
+(0xb413b0) Missed ACK 60002140
+(0xb400f0) chose 1 slots
+(0xb4c460) Missed ACK 60002140
+(0xb4c630) chose 1 slots
+(0xb156d0) Missed ACK 60002140
+(0xb158a0) chose 1 slots
+(0xb191a0) Missed ACK 60002140
+(0xb17ee0) chose 0 slots
+(0xb11c60) Missed ACK 60002140
+(0xb11e30) chose 1 slots
+(0xb1cbf0) Missed ACK 60002140
+(0xb1b930) chose 2 slots
+(0xb36440) Missed ACK 60002140
+(0xb36610) chose 1 slots
+(0xb20640) Missed ACK 60002140
+(0xb1f380) chose 0 slots
+(0xb0a690) Missed ACK 60002140
+(0xb0a860) chose 2 slots
+(0xae98a0) Missed ACK 60002140
+(0xae9a70) chose 1 slots
+(0xaed310) Missed ACK 60002140
+(0xaed4e0) chose 4 slots
+(0xb06c20) Missed ACK 60002140
+(0xb06df0) chose 2 slots
+(0xb329d0) Missed ACK 60002140
+(0xb32ba0) chose 1 slots
+(0xaf0e10) Missed ACK 60002140
+(0xaf0fe0) chose 4 slots
+(0xb5e8d0) Missed ACK 60002140
+(0xb5d610) chose 0 slots
+(0xb03240) Missed ACK 60002140
+(0xb01f80) chose 3 slots
+(0xa88b40) Missed ACK 60002140
+(0xa87870) chose 1 slots
+(0xb2ef60) Missed ACK 60002140
+(0xb2f130) chose 0 slots
+(0xb2b4f0) Missed ACK 60002140
+(0xb2b6c0) chose 2 slots
+(0xa85110) Missed ACK 60002140
+(0xa852e0) chose 2 slots
+(0xafbda0) Missed ACK 60002140
+(0xafaae0) chose 1 slots
+(0xb18e20) 60002190
+(0xb202c0) 60002190
+(0xb5e550) 60002190
+(0xb2ebe0) 60002190
+(0xb191a0) Missed ACK 60002311
+(0xb17ee0) chose 1 slots
+(0xb20640) Missed ACK 60002311
+(0xb1f380) chose 0 slots
+(0xb5e8d0) Missed ACK 60002311
+(0xb5d610) chose 0 slots
+(0xb2ef60) Missed ACK 60002311
+(0xb2f130) chose 7 slots
+(0xb202c0) 60002361
+(0xb5e550) 60002361
+(0xb20640) Missed ACK 60002482
+(0xb1f380) chose 1 slots
+(0xb5e8d0) Missed ACK 60002482
+(0xb5d610) chose 3 slots
+(0xb23d10) 60002537
+(0xb4c0e0) 60002537
+(0xb535c0) 60002537
+(0xb18e20) 60002537
+(0xb27700) 60002537
+(0xb48670) 60002537
+(0xae9520) 60002537
+(0xb57030) 60002537
+(0xaf7fd0) 60002537
+(0xb32650) 60002537
+(0xaff470) 60002537
+(0xb15350) 60002537
+(0xb360c0) 60002537
+(0xafba20) 60002537
+(0xb39b90) 60002537
+(0xb118e0) 60002537
+(0xb41030) 60002537
+(0xa887c0) 60002537
+(0xb3d5e0) 60002537
+(0xa8c210) 60002537
+(0xb24090) Missed ACK 60002658
+(0xb22dd0) chose 1 slots
+(0xb4c460) Missed ACK 60002658
+(0xb4c630) chose 0 slots
+(0xb53940) Missed ACK 60002658
+(0xb53b10) chose 1 slots
+(0xb191a0) Missed ACK 60002658
+(0xb17ee0) chose 7 slots
+(0xb27a80) Missed ACK 60002658
+(0xb27c50) chose 0 slots
+(0xb489f0) Missed ACK 60002658
+(0xb48bc0) chose 1 slots
+(0xae98a0) Missed ACK 60002658
+(0xae9a70) chose 1 slots
+(0xb573b0) Missed ACK 60002658
+(0xb57580) chose 1 slots
+(0xaf8350) Missed ACK 60002658
+(0xaf7090) chose 2 slots
+(0xb329d0) Missed ACK 60002658
+(0xb32ba0) chose 4 slots
+(0xaff7f0) Missed ACK 60002658
+(0xafe530) chose 0 slots
+(0xb156d0) Missed ACK 60002658
+(0xb158a0) chose 1 slots
+(0xb36440) Missed ACK 60002658
+(0xb36610) chose 1 slots
+(0xafbda0) Missed ACK 60002658
+(0xafaae0) chose 1 slots
+(0xb39f10) Missed ACK 60002658
+(0xb38c50) chose 1 slots
+(0xb11c60) Missed ACK 60002658
+(0xb11e30) chose 2 slots
+(0xb413b0) Missed ACK 60002658
+(0xb400f0) chose 0 slots
+(0xa88b40) Missed ACK 60002658
+(0xa87870) chose 0 slots
+(0xb3d960) Missed ACK 60002658
+(0xb3c6a0) chose 2 slots
+(0xa8c590) Missed ACK 60002658
+(0xa8b2c0) chose 2 slots
+(0xb4c0e0) 60002708
+(0xb27700) 60002708
+(0xaff470) 60002708
+(0xb41030) 60002708
+(0xa887c0) 60002708
+(0xb4c460) Missed ACK 60002829
+(0xb4c630) chose 7 slots
+(0xb27a80) Missed ACK 60002829
+(0xb27c50) chose 1 slots
+(0xaff7f0) Missed ACK 60002829
+(0xafe530) chose 2 slots
+(0xb413b0) Missed ACK 60002829
+(0xb400f0) chose 7 slots
+(0xa88b40) Missed ACK 60002829
+(0xa87870) chose 1 slots
+(0xb48670) 60002884
+(0xb1c870) 60002884
+(0xb202c0) 60002884
+(0xb23d10) 60002884
+(0xb57030) 60002884
+(0xb2b170) 60002884
+(0xb535c0) 60002884
+(0xafba20) 60002884
+(0xb15350) 60002884
+(0xae9520) 60002884
+(0xae5ab0) 60002884
+(0xa84d90) 60002884
+(0xb068a0) 60002884
+(0xa936e0) 60002884
+(0xb360c0) 60002884
+(0xb0de70) 60002884
+(0xb0a310) 60002884
+(0xb39b90) 60002884
+(0xb489f0) Missed ACK 60003005
+(0xb48bc0) chose 4 slots
+(0xb1cbf0) Missed ACK 60003005
+(0xb1b930) chose 2 slots
+(0xb20640) Missed ACK 60003005
+(0xb1f380) chose 1 slots
+(0xb24090) Missed ACK 60003005
+(0xb22dd0) chose 0 slots
+(0xb573b0) Missed ACK 60003005
+(0xb57580) chose 0 slots
+(0xb2b4f0) Missed ACK 60003005
+(0xb2b6c0) chose 1 slots
+(0xb53940) Missed ACK 60003005
+(0xb53b10) chose 1 slots
+(0xafbda0) Missed ACK 60003005
+(0xafaae0) chose 1 slots
+(0xb156d0) Missed ACK 60003005
+(0xb158a0) chose 1 slots
+(0xae98a0) Missed ACK 60003005
+(0xae9a70) chose 6 slots
+(0xae5e30) Missed ACK 60003005
+(0xae6000) chose 2 slots
+(0xa85110) Missed ACK 60003005
+(0xa852e0) chose 1 slots
+(0xb06c20) Missed ACK 60003005
+(0xb06df0) chose 2 slots
+(0xa93a60) Missed ACK 60003005
+(0xa92750) chose 2 slots
+(0xb36440) Missed ACK 60003005
+(0xb36610) chose 0 slots
+(0xb0e1f0) Missed ACK 60003005
+(0xb0e3c0) chose 0 slots
+(0xb0a690) Missed ACK 60003005
+(0xb0a860) chose 1 slots
+(0xb39f10) Missed ACK 60003005
+(0xb38c50) chose 5 slots
+(0xb23d10) 60003055
+(0xb57030) 60003055
+(0xb360c0) 60003055
+(0xb0de70) 60003055
+(0xb24090) Missed ACK 60003176
+(0xb22dd0) chose 0 slots
+(0xb573b0) Missed ACK 60003176
+(0xb57580) chose 5 slots
+(0xb36440) Missed ACK 60003176
+(0xb36610) chose 0 slots
+(0xb0e1f0) Missed ACK 60003176
+(0xb0e3c0) chose 0 slots
+(0xb23d10) 60003226
+(0xb360c0) 60003226
+(0xb0de70) 60003226
+(0xb24090) Missed ACK 60003347
+(0xb22dd0) chose 9 slots
+(0xb36440) Missed ACK 60003347
+(0xb36610) chose 1 slots
+(0xb0e1f0) Missed ACK 60003347
+(0xb0e3c0) chose 4 slots
+(0xb202c0) 60003402
+(0xb535c0) 60003402
+(0xaf4500) 60003402
+(0xb27700) 60003402
+(0xb4fb50) 60003402
+(0xaf7fd0) 60003402
+(0xb2b170) 60003402
+(0xafba20) 60003402
+(0xb118e0) 60003402
+(0xb3d5e0) 60003402
+(0xb0a310) 60003402
+(0xb02ec0) 60003402
+(0xa8c210) 60003402
+(0xb15350) 60003402
+(0xa887c0) 60003402
+(0xa84d90) 60003402
+(0xb20640) Missed ACK 60003523
+(0xb1f380) chose 3 slots
+(0xb53940) Missed ACK 60003523
+(0xb53b10) chose 5 slots
+(0xaf4880) Missed ACK 60003523
+(0xaf4a50) chose 0 slots
+(0xb27a80) Missed ACK 60003523
+(0xb27c50) chose 0 slots
+(0xb4fed0) Missed ACK 60003523
+(0xb500a0) chose 1 slots
+(0xaf8350) Missed ACK 60003523
+(0xaf7090) chose 1 slots
+(0xb2b4f0) Missed ACK 60003523
+(0xb2b6c0) chose 1 slots
+(0xafbda0) Missed ACK 60003523
+(0xafaae0) chose 3 slots
+(0xb11c60) Missed ACK 60003523
+(0xb11e30) chose 1 slots
+(0xb3d960) Missed ACK 60003523
+(0xb3c6a0) chose 1 slots
+(0xb0a690) Missed ACK 60003523
+(0xb0a860) chose 1 slots
+(0xb03240) Missed ACK 60003523
+(0xb01f80) chose 1 slots
+(0xa8c590) Missed ACK 60003523
+(0xa8b2c0) chose 0 slots
+(0xb156d0) Missed ACK 60003523
+(0xb158a0) chose 3 slots
+(0xa88b40) Missed ACK 60003523
+(0xa87870) chose 6 slots
+(0xa85110) Missed ACK 60003523
+(0xa852e0) chose 5 slots
+(0xaf4500) 60003573
+(0xb27700) 60003573
+(0xa8c210) 60003573
+(0xaf4880) Missed ACK 60003694
+(0xaf4a50) chose 1 slots
+(0xb27a80) Missed ACK 60003694
+(0xb27c50) chose 4 slots
+(0xa8c590) Missed ACK 60003694
+(0xa8b2c0) chose 2 slots
+(0xaf0a90) 60003749
+(0xaf7fd0) 60003749
+(0xb2b170) 60003749
+(0xaecf90) 60003749
+(0xb1c870) 60003749
+(0xb4fb50) 60003749
+(0xb0a310) 60003749
+(0xae5ab0) 60003749
+(0xb068a0) 60003749
+(0xb44a80) 60003749
+(0xa936e0) 60003749
+(0xb118e0) 60003749
+(0xb3d5e0) 60003749
+(0xb360c0) 60003749
+(0xb02ec0) 60003749
+(0xaff470) 60003749
+(0xb5e550) 60003749
+(0xaf0e10) Missed ACK 60003870
+(0xaf0fe0) chose 0 slots
+(0xaf8350) Missed ACK 60003870
+(0xaf7090) chose 7 slots
+(0xb2b4f0) Missed ACK 60003870
+(0xb2b6c0) chose 0 slots
+(0xaed310) Missed ACK 60003870
+(0xaed4e0) chose 1 slots
+(0xb1cbf0) Missed ACK 60003870
+(0xb1b930) chose 0 slots
+(0xb4fed0) Missed ACK 60003870
+(0xb500a0) chose 0 slots
+(0xb0a690) Missed ACK 60003870
+(0xb0a860) chose 3 slots
+(0xae5e30) Missed ACK 60003870
+(0xae6000) chose 1 slots
+(0xb06c20) Missed ACK 60003870
+(0xb06df0) chose 0 slots
+(0xb44e00) Missed ACK 60003870
+(0xb43b40) chose 1 slots
+(0xa93a60) Missed ACK 60003870
+(0xa92750) chose 0 slots
+(0xb11c60) Missed ACK 60003870
+(0xb11e30) chose 5 slots
+(0xb3d960) Missed ACK 60003870
+(0xb3c6a0) chose 7 slots
+(0xb36440) Missed ACK 60003870
+(0xb36610) chose 13 slots
+(0xb03240) Missed ACK 60003870
+(0xb01f80) chose 1 slots
+(0xaff7f0) Missed ACK 60003870
+(0xafe530) chose 4 slots
+(0xb5e8d0) Missed ACK 60003870
+(0xb5d610) chose 0 slots
+(0xaf0a90) 60003920
+(0xb2b170) 60003920
+(0xb1c870) 60003920
+(0xb4fb50) 60003920
+(0xb068a0) 60003920
+(0xa936e0) 60003920
+(0xb5e550) 60003920
+(0xaf0e10) Missed ACK 60004041
+(0xaf0fe0) chose 0 slots
+(0xb2b4f0) Missed ACK 60004041
+(0xb2b6c0) chose 1 slots
+(0xb1cbf0) Missed ACK 60004041
+(0xb1b930) chose 0 slots
+(0xb4fed0) Missed ACK 60004041
+(0xb500a0) chose 5 slots
+(0xb06c20) Missed ACK 60004041
+(0xb06df0) chose 0 slots
+(0xa93a60) Missed ACK 60004041
+(0xa92750) chose 7 slots
+(0xb5e8d0) Missed ACK 60004041
+(0xb5d610) chose 1 slots
+(0xaf0a90) 60004091
+(0xb1c870) 60004091
+(0xb068a0) 60004091
+(0xaf0e10) Missed ACK 60004212
+(0xaf0fe0) chose 2 slots
+(0xb1cbf0) Missed ACK 60004212
+(0xb1b930) chose 0 slots
+(0xb06c20) Missed ACK 60004212
+(0xb06df0) chose 1 slots
+(0xb1c870) 60004262
+(0xb61db0) 60004318
+(0xb1b930) chose 1 slots
+(0xb44a80) 60004422
+(0xae5ab0) 60004422
+(0xaecf90) 60004422
+(0xb068a0) 60004422
+(0xb32650) 60004422
+(0xb5e550) 60004422
+(0xb02ec0) 60004422
+(0xaf4500) 60004422
+(0xb2b170) 60004422
+(0xb44e00) Missed ACK 60004543
+(0xb43b40) chose 0 slots
+(0xae5e30) Missed ACK 60004543
+(0xae6000) chose 5 slots
+(0xaed310) Missed ACK 60004543
+(0xaed4e0) chose 2 slots
+(0xb06c20) Missed ACK 60004543
+(0xb06df0) chose 2 slots
+(0xb329d0) Missed ACK 60004543
+(0xb32ba0) chose 4 slots
+(0xb5e8d0) Missed ACK 60004543
+(0xb5d610) chose 0 slots
+(0xb03240) Missed ACK 60004543
+(0xb01f80) chose 16 slots
+(0xaf4880) Missed ACK 60004543
+(0xaf4a50) chose 7 slots
+(0xb2b4f0) Missed ACK 60004543
+(0xb2b6c0) chose 2 slots
+(0xb44a80) 60004593
+(0xb5e550) 60004593
+(0xb44e00) Missed ACK 60004714
+(0xb43b40) chose 5 slots
+(0xb5e8d0) Missed ACK 60004714
+(0xb5d610) chose 6 slots
+(0xb15350) 60004769
+(0xb48670) 60004769
+(0xb202c0) 60004769
+(0xa8c210) 60004769
+(0xaf0a90) 60004769
+(0xb156d0) Missed ACK 60004890
+(0xb158a0) chose 3 slots
+(0xb489f0) Missed ACK 60004890
+(0xb48bc0) chose 4 slots
+(0xb20640) Missed ACK 60004890
+(0xb1f380) chose 1 slots
+(0xa8c590) Missed ACK 60004890
+(0xa8b2c0) chose 4 slots
+(0xaf0e10) Missed ACK 60004890
+(0xaf0fe0) chose 0 slots
+(0xaf0a90) 60004940
+(0xb61db0) 60004996
+(0xaf0fe0) chose 1 slots
+(0xb39b90) 60005100
+(0xb0de70) 60005100
+(0xb202c0) 60005100
+(0xb0a310) 60005100
+(0xaecf90) 60005100
+(0xb57030) 60005100
+(0xb068a0) 60005100
+(0xb2ebe0) 60005100
+(0xb2b170) 60005100
+(0xafba20) 60005100
+(0xb39f10) Missed ACK 60005221
+(0xb38c50) chose 3 slots
+(0xb0e1f0) Missed ACK 60005221
+(0xb0e3c0) chose 4 slots
+(0xb20640) Missed ACK 60005221
+(0xb1f380) chose 0 slots
+(0xb0a690) Missed ACK 60005221
+(0xb0a860) chose 0 slots
+(0xaed310) Missed ACK 60005221
+(0xaed4e0) chose 1 slots
+(0xb573b0) Missed ACK 60005221
+(0xb57580) chose 2 slots
+(0xb06c20) Missed ACK 60005221
+(0xb06df0) chose 1 slots
+(0xb2ef60) Missed ACK 60005221
+(0xb2f130) chose 2 slots
+(0xb2b4f0) Missed ACK 60005221
+(0xb2b6c0) chose 0 slots
+(0xafbda0) Missed ACK 60005221
+(0xafaae0) chose 2 slots
+(0xb202c0) 60005271
+(0xb0a310) 60005271
+(0xb2b170) 60005271
+(0xb20640) Missed ACK 60005392
+(0xb1f380) chose 7 slots
+(0xb0a690) Missed ACK 60005392
+(0xb0a860) chose 1 slots
+(0xb2b4f0) Missed ACK 60005392
+(0xb2b6c0) chose 13 slots
+(0xb068a0) 60005447
+(0xaecf90) 60005447
+(0xb535c0) 60005447
+(0xb18e20) 60005447
+(0xb27700) 60005447
+(0xae9520) 60005447
+(0xa84d90) 60005447
+(0xaff470) 60005447
+(0xb06c20) Missed ACK 60005568
+(0xb06df0) chose 3 slots
+(0xaed310) Missed ACK 60005568
+(0xaed4e0) chose 15 slots
+(0xb53940) Missed ACK 60005568
+(0xb53b10) chose 3 slots
+(0xb191a0) Missed ACK 60005568
+(0xb17ee0) chose 2 slots
+(0xb27a80) Missed ACK 60005568
+(0xb27c50) chose 1 slots
+(0xae98a0) Missed ACK 60005568
+(0xae9a70) chose 2 slots
+(0xa85110) Missed ACK 60005568
+(0xa852e0) chose 4 slots
+(0xaff7f0) Missed ACK 60005568
+(0xafe530) chose 1 slots
+(0xb0a310) 60005623
+(0xa887c0) 60005623
+(0xb4fb50) 60005623
+(0xb32650) 60005623
+(0xb57030) 60005623
+(0xb15350) 60005623
+(0xb2ebe0) 60005623
+(0xb4c0e0) 60005623
+(0xafba20) 60005623
+(0xb118e0) 60005623
+(0xb41030) 60005623
+(0xb0a690) Missed ACK 60005744
+(0xb0a860) chose 10 slots
+(0xa88b40) Missed ACK 60005744
+(0xa87870) chose 2 slots
+(0xb4fed0) Missed ACK 60005744
+(0xb500a0) chose 0 slots
+(0xb329d0) Missed ACK 60005744
+(0xb32ba0) chose 2 slots
+(0xb573b0) Missed ACK 60005744
+(0xb57580) chose 1 slots
+(0xb156d0) Missed ACK 60005744
+(0xb158a0) chose 2 slots
+(0xb2ef60) Missed ACK 60005744
+(0xb2f130) chose 1 slots
+(0xb4c460) Missed ACK 60005744
+(0xb4c630) chose 4 slots
+(0xafbda0) Missed ACK 60005744
+(0xafaae0) chose 1 slots
+(0xb11c60) Missed ACK 60005744
+(0xb11e30) chose 4 slots
+(0xb413b0) Missed ACK 60005744
+(0xb400f0) chose 4 slots
+(0xb4fb50) 60005794
+(0xb61db0) 60005850
+(0xb500a0) chose 0 slots
+(0xb48670) 60005954
+(0xb39b90) 60005954
+(0xae5ab0) 60005954
+(0xb57030) 60005954
+(0xa8c210) 60005954
+(0xb27700) 60005954
+(0xb2ebe0) 60005954
+(0xaff470) 60005954
+(0xafba20) 60005954
+(0xb489f0) Missed ACK 60006075
+(0xb48bc0) chose 2 slots
+(0xb39f10) Missed ACK 60006075
+(0xb38c50) chose 1 slots
+(0xae5e30) Missed ACK 60006075
+(0xae6000) chose 2 slots
+(0xb573b0) Missed ACK 60006075
+(0xb57580) chose 1 slots
+(0xa8c590) Missed ACK 60006075
+(0xa8b2c0) chose 0 slots
+(0xb27a80) Missed ACK 60006075
+(0xb27c50) chose 0 slots
+(0xb2ef60) Missed ACK 60006075
+(0xb2f130) chose 1 slots
+(0xaff7f0) Missed ACK 60006075
+(0xafe530) chose 1 slots
+(0xafbda0) Missed ACK 60006075
+(0xafaae0) chose 3 slots
+(0xa8c210) 60006125
+(0xb27700) 60006125
+(0xa8c590) Missed ACK 60006246
+(0xa8b2c0) chose 1 slots
+(0xb27a80) Missed ACK 60006246
+(0xb27c50) chose 1 slots
+(0xa887c0) 60006301
+(0xaf7fd0) 60006301
+(0xb57030) 60006301
+(0xb0de70) 60006301
+(0xa936e0) 60006301
+(0xb39b90) 60006301
+(0xb3d5e0) 60006301
+(0xb32650) 60006301
+(0xb15350) 60006301
+(0xaff470) 60006301
+(0xb44a80) 60006301
+(0xb2ebe0) 60006301
+(0xae9520) 60006301
+(0xb18e20) 60006301
+(0xa88b40) Missed ACK 60006422
+(0xa87870) chose 2 slots
+(0xaf8350) Missed ACK 60006422
+(0xaf7090) chose 2 slots
+(0xb573b0) Missed ACK 60006422
+(0xb57580) chose 5 slots
+(0xb0e1f0) Missed ACK 60006422
+(0xb0e3c0) chose 2 slots
+(0xa93a60) Missed ACK 60006422
+(0xa92750) chose 2 slots
+(0xb39f10) Missed ACK 60006422
+(0xb38c50) chose 0 slots
+(0xb3d960) Missed ACK 60006422
+(0xb3c6a0) chose 4 slots
+(0xb329d0) Missed ACK 60006422
+(0xb32ba0) chose 1 slots
+(0xb156d0) Missed ACK 60006422
+(0xb158a0) chose 0 slots
+(0xaff7f0) Missed ACK 60006422
+(0xafe530) chose 5 slots
+(0xb44e00) Missed ACK 60006422
+(0xb43b40) chose 2 slots
+(0xb2ef60) Missed ACK 60006422
+(0xb2f130) chose 15 slots
+(0xae98a0) Missed ACK 60006422
+(0xae9a70) chose 2 slots
+(0xb191a0) Missed ACK 60006422
+(0xb17ee0) chose 1 slots
+(0xb61db0) 60006437
+(0xb64290) chose 0 slots
+(0xb39b90) 60007240
+(0xb15350) 60007240
+(0xb39f10) Missed ACK 60007361
+(0xb38c50) chose 14 slots
+(0xb156d0) Missed ACK 60007361
+(0xb158a0) chose 2 slots
+(0xae5ab0) 60007416
+(0xb18e20) 60007416
+(0xb48670) 60007416
+(0xb068a0) 60007416
+(0xa8c210) 60007416
+(0xb32650) 60007416
+(0xb5e550) 60007416
+(0xb23d10) 60007416
+(0xb535c0) 60007416
+(0xaf4500) 60007416
+(0xb27700) 60007416
+(0xae5e30) Missed ACK 60007537
+(0xae6000) chose 1 slots
+(0xb191a0) Missed ACK 60007537
+(0xb17ee0) chose 1 slots
+(0xb489f0) Missed ACK 60007537
+(0xb48bc0) chose 1 slots
+(0xb06c20) Missed ACK 60007537
+(0xb06df0) chose 5 slots
+(0xa8c590) Missed ACK 60007537
+(0xa8b2c0) chose 9 slots
+(0xb329d0) Missed ACK 60007537
+(0xb32ba0) chose 14 slots
+(0xb5e8d0) Missed ACK 60007537
+(0xb5d610) chose 1 slots
+(0xb24090) Missed ACK 60007537
+(0xb22dd0) chose 0 slots
+(0xb53940) Missed ACK 60007537
+(0xb53b10) chose 2 slots
+(0xaf4880) Missed ACK 60007537
+(0xaf4a50) chose 1 slots
+(0xb27a80) Missed ACK 60007537
+(0xb27c50) chose 4 slots
+(0xb23d10) 60007587
+(0xb61db0) 60007643
+(0xb22dd0) chose 1 slots
+(0xb44a80) 60007747
+(0xb48670) 60007747
+(0xb41030) 60007747
+(0xb4c0e0) 60007747
+(0xb18e20) 60007747
+(0xb118e0) 60007747
+(0xb0de70) 60007747
+(0xae5ab0) 60007747
+(0xae9520) 60007747
+(0xa936e0) 60007747
+(0xb5e550) 60007747
+(0xaf4500) 60007747
+(0xa887c0) 60007747
+(0xaf7fd0) 60007747
+(0xa84d90) 60007747
+(0xafba20) 60007747
+(0xb44e00) Missed ACK 60007868
+(0xb43b40) chose 2 slots
+(0xb489f0) Missed ACK 60007868
+(0xb48bc0) chose 1 slots
+(0xb413b0) Missed ACK 60007868
+(0xb400f0) chose 2 slots
+(0xb4c460) Missed ACK 60007868
+(0xb4c630) chose 2 slots
+(0xb191a0) Missed ACK 60007868
+(0xb17ee0) chose 10 slots
+(0xb11c60) Missed ACK 60007868
+(0xb11e30) chose 1 slots
+(0xb0e1f0) Missed ACK 60007868
+(0xb0e3c0) chose 1 slots
+(0xae5e30) Missed ACK 60007868
+(0xae6000) chose 1 slots
+(0xae98a0) Missed ACK 60007868
+(0xae9a70) chose 0 slots
+(0xa93a60) Missed ACK 60007868
+(0xa92750) chose 1 slots
+(0xb5e8d0) Missed ACK 60007868
+(0xb5d610) chose 0 slots
+(0xaf4880) Missed ACK 60007868
+(0xaf4a50) chose 2 slots
+(0xa88b40) Missed ACK 60007868
+(0xa87870) chose 1 slots
+(0xaf8350) Missed ACK 60007868
+(0xaf7090) chose 1 slots
+(0xa85110) Missed ACK 60007868
+(0xa852e0) chose 2 slots
+(0xafbda0) Missed ACK 60007868
+(0xafaae0) chose 8 slots
+(0xae9520) 60007918
+(0xb5e550) 60007918
+(0xae98a0) Missed ACK 60008039
+(0xae9a70) chose 7 slots
+(0xb5e8d0) Missed ACK 60008039
+(0xb5d610) chose 0 slots
+(0xb5e550) 60008089
+(0xb61db0) 60008145
+(0xb5d610) chose 0 slots
+(0xb48670) 60008249
+(0xb15350) 60008249
+(0xb118e0) 60008249
+(0xb0de70) 60008249
+(0xb535c0) 60008249
+(0xae5ab0) 60008249
+(0xa936e0) 60008249
+(0xa887c0) 60008249
+(0xaf7fd0) 60008249
+(0xb489f0) Missed ACK 60008370
+(0xb48bc0) chose 7 slots
+(0xb156d0) Missed ACK 60008370
+(0xb158a0) chose 0 slots
+(0xb11c60) Missed ACK 60008370
+(0xb11e30) chose 1 slots
+(0xb0e1f0) Missed ACK 60008370
+(0xb0e3c0) chose 15 slots
+(0xb53940) Missed ACK 60008370
+(0xb53b10) chose 1 slots
+(0xae5e30) Missed ACK 60008370
+(0xae6000) chose 1 slots
+(0xa93a60) Missed ACK 60008370
+(0xa92750) chose 0 slots
+(0xa88b40) Missed ACK 60008370
+(0xa87870) chose 15 slots
+(0xaf8350) Missed ACK 60008370
+(0xaf7090) chose 1 slots
+(0xb15350) 60008420
+(0xa936e0) 60008420
+(0xb156d0) Missed ACK 60008541
+(0xb158a0) chose 0 slots
+(0xa93a60) Missed ACK 60008541
+(0xa92750) chose 16 slots
+(0xb15350) 60008591
+(0xb61db0) 60008647
+(0xb158a0) chose 1 slots
+(0xb44a80) 60008751
+(0xb41030) 60008751
+(0xb3d5e0) 60008751
+(0xb4c0e0) 60008751
+(0xb118e0) 60008751
+(0xb535c0) 60008751
+(0xb202c0) 60008751
+(0xae5ab0) 60008751
+(0xaf4500) 60008751
+(0xa84d90) 60008751
+(0xaf7fd0) 60008751
+(0xb44e00) Missed ACK 60008872
+(0xb43b40) chose 1 slots
+(0xb413b0) Missed ACK 60008872
+(0xb400f0) chose 1 slots
+(0xb3d960) Missed ACK 60008872
+(0xb3c6a0) chose 1 slots
+(0xb4c460) Missed ACK 60008872
+(0xb4c630) chose 0 slots
+(0xb11c60) Missed ACK 60008872
+(0xb11e30) chose 1 slots
+(0xb53940) Missed ACK 60008872
+(0xb53b10) chose 11 slots
+(0xb20640) Missed ACK 60008872
+(0xb1f380) chose 4 slots
+(0xae5e30) Missed ACK 60008872
+(0xae6000) chose 4 slots
+(0xaf4880) Missed ACK 60008872
+(0xaf4a50) chose 1 slots
+(0xa85110) Missed ACK 60008872
+(0xa852e0) chose 0 slots
+(0xaf8350) Missed ACK 60008872
+(0xaf7090) chose 10 slots
+(0xb4c0e0) 60008922
+(0xa84d90) 60008922
+(0xb4c460) Missed ACK 60009043
+(0xb4c630) chose 0 slots
+(0xa85110) Missed ACK 60009043
+(0xa852e0) chose 9 slots
+(0xb4c0e0) 60009093
+(0xb61db0) 60009149
+(0xb4c630) chose 0 slots
+(0xb44a80) 60009253
+(0xb41030) 60009253
+(0xb3d5e0) 60009253
+(0xb118e0) 60009253
+(0xb57030) 60009253
+(0xb27700) 60009253
+(0xaf4500) 60009253
+(0xaff470) 60009253
+(0xb44e00) Missed ACK 60009374
+(0xb43b40) chose 0 slots
+(0xb413b0) Missed ACK 60009374
+(0xb400f0) chose 16 slots
+(0xb3d960) Missed ACK 60009374
+(0xb3c6a0) chose 0 slots
+(0xb11c60) Missed ACK 60009374
+(0xb11e30) chose 2 slots
+(0xb573b0) Missed ACK 60009374
+(0xb57580) chose 2 slots
+(0xb27a80) Missed ACK 60009374
+(0xb27c50) chose 1 slots
+(0xaf4880) Missed ACK 60009374
+(0xaf4a50) chose 5 slots
+(0xaff7f0) Missed ACK 60009374
+(0xafe530) chose 2 slots
+(0xb44a80) 60009424
+(0xb3d5e0) 60009424
+(0xb44e00) Missed ACK 60009545
+(0xb43b40) chose 2 slots
+(0xb3d960) Missed ACK 60009545
+(0xb3c6a0) chose 8 slots
+(0xb360c0) 60009600
+(0xb068a0) 60009600
+(0xb27700) 60009600
+(0xb36440) Missed ACK 60009721
+(0xb36610) chose 4 slots
+(0xb06c20) Missed ACK 60009721
+(0xb06df0) chose 3 slots
+(0xb27a80) Missed ACK 60009721
+(0xb27c50) chose 2 slots
+(0xaff470) 60009776
+(0xb118e0) 60009776
+(0xb57030) 60009776
+(0xaff7f0) Missed ACK 60009897
+(0xafe530) chose 1 slots
+(0xb11c60) Missed ACK 60009897
+(0xb11e30) chose 2 slots
+(0xb573b0) Missed ACK 60009897
+(0xb57580) chose 2 slots
+(0xb44a80) 60009952
+(0xae5ab0) 60009952
+(0xb0a310) 60009952
+(0xb202c0) 60009952
+(0xb44e00) Missed ACK 60010073
+(0xb43b40) chose 0 slots
+(0xae5e30) Missed ACK 60010073
+(0xae6000) chose 3 slots
+(0xb0a690) Missed ACK 60010073
+(0xb0a860) chose 0 slots
+(0xb20640) Missed ACK 60010073
+(0xb1f380) chose 3 slots
+(0xb44a80) 60010123
+(0xb0a310) 60010123
+(0xb44e00) Missed ACK 60010244
+(0xb43b40) chose 0 slots
+(0xb0a690) Missed ACK 60010244
+(0xb0a860) chose 1 slots
+(0xb44a80) 60010294
+(0xb61db0) 60010350
+(0xb43b40) chose 0 slots
+(0xb0a310) 60010454
+(0xae9520) 60010454
+(0xb27700) 60010454
+(0xaff470) 60010454
+(0xb0a690) Missed ACK 60010575
+(0xb0a860) chose 0 slots
+(0xae98a0) Missed ACK 60010575
+(0xae9a70) chose 1 slots
+(0xb27a80) Missed ACK 60010575
+(0xb27c50) chose 1 slots
+(0xaff7f0) Missed ACK 60010575
+(0xafe530) chose 0 slots
+(0xb0a310) 60010625
+(0xaff470) 60010625
+(0xb0a690) Missed ACK 60010746
+(0xb0a860) chose 1 slots
+(0xaff7f0) Missed ACK 60010746
+(0xafe530) chose 1 slots
+(0xb068a0) 60010801
+(0xa8c210) 60010801
+(0xb02ec0) 60010801
+(0xb118e0) 60010801
+(0xb48670) 60010801
+(0xae9520) 60010801
+(0xaf4500) 60010801
+(0xb57030) 60010801
+(0xb27700) 60010801
+(0xb2b170) 60010801
+(0xafba20) 60010801
+(0xb06c20) Missed ACK 60010922
+(0xb06df0) chose 0 slots
+(0xa8c590) Missed ACK 60010922
+(0xa8b2c0) chose 8 slots
+(0xb03240) Missed ACK 60010922
+(0xb01f80) chose 3 slots
+(0xb11c60) Missed ACK 60010922
+(0xb11e30) chose 1 slots
+(0xb489f0) Missed ACK 60010922
+(0xb48bc0) chose 0 slots
+(0xae98a0) Missed ACK 60010922
+(0xae9a70) chose 2 slots
+(0xaf4880) Missed ACK 60010922
+(0xaf4a50) chose 7 slots
+(0xb573b0) Missed ACK 60010922
+(0xb57580) chose 2 slots
+(0xb27a80) Missed ACK 60010922
+(0xb27c50) chose 4 slots
+(0xb2b4f0) Missed ACK 60010922
+(0xb2b6c0) chose 5 slots
+(0xafbda0) Missed ACK 60010922
+(0xafaae0) chose 1 slots
+(0xb068a0) 60010972
+(0xb48670) 60010972
+(0xb06c20) Missed ACK 60011093
+(0xb06df0) chose 0 slots
+(0xb489f0) Missed ACK 60011093
+(0xb48bc0) chose 1 slots
+(0xb068a0) 60011143
+(0xb61db0) 60011199
+(0xb06df0) chose 0 slots
+(0xb48670) 60011303
+(0xb118e0) 60011303
+(0xb360c0) 60011303
+(0xb0a310) 60011303
+(0xb202c0) 60011303
+(0xae5ab0) 60011303
+(0xaff470) 60011303
+(0xafba20) 60011303
+(0xb489f0) Missed ACK 60011424
+(0xb48bc0) chose 1 slots
+(0xb11c60) Missed ACK 60011424
+(0xb11e30) chose 0 slots
+(0xb36440) Missed ACK 60011424
+(0xb36610) chose 4 slots
+(0xb0a690) Missed ACK 60011424
+(0xb0a860) chose 0 slots
+(0xb20640) Missed ACK 60011424
+(0xb1f380) chose 2 slots
+(0xae5e30) Missed ACK 60011424
+(0xae6000) chose 1 slots
+(0xaff7f0) Missed ACK 60011424
+(0xafe530) chose 31 slots
+(0xafbda0) Missed ACK 60011424
+(0xafaae0) chose 0 slots
+(0xb118e0) 60011474
+(0xb0a310) 60011474
+(0xafba20) 60011474
+(0xb11c60) Missed ACK 60011595
+(0xb11e30) chose 19 slots
+(0xb0a690) Missed ACK 60011595
+(0xb0a860) chose 12 slots
+(0xafbda0) Missed ACK 60011595
+(0xafaae0) chose 1 slots
+(0xae5ab0) 60011650
+(0xb18e20) 60011650
+(0xae9520) 60011650
+(0xb48670) 60011650
+(0xb57030) 60011650
+(0xae5e30) Missed ACK 60011771
+(0xae6000) chose 1 slots
+(0xb191a0) Missed ACK 60011771
+(0xb17ee0) chose 0 slots
+(0xae98a0) Missed ACK 60011771
+(0xae9a70) chose 1 slots
+(0xb489f0) Missed ACK 60011771
+(0xb48bc0) chose 25 slots
+(0xb573b0) Missed ACK 60011771
+(0xb57580) chose 1 slots
+(0xb18e20) 60011821
+(0xb61db0) 60011877
+(0xb17ee0) chose 1 slots
+(0xb202c0) 60011981
+(0xae5ab0) 60011981
+(0xae9520) 60011981
+(0xaecf90) 60011981
+(0xb57030) 60011981
+(0xb02ec0) 60011981
+(0xa84d90) 60011981
+(0xafba20) 60011981
+(0xb20640) Missed ACK 60012102
+(0xb1f380) chose 1 slots
+(0xae5e30) Missed ACK 60012102
+(0xae6000) chose 17 slots
+(0xae98a0) Missed ACK 60012102
+(0xae9a70) chose 0 slots
+(0xaed310) Missed ACK 60012102
+(0xaed4e0) chose 6 slots
+(0xb573b0) Missed ACK 60012102
+(0xb57580) chose 19 slots
+(0xb03240) Missed ACK 60012102
+(0xb01f80) chose 1 slots
+(0xa85110) Missed ACK 60012102
+(0xa852e0) chose 1 slots
+(0xafbda0) Missed ACK 60012102
+(0xafaae0) chose 22 slots
+(0xae9520) 60012152
+(0xb61db0) 60012209
+(0xae9a70) chose 0 slots
+(0xb3d5e0) 60012313
+(0xb202c0) 60012313
+(0xb27700) 60012313
+(0xb02ec0) 60012313
+(0xaf7fd0) 60012313
+(0xa84d90) 60012313
+(0xb3d960) Missed ACK 60012434
+(0xb3c6a0) chose 8 slots
+(0xb20640) Missed ACK 60012434
+(0xb1f380) chose 31 slots
+(0xb27a80) Missed ACK 60012434
+(0xb27c50) chose 4 slots
+(0xb03240) Missed ACK 60012434
+(0xb01f80) chose 1 slots
+(0xaf8350) Missed ACK 60012434
+(0xaf7090) chose 5 slots
+(0xa85110) Missed ACK 60012434
+(0xa852e0) chose 0 slots
+(0xa84d90) 60012484
+(0xb61db0) 60012540
+(0xa852e0) chose 0 slots
+(0xb39b90) 60012644
+(0xb360c0) 60012644
+(0xb535c0) 60012644
+(0xb32650) 60012644
+(0xb02ec0) 60012644
+(0xb2ebe0) 60012644
+(0xb2b170) 60012644
+(0xb39f10) Missed ACK 60012765
+(0xb38c50) chose 6 slots
+(0xb36440) Missed ACK 60012765
+(0xb36610) chose 1 slots
+(0xb53940) Missed ACK 60012765
+(0xb53b10) chose 7 slots
+(0xb329d0) Missed ACK 60012765
+(0xb32ba0) chose 5 slots
+(0xb03240) Missed ACK 60012765
+(0xb01f80) chose 1 slots
+(0xb2ef60) Missed ACK 60012765
+(0xb2f130) chose 4 slots
+(0xb2b4f0) Missed ACK 60012765
+(0xb2b6c0) chose 4 slots
+(0xb360c0) 60012835
+(0xb02ec0) 60012835
+(0xb36440) Missed ACK 60012956
+(0xb36610) chose 1 slots
+(0xb03240) Missed ACK 60012956
+(0xb01f80) chose 27 slots
+(0xaf4500) 60013011
+(0xb61db0) 60013067
+(0xaf4a50) chose 1 slots
+(0xb0de70) 60013171
+(0xb360c0) 60013171
+(0xa8c210) 60013171
+(0xb27700) 60013171
+(0xa887c0) 60013171
+(0xb0e1f0) Missed ACK 60013292
+(0xb0e3c0) chose 7 slots
+(0xb36440) Missed ACK 60013292
+(0xb36610) chose 5 slots
+(0xa8c590) Missed ACK 60013292
+(0xa8b2c0) chose 0 slots
+(0xb27a80) Missed ACK 60013292
+(0xb27c50) chose 6 slots
+(0xa88b40) Missed ACK 60013292
+(0xa87870) chose 3 slots
+(0xa8c210) 60013342
+(0xb61db0) 60013398
+(0xa8b2c0) chose 1 slots
+(0xa936e0) 60013502
+(0xaecf90) 60013502
+(0xb2ebe0) 60013502
+(0xaf7fd0) 60013502
+(0xb2b170) 60013502
+(0xa93a60) Missed ACK 60013623
+(0xa92750) chose 1 slots
+(0xaed310) Missed ACK 60013623
+(0xaed4e0) chose 0 slots
+(0xb2ef60) Missed ACK 60013623
+(0xb2f130) chose 2 slots
+(0xaf8350) Missed ACK 60013623
+(0xaf7090) chose 0 slots
+(0xb2b4f0) Missed ACK 60013623
+(0xb2b6c0) chose 1 slots
+(0xaecf90) 60013673
+(0xaf7fd0) 60013673
+(0xaed310) Missed ACK 60013794
+(0xaed4e0) chose 2 slots
+(0xaf8350) Missed ACK 60013794
+(0xaf7090) chose 2 slots
+(0xb2b170) 60013849
+(0xa936e0) 60013849
+(0xb32650) 60013849
+(0xb2b4f0) Missed ACK 60013970
+(0xb2b6c0) chose 1 slots
+(0xa93a60) Missed ACK 60013970
+(0xa92750) chose 0 slots
+(0xb329d0) Missed ACK 60013970
+(0xb32ba0) chose 0 slots
+(0xa936e0) 60014020
+(0xb32650) 60014020
+(0xa93a60) Missed ACK 60014141
+(0xa92750) chose 0 slots
+(0xb329d0) Missed ACK 60014141
+(0xb32ba0) chose 0 slots
+(0xa936e0) 60014191
+(0xb32650) 60014191
+(0xa93a60) Missed ACK 60014312
+(0xa92750) chose 1 slots
+(0xb329d0) Missed ACK 60014312
+(0xb32ba0) chose 0 slots
+(0xb32650) 60014362
+(0xb61db0) 60014418
+(0xb32ba0) chose 1 slots
+(0xb41030) 60014522
+(0xb39b90) 60014522
+(0xa936e0) 60014522
+(0xb2ebe0) 60014522
+(0xa887c0) 60014522
+(0xb2b170) 60014522
+(0xb413b0) Missed ACK 60014643
+(0xb400f0) chose 6 slots
+(0xb39f10) Missed ACK 60014643
+(0xb38c50) chose 4 slots
+(0xa93a60) Missed ACK 60014643
+(0xa92750) chose 27 slots
+(0xb2ef60) Missed ACK 60014643
+(0xb2f130) chose 1 slots
+(0xa88b40) Missed ACK 60014643
+(0xa87870) chose 2 slots
+(0xb2b4f0) Missed ACK 60014643
+(0xb2b6c0) chose 10 slots
+(0xb3d5e0) 60014698
+(0xaecf90) 60014698
+(0xaf7fd0) 60014698
+(0xb535c0) 60014698
+(0xb3d960) Missed ACK 60014819
+(0xb3c6a0) chose 4 slots
+(0xaed310) Missed ACK 60014819
+(0xaed4e0) chose 0 slots
+(0xaf8350) Missed ACK 60014819
+(0xaf7090) chose 1 slots
+(0xb53940) Missed ACK 60014819
+(0xb53b10) chose 2 slots
+(0xaecf90) 60014869
+(0xb61db0) 60014925
+(0xaed4e0) chose 0 slots
+(0xb360c0) 60015029
+(0xb2ebe0) 60015029
+(0xaf7fd0) 60015029
+(0xb36440) Missed ACK 60015150
+(0xb36610) chose 12 slots
+(0xb2ef60) Missed ACK 60015150
+(0xb2f130) chose 1 slots
+(0xaf8350) Missed ACK 60015150
+(0xaf7090) chose 31 slots
+(0xb0a310) 60015205
+(0xa887c0) 60015205
+(0xb27700) 60015205
+(0xb535c0) 60015206
+(0xb0a690) Missed ACK 60015326
+(0xb0a860) chose 8 slots
+(0xa88b40) Missed ACK 60015326
+(0xa87870) chose 0 slots
+(0xb27a80) Missed ACK 60015326
+(0xb27c50) chose 0 slots
+(0xb53940) Missed ACK 60015327
+(0xb53b10) chose 2 slots
+(0xa887c0) 60015376
+(0xb27700) 60015376
+(0xa88b40) Missed ACK 60015497
+(0xa87870) chose 0 slots
+(0xb27a80) Missed ACK 60015497
+(0xb27c50) chose 2 slots
+(0xa887c0) 60015547
+(0xb61db0) 60015604
+(0xa87870) chose 0 slots
+(0xb0de70) 60015708
+(0xb2ebe0) 60015708
+(0xb0e1f0) Missed ACK 60015829
+(0xb0e3c0) chose 1 slots
+(0xb2ef60) Missed ACK 60015829
+(0xb2f130) chose 11 slots
+(0xb3d5e0) 60015884
+(0xb39b90) 60015884
+(0xb535c0) 60015884
+(0xb27700) 60015884
+(0xb3d960) Missed ACK 60016005
+(0xb3c6a0) chose 1 slots
+(0xb39f10) Missed ACK 60016005
+(0xb38c50) chose 0 slots
+(0xb53940) Missed ACK 60016005
+(0xb53b10) chose 0 slots
+(0xb27a80) Missed ACK 60016005
+(0xb27c50) chose 0 slots
+(0xb39b90) 60016055
+(0xb535c0) 60016055
+(0xb27700) 60016055
+(0xb39f10) Missed ACK 60016176
+(0xb38c50) chose 0 slots
+(0xb53940) Missed ACK 60016176
+(0xb53b10) chose 12 slots
+(0xb27a80) Missed ACK 60016176
+(0xb27c50) chose 27 slots
+(0xb39b90) 60016226
+(0xb61db0) 60016282
+(0xb38c50) chose 0 slots
+(0xb3d5e0) 60016386
+(0xb0de70) 60016386
+(0xb3d960) Missed ACK 60016507
+(0xb3c6a0) chose 0 slots
+(0xb0e1f0) Missed ACK 60016507
+(0xb0e3c0) chose 1 slots
+(0xb3d5e0) 60016557
+(0xb61db0) 60016613
+(0xb3c6a0) chose 1 slots
+(0xb41030) 60016717
+(0xb0de70) 60016717
+(0xb413b0) Missed ACK 60016838
+(0xb400f0) chose 1 slots
+(0xb0e1f0) Missed ACK 60016838
+(0xb0e3c0) chose 0 slots
+(0xb0de70) 60016888
+(0xb61db0) 60016944
+(0xb0e3c0) chose 0 slots
+(0xb41030) 60017048
+(0xb61db0) 60017104
+(0xb400f0) chose 0 slots
+(0xae5ab0) 60017208
+(0xb61db0) 60017264
+(0xae6000) chose 0 slots
+(0xb118e0) 60017368
+(0xb61db0) 60017424
+(0xb11e30) chose 1 slots
+(0xb0a310) 60017528
+(0xb57030) 60017528
+(0xb2b170) 60017528
+(0xb0a690) Missed ACK 60017649
+(0xb0a860) chose 3 slots
+(0xb573b0) Missed ACK 60017649
+(0xb57580) chose 7 slots
+(0xb2b4f0) Missed ACK 60017649
+(0xb2b6c0) chose 4 slots
+(0xafba20) 60017744
+(0xb61db0) 60017800
+(0xafaae0) chose 0 slots
+(0xb360c0) 60017904
+(0xb0a310) 60017904
+(0xb36440) Missed ACK 60018025
+(0xb36610) chose 2 slots
+(0xb0a690) Missed ACK 60018025
+(0xb0a860) chose 2 slots
+(0xb2ebe0) 60018080
+(0xb48670) 60018080
+(0xb2b170) 60018081
+(0xb2ef60) Missed ACK 60018201
+(0xb2f130) chose 15 slots
+(0xb489f0) Missed ACK 60018201
+(0xb48bc0) chose 15 slots
+(0xb2b4f0) Missed ACK 60018202
+(0xb2b6c0) chose 2 slots
+(0xb535c0) 60018257
+(0xb61db0) 60018313
+(0xb53b10) chose 0 slots
+(0xb360c0) 60018417
+(0xb0a310) 60018417
+(0xb36440) Missed ACK 60018538
+(0xb36610) chose 1 slots
+(0xb0a690) Missed ACK 60018538
+(0xb0a860) chose 0 slots
+(0xb0a310) 60018588
+(0xb61db0) 60018644
+(0xb0a860) chose 0 slots
+(0xb360c0) 60018748
+(0xb57030) 60018748
+(0xb2b170) 60018748
+(0xb36440) Missed ACK 60018869
+(0xb36610) chose 1 slots
+(0xb573b0) Missed ACK 60018869
+(0xb57580) chose 1 slots
+(0xb2b4f0) Missed ACK 60018869
+(0xb2b6c0) chose 0 slots
+(0xb2b170) 60018919
+(0xb61db0) 60018975
+(0xb2b6c0) chose 1 slots
+(0xb360c0) 60019079
+(0xb57030) 60019079
+(0xb36440) Missed ACK 60019200
+(0xb36610) chose 0 slots
+(0xb573b0) Missed ACK 60019200
+(0xb57580) chose 0 slots
+(0xb360c0) 60019250
+(0xb57030) 60019250
+(0xb36440) Missed ACK 60019371
+(0xb36610) chose 13 slots
+(0xb573b0) Missed ACK 60019371
+(0xb57580) chose 2 slots
+(0xaff470) 60019426
+(0xb61db0) 60019482
+(0xafe530) chose 0 slots
+(0xb57030) 60019606
+(0xb02ec0) 60019606
+(0xb573b0) Missed ACK 60019727
+(0xb57580) chose 1 slots
+(0xb03240) Missed ACK 60019727
+(0xb01f80) chose 11 slots
+(0xb202c0) 60019782
+(0xb61db0) 60019838
+(0xb1f380) chose 1 slots
+(0xb57030) 60019942
+(0xb61db0) 60019998
+(0xb57580) chose 0 slots
+(0xa936e0) 60020142
+(0xb61db0) 60020198
+(0xa92750) chose 0 slots
+(0xb48670) 60020362
+(0xb27700) 60020363
+(0xb2ebe0) 60020363
+(0xb489f0) Missed ACK 60020483
+(0xb48bc0) chose 1 slots
+(0xb27a80) Missed ACK 60020484
+(0xb27c50) chose 24 slots
+(0xb2ef60) Missed ACK 60020484
+(0xb2f130) chose 0 slots
+(0xb2ebe0) 60020534
+(0xb61db0) 60020590
+(0xb2f130) chose 1 slots
+(0xb48670) 60020694
+(0xb61db0) 60020750
+(0xb48bc0) chose 0 slots
+(0xb360c0) 60020854
+(0xaf7fd0) 60020854
+(0xb36440) Missed ACK 60020975
+(0xb36610) chose 24 slots
+(0xaf8350) Missed ACK 60020975
+(0xaf7090) chose 11 slots
+(0xb02ec0) 60021030
+(0xb61db0) 60021086
+(0xb01f80) chose 1 slots
+(0xaf7fd0) 60021390
+(0xb61db0) 60021446
+(0xaf7090) chose 0 slots
+(0xb27700) 60021730
+(0xb61db0) 60021786
+(0xb27c50) chose 0 slots
+(0xb360c0) 60021930
+(0xb61db0) 60021986
+(0xb36610) chose 0 slots
+(0xb61db0) 60108800
+(0xb64290) chose 0 slots
+(0xb61db0) 60211200
+(0xb64290) chose 0 slots
+(0xb61db0) 60313600
+(0xb64290) chose 0 slots
+(0xb61db0) 60416000
+(0xb64290) chose 0 slots
+(0xb61db0) 60518400
+(0xb64290) chose 0 slots
+(0xb61db0) 60620800
+(0xb64290) chose 0 slots
+(0xb61db0) 60723200
+(0xb64290) chose 0 slots
+(0xb61db0) 60825600
+(0xb64290) chose 0 slots
+(0xb61db0) 60928000
+(0xb64290) chose 0 slots
+(0xb61db0) 61030400
+(0xb64290) chose 0 slots
+(0xb61db0) 61132800
+(0xb64290) chose 0 slots
+(0xb61db0) 61235200
+(0xb64290) chose 0 slots
+(0xb61db0) 61337600
+(0xb64290) chose 0 slots
+(0xb61db0) 61440000
+(0xb64290) chose 0 slots
+(0xb61db0) 61542400
+(0xb64290) chose 0 slots
+(0xb61db0) 61644800
+(0xb64290) chose 0 slots
+(0xb61db0) 61747200
+(0xb64290) chose 0 slots
+(0xb61db0) 61849600
+(0xb64290) chose 0 slots
+(0xb61db0) 61952000
+(0xb64290) chose 0 slots
+(0xb61db0) 62054400
+(0xb64290) chose 0 slots
+(0xb61db0) 62156800
+(0xb64290) chose 0 slots
+(0xb61db0) 62259200
+(0xb64290) chose 0 slots
+(0xb61db0) 62361600
+(0xb64290) chose 0 slots
+(0xb61db0) 62464000
+(0xb64290) chose 0 slots
+(0xb61db0) 62566400
+(0xb64290) chose 0 slots
+(0xb61db0) 62668800
+(0xb64290) chose 0 slots
+(0xb61db0) 62771200
+(0xb64290) chose 0 slots
+(0xb61db0) 62873600
+(0xb64290) chose 0 slots
+(0xb61db0) 62976000
+(0xb64290) chose 0 slots
+(0xb61db0) 63078400
+(0xb64290) chose 0 slots
+(0xb61db0) 63180800
+(0xb64290) chose 0 slots
+(0xb61db0) 63283200
+(0xb64290) chose 0 slots
+(0xb61db0) 63385600
+(0xb64290) chose 0 slots
+(0xb61db0) 63488000
+(0xb64290) chose 0 slots
+(0xb61db0) 63590400
+(0xb64290) chose 0 slots
+(0xb61db0) 63692800
+(0xb64290) chose 0 slots
+(0xb61db0) 63795200
+(0xb64290) chose 0 slots
+(0xb61db0) 63897600
+(0xb64290) chose 0 slots
+(0xb61db0) 64000000
+(0xb64290) chose 0 slots
+(0xb61db0) 64102400
+(0xb64290) chose 0 slots
+(0xb61db0) 64204800
+(0xb64290) chose 0 slots
+(0xb61db0) 64307200
+(0xb64290) chose 0 slots
+(0xb61db0) 64409600
+(0xb64290) chose 0 slots
+(0xb61db0) 64512000
+(0xb64290) chose 0 slots
+(0xb61db0) 64614400
+(0xb64290) chose 0 slots
+(0xb61db0) 64716800
+(0xb64290) chose 0 slots
+(0xb61db0) 64819200
+(0xb64290) chose 0 slots
+(0xb61db0) 64921600
+(0xb64290) chose 0 slots
+(0xb61db0) 65024000
+(0xb64290) chose 0 slots
+(0xb61db0) 65126400
+(0xb64290) chose 0 slots
+(0xb61db0) 65228800
+(0xb64290) chose 0 slots
+(0xb61db0) 65331200
+(0xb64290) chose 0 slots
+(0xb61db0) 65433600
+(0xb64290) chose 0 slots
+(0xb61db0) 65536000
+(0xb64290) chose 0 slots
+(0xb61db0) 65638400
+(0xb64290) chose 0 slots
+(0xb61db0) 65740800
+(0xb64290) chose 0 slots
+(0xb61db0) 65843200
+(0xb64290) chose 0 slots
+(0xb61db0) 65945600
+(0xb64290) chose 0 slots
+(0xb61db0) 66048000
+(0xb64290) chose 0 slots
+(0xb61db0) 66150400
+(0xb64290) chose 0 slots
+(0xb61db0) 66252800
+(0xb64290) chose 0 slots
+(0xb61db0) 66355200
+(0xb64290) chose 0 slots
+(0xb61db0) 66457600
+(0xb64290) chose 0 slots
+(0xb61db0) 66560000
+(0xb64290) chose 0 slots
+(0xb61db0) 66662400
+(0xb64290) chose 0 slots
+(0xb61db0) 66764800
+(0xb64290) chose 0 slots
+(0xb61db0) 66867200
+(0xb64290) chose 0 slots
+(0xb61db0) 66969600
+(0xb64290) chose 0 slots
+(0xb61db0) 67072000
+(0xb64290) chose 0 slots
+(0xb61db0) 67174400
+(0xb64290) chose 0 slots
+(0xb61db0) 67276800
+(0xb64290) chose 0 slots
+(0xb61db0) 67379200
+(0xb64290) chose 0 slots
+(0xb61db0) 67481600
+(0xb64290) chose 0 slots
+(0xb61db0) 67584000
+(0xb64290) chose 0 slots
+(0xb61db0) 67686400
+(0xb64290) chose 0 slots
+(0xb61db0) 67788800
+(0xb64290) chose 0 slots
+(0xb61db0) 67891200
+(0xb64290) chose 0 slots
+(0xb61db0) 67993600
+(0xb64290) chose 0 slots
+(0xb61db0) 68096000
+(0xb64290) chose 0 slots
+(0xb61db0) 68198400
+(0xb64290) chose 0 slots
+(0xb61db0) 68300800
+(0xb64290) chose 0 slots
+(0xb61db0) 68403200
+(0xb64290) chose 0 slots
+(0xb61db0) 68505600
+(0xb64290) chose 0 slots
+(0xb61db0) 68608000
+(0xb64290) chose 0 slots
+(0xb61db0) 68710400
+(0xb64290) chose 0 slots
+(0xb61db0) 68812800
+(0xb64290) chose 0 slots
+(0xb61db0) 68915200
+(0xb64290) chose 0 slots
+(0xb61db0) 69017600
+(0xb64290) chose 0 slots
+(0xb61db0) 69120000
+(0xb64290) chose 0 slots
+(0xb61db0) 69222400
+(0xb64290) chose 0 slots
+(0xb61db0) 69324800
+(0xb64290) chose 0 slots
+(0xb61db0) 69427200
+(0xb64290) chose 0 slots
+(0xb61db0) 69529600
+(0xb64290) chose 0 slots
+(0xb61db0) 69632000
+(0xb64290) chose 0 slots
+(0xb61db0) 69734400
+(0xb64290) chose 0 slots
+(0xb61db0) 69836800
+(0xb64290) chose 0 slots
+(0xb61db0) 69939200
+(0xb64290) chose 0 slots
+(0xb61db0) 70041600
+(0xb64290) chose 0 slots
+(0xb61db0) 70144000
+(0xb64290) chose 0 slots
+(0xb61db0) 70246400
+(0xb64290) chose 0 slots
+(0xb61db0) 70348800
+(0xb64290) chose 0 slots
+(0xb61db0) 70451200
+(0xb64290) chose 0 slots
+(0xb61db0) 70553600
+(0xb64290) chose 0 slots
+(0xb61db0) 70656000
+(0xb64290) chose 0 slots
+(0xb61db0) 70758400
+(0xb64290) chose 0 slots
+(0xb61db0) 70860800
+(0xb64290) chose 0 slots
+(0xb61db0) 70963200
+(0xb64290) chose 0 slots
+(0xb61db0) 71065600
+(0xb64290) chose 0 slots
+(0xb61db0) 71168000
+(0xb64290) chose 0 slots
+(0xb61db0) 71270400
+(0xb64290) chose 0 slots
+(0xb61db0) 71372800
+(0xb64290) chose 0 slots
+(0xb61db0) 71475200
+(0xb64290) chose 0 slots
+(0xb61db0) 71577600
+(0xb64290) chose 0 slots
+(0xb61db0) 71680000
+(0xb64290) chose 0 slots
+(0xb61db0) 71782400
+(0xb64290) chose 0 slots
+(0xb61db0) 71884800
+(0xb64290) chose 0 slots
+(0xb61db0) 71987200
+(0xb64290) chose 0 slots
+(0xb61db0) 72089600
+(0xb64290) chose 0 slots
+(0xb61db0) 72192000
+(0xb64290) chose 0 slots
+(0xb61db0) 72294400
+(0xb64290) chose 0 slots
+(0xb61db0) 72396800
+(0xb64290) chose 0 slots
+(0xb61db0) 72499200
+(0xb64290) chose 0 slots
+(0xb61db0) 72601600
+(0xb64290) chose 0 slots
+(0xb61db0) 72704000
+(0xb64290) chose 0 slots
+(0xb61db0) 72806400
+(0xb64290) chose 0 slots
+(0xb61db0) 72908800
+(0xb64290) chose 0 slots
+(0xb61db0) 73011200
+(0xb64290) chose 0 slots
+(0xb61db0) 73113600
+(0xb64290) chose 0 slots
+(0xb61db0) 73216000
+(0xb64290) chose 0 slots
+(0xb61db0) 73318400
+(0xb64290) chose 0 slots
+(0xb61db0) 73420800
+(0xb64290) chose 0 slots
+(0xb61db0) 73523200
+(0xb64290) chose 0 slots
+(0xb61db0) 73625600
+(0xb64290) chose 0 slots
+(0xb61db0) 73728000
+(0xb64290) chose 0 slots
+(0xb61db0) 73830400
+(0xb64290) chose 0 slots
+(0xb61db0) 73932800
+(0xb64290) chose 0 slots
+(0xb61db0) 74035200
+(0xb64290) chose 0 slots
+(0xb61db0) 74137600
+(0xb64290) chose 0 slots
+(0xb61db0) 74240000
+(0xb64290) chose 0 slots
+(0xb61db0) 74342400
+(0xb64290) chose 0 slots
+(0xb61db0) 74444800
+(0xb64290) chose 0 slots
+(0xb61db0) 74547200
+(0xb64290) chose 0 slots
+(0xb61db0) 74649600
+(0xb64290) chose 0 slots
+(0xb61db0) 74752000
+(0xb64290) chose 0 slots
+(0xb61db0) 74854400
+(0xb64290) chose 0 slots
+(0xb61db0) 74956800
+(0xb64290) chose 0 slots
+(0xb61db0) 75059200
+(0xb64290) chose 0 slots
+(0xb61db0) 75161600
+(0xb64290) chose 0 slots
+(0xb61db0) 75264000
+(0xb64290) chose 0 slots
+(0xb61db0) 75366400
+(0xb64290) chose 0 slots
+(0xb61db0) 75468800
+(0xb64290) chose 0 slots
+(0xb61db0) 75571200
+(0xb64290) chose 0 slots
+(0xb61db0) 75673600
+(0xb64290) chose 0 slots
+(0xb61db0) 75776000
+(0xb64290) chose 0 slots
+(0xb61db0) 75878400
+(0xb64290) chose 0 slots
+(0xb61db0) 75980800
+(0xb64290) chose 0 slots
+(0xb61db0) 76083200
+(0xb64290) chose 0 slots
+(0xb61db0) 76185600
+(0xb64290) chose 0 slots
+(0xb61db0) 76288000
+(0xb64290) chose 0 slots
+(0xb61db0) 76390400
+(0xb64290) chose 0 slots
+(0xb61db0) 76492800
+(0xb64290) chose 0 slots
+(0xb61db0) 76595200
+(0xb64290) chose 0 slots
+(0xb61db0) 76697600
+(0xb64290) chose 0 slots
+(0xb61db0) 76800000
+(0xb64290) chose 0 slots
+(0xb61db0) 76902400
+(0xb64290) chose 0 slots
+(0xb61db0) 77004800
+(0xb64290) chose 0 slots
+(0xb61db0) 77107200
+(0xb64290) chose 0 slots
+(0xb61db0) 77209600
+(0xb64290) chose 0 slots
+(0xb61db0) 77312000
+(0xb64290) chose 0 slots
+(0xb61db0) 77414400
+(0xb64290) chose 0 slots
+(0xb61db0) 77516800
+(0xb64290) chose 0 slots
+(0xb61db0) 77619200
+(0xb64290) chose 0 slots
+(0xb61db0) 77721600
+(0xb64290) chose 0 slots
+(0xb61db0) 77824000
+(0xb64290) chose 0 slots
+(0xb61db0) 77926400
+(0xb64290) chose 0 slots
+(0xb61db0) 78028800
+(0xb64290) chose 0 slots
+(0xb61db0) 78131200
+(0xb64290) chose 0 slots
+(0xb61db0) 78233600
+(0xb64290) chose 0 slots
+(0xb61db0) 78336000
+(0xb64290) chose 0 slots
+(0xb61db0) 78438400
+(0xb64290) chose 0 slots
+(0xb61db0) 78540800
+(0xb64290) chose 0 slots
+(0xb61db0) 78643200
+(0xb64290) chose 0 slots
+(0xb61db0) 78745600
+(0xb64290) chose 0 slots
+(0xb61db0) 78848000
+(0xb64290) chose 0 slots
+(0xb61db0) 78950400
+(0xb64290) chose 0 slots
+(0xb61db0) 79052800
+(0xb64290) chose 0 slots
+(0xb61db0) 79155200
+(0xb64290) chose 0 slots
+(0xb61db0) 79257600
+(0xb64290) chose 0 slots
+(0xb61db0) 79360000
+(0xb64290) chose 0 slots
+(0xb61db0) 79462400
+(0xb64290) chose 0 slots
+(0xb61db0) 79564800
+(0xb64290) chose 0 slots
+(0xb61db0) 79667200
+(0xb64290) chose 0 slots
+(0xb61db0) 79769600
+(0xb64290) chose 0 slots
+(0xb61db0) 79872000
+(0xb64290) chose 0 slots
+(0xb61db0) 79974400
+(0xb64290) chose 0 slots
+(0xb61db0) 80076800
+(0xb64290) chose 0 slots
+(0xb61db0) 80179200
+(0xb64290) chose 0 slots
+(0xb61db0) 80281600
+(0xb64290) chose 0 slots
+(0xb61db0) 80384000
+(0xb64290) chose 0 slots
+(0xb61db0) 80486400
+(0xb64290) chose 0 slots
+(0xb61db0) 80588800
+(0xb64290) chose 0 slots
+(0xb61db0) 80691200
+(0xb64290) chose 0 slots
+(0xb61db0) 80793600
+(0xb64290) chose 0 slots
+(0xb61db0) 80896000
+(0xb64290) chose 0 slots
+(0xb61db0) 80998400
+(0xb64290) chose 0 slots
+(0xb61db0) 81100800
+(0xb64290) chose 0 slots
+(0xb61db0) 81203200
+(0xb64290) chose 0 slots
+(0xb61db0) 81305600
+(0xb64290) chose 0 slots
+(0xb61db0) 81408000
+(0xb64290) chose 0 slots
+(0xb61db0) 81510400
+(0xb64290) chose 0 slots
+(0xb61db0) 81612800
+(0xb64290) chose 0 slots
+(0xb61db0) 81715200
+(0xb64290) chose 0 slots
+(0xb61db0) 81817600
+(0xb64290) chose 0 slots
+(0xb61db0) 81920000
+(0xb64290) chose 0 slots
+(0xb61db0) 82022400
+(0xb64290) chose 0 slots
+(0xb61db0) 82124800
+(0xb64290) chose 0 slots
+(0xb61db0) 82227200
+(0xb64290) chose 0 slots
+(0xb61db0) 82329600
+(0xb64290) chose 0 slots
+(0xb61db0) 82432000
+(0xb64290) chose 0 slots
+(0xb61db0) 82534400
+(0xb64290) chose 0 slots
+(0xb61db0) 82636800
+(0xb64290) chose 0 slots
+(0xb61db0) 82739200
+(0xb64290) chose 0 slots
+(0xb61db0) 82841600
+(0xb64290) chose 0 slots
+(0xb61db0) 82944000
+(0xb64290) chose 0 slots
+(0xb61db0) 83046400
+(0xb64290) chose 0 slots
+(0xb61db0) 83148800
+(0xb64290) chose 0 slots
+(0xb61db0) 83251200
+(0xb64290) chose 0 slots
+(0xb61db0) 83353600
+(0xb64290) chose 0 slots
+(0xb61db0) 83456000
+(0xb64290) chose 0 slots
+(0xb61db0) 83558400
+(0xb64290) chose 0 slots
+(0xb61db0) 83660800
+(0xb64290) chose 0 slots
+(0xb61db0) 83763200
+(0xb64290) chose 0 slots
+(0xb61db0) 83865600
+(0xb64290) chose 0 slots
+(0xb61db0) 83968000
+(0xb64290) chose 0 slots
+(0xb61db0) 84070400
+(0xb64290) chose 0 slots
+(0xb61db0) 84172800
+(0xb64290) chose 0 slots
+(0xb61db0) 84275200
+(0xb64290) chose 0 slots
+(0xb61db0) 84377600
+(0xb64290) chose 0 slots
+(0xb61db0) 84480000
+(0xb64290) chose 0 slots
+(0xb61db0) 84582400
+(0xb64290) chose 0 slots
+(0xb61db0) 84684800
+(0xb64290) chose 0 slots
+(0xb61db0) 84787200
+(0xb64290) chose 0 slots
+(0xb61db0) 84889600
+(0xb64290) chose 0 slots
+(0xb61db0) 84992000
+(0xb64290) chose 0 slots
+(0xb61db0) 85094400
+(0xb64290) chose 0 slots
+(0xb61db0) 85196800
+(0xb64290) chose 0 slots
+(0xb61db0) 85299200
+(0xb64290) chose 0 slots
+(0xb61db0) 85401600
+(0xb64290) chose 0 slots
+(0xb61db0) 85504000
+(0xb64290) chose 0 slots
+(0xb61db0) 85606400
+(0xb64290) chose 0 slots
+(0xb61db0) 85708800
+(0xb64290) chose 0 slots
+(0xb61db0) 85811200
+(0xb64290) chose 0 slots
+(0xb61db0) 85913600
+(0xb64290) chose 0 slots
+(0xb61db0) 86016000
+(0xb64290) chose 0 slots
+(0xb61db0) 86118400
+(0xb64290) chose 0 slots
+(0xb61db0) 86220800
+(0xb64290) chose 0 slots
+(0xb61db0) 86323200
+(0xb64290) chose 0 slots
+(0xb61db0) 86425600
+(0xb64290) chose 0 slots
+(0xb61db0) 86528000
+(0xb64290) chose 0 slots
+(0xb61db0) 86630400
+(0xb64290) chose 0 slots
+(0xb61db0) 86732800
+(0xb64290) chose 0 slots
+(0xb61db0) 86835200
+(0xb64290) chose 0 slots
+(0xb61db0) 86937600
+(0xb64290) chose 0 slots
+(0xb61db0) 87040000
+(0xb64290) chose 0 slots
+(0xb61db0) 87142400
+(0xb64290) chose 0 slots
+(0xb61db0) 87244800
+(0xb64290) chose 0 slots
+(0xb61db0) 87347200
+(0xb64290) chose 0 slots
+(0xb61db0) 87449600
+(0xb64290) chose 0 slots
+(0xb61db0) 87552000
+(0xb64290) chose 0 slots
+(0xb61db0) 87654400
+(0xb64290) chose 0 slots
+(0xb61db0) 87756800
+(0xb64290) chose 0 slots
+(0xb61db0) 87859200
+(0xb64290) chose 0 slots
+(0xb61db0) 87961600
+(0xb64290) chose 0 slots
+(0xb61db0) 88064000
+(0xb64290) chose 0 slots
+(0xb61db0) 88166400
+(0xb64290) chose 0 slots
+(0xb61db0) 88268800
+(0xb64290) chose 0 slots
+(0xb61db0) 88371200
+(0xb64290) chose 0 slots
+(0xb61db0) 88473600
+(0xb64290) chose 0 slots
+(0xb61db0) 88576000
+(0xb64290) chose 0 slots
+(0xb61db0) 88678400
+(0xb64290) chose 0 slots
+(0xb61db0) 88780800
+(0xb64290) chose 0 slots
+(0xb61db0) 88883200
+(0xb64290) chose 0 slots
+(0xb61db0) 88985600
+(0xb64290) chose 0 slots
+(0xb61db0) 89088000
+(0xb64290) chose 0 slots
+(0xb61db0) 89190400
+(0xb64290) chose 0 slots
+(0xb61db0) 89292800
+(0xb64290) chose 0 slots
+(0xb61db0) 89395200
+(0xb64290) chose 0 slots
+(0xb61db0) 89497600
+(0xb64290) chose 0 slots
+(0xb61db0) 89600000
+(0xb64290) chose 0 slots
+(0xb61db0) 89702400
+(0xb64290) chose 0 slots
+(0xb61db0) 89804800
+(0xb64290) chose 0 slots
+(0xb61db0) 89907200
+(0xb64290) chose 0 slots
+(0xb61db0) 90009600
+(0xb64290) chose 0 slots
+(0xb61db0) 90112000
+(0xb64290) chose 0 slots
+(0xb61db0) 90214400
+(0xb64290) chose 0 slots
+(0xb61db0) 90316800
+(0xb64290) chose 0 slots
+(0xb61db0) 90419200
+(0xb64290) chose 0 slots
+(0xb61db0) 90521600
+(0xb64290) chose 0 slots
+(0xb61db0) 90624000
+(0xb64290) chose 0 slots
+(0xb61db0) 90726400
+(0xb64290) chose 0 slots
+(0xb61db0) 90828800
+(0xb64290) chose 0 slots
+(0xb61db0) 90931200
+(0xb64290) chose 0 slots
+(0xb61db0) 91033600
+(0xb64290) chose 0 slots
+(0xb61db0) 91136000
+(0xb64290) chose 0 slots
+(0xb61db0) 91238400
+(0xb64290) chose 0 slots
+(0xb61db0) 91340800
+(0xb64290) chose 0 slots
+(0xb61db0) 91443200
+(0xb64290) chose 0 slots
+(0xb61db0) 91545600
+(0xb64290) chose 0 slots
+(0xb61db0) 91648000
+(0xb64290) chose 0 slots
+(0xb61db0) 91750400
+(0xb64290) chose 0 slots
+(0xb61db0) 91852800
+(0xb64290) chose 0 slots
+(0xb61db0) 91955200
+(0xb64290) chose 0 slots
+(0xb61db0) 92057600
+(0xb64290) chose 0 slots
+(0xb61db0) 92160000
+(0xb64290) chose 0 slots
+(0xb61db0) 92262400
+(0xb64290) chose 0 slots
+(0xb61db0) 92364800
+(0xb64290) chose 0 slots
+(0xb61db0) 92467200
+(0xb64290) chose 0 slots
+(0xb61db0) 92569600
+(0xb64290) chose 0 slots
+(0xb61db0) 92672000
+(0xb64290) chose 0 slots
+(0xb61db0) 92774400
+(0xb64290) chose 0 slots
+(0xb61db0) 92876800
+(0xb64290) chose 0 slots
+(0xb61db0) 92979200
+(0xb64290) chose 0 slots
+(0xb61db0) 93081600
+(0xb64290) chose 0 slots
+(0xb61db0) 93184000
+(0xb64290) chose 0 slots
+(0xb61db0) 93286400
+(0xb64290) chose 0 slots
+(0xb61db0) 93388800
+(0xb64290) chose 0 slots
+(0xb61db0) 93491200
+(0xb64290) chose 0 slots
+(0xb61db0) 93593600
+(0xb64290) chose 0 slots
+(0xb61db0) 93696000
+(0xb64290) chose 0 slots
+(0xb61db0) 93798400
+(0xb64290) chose 0 slots
+(0xb61db0) 93900800
+(0xb64290) chose 0 slots
+(0xb61db0) 94003200
+(0xb64290) chose 0 slots
+(0xb61db0) 94105600
+(0xb64290) chose 0 slots
+(0xb61db0) 94208000
+(0xb64290) chose 0 slots
+(0xb61db0) 94310400
+(0xb64290) chose 0 slots
+(0xb61db0) 94412800
+(0xb64290) chose 0 slots
+(0xb61db0) 94515200
+(0xb64290) chose 0 slots
+(0xb61db0) 94617600
+(0xb64290) chose 0 slots
+(0xb61db0) 94720000
+(0xb64290) chose 0 slots
+(0xb61db0) 94822400
+(0xb64290) chose 0 slots
+(0xb61db0) 94924800
+(0xb64290) chose 0 slots
+(0xb61db0) 95027200
+(0xb64290) chose 0 slots
+(0xb61db0) 95129600
+(0xb64290) chose 0 slots
+(0xb61db0) 95232000
+(0xb64290) chose 0 slots
+(0xb61db0) 95334400
+(0xb64290) chose 0 slots
+(0xb61db0) 95436800
+(0xb64290) chose 0 slots
+(0xb61db0) 95539200
+(0xb64290) chose 0 slots
+(0xb61db0) 95641600
+(0xb64290) chose 0 slots
+(0xb61db0) 95744000
+(0xb64290) chose 0 slots
+(0xb61db0) 95846400
+(0xb64290) chose 0 slots
+(0xb61db0) 95948800
+(0xb64290) chose 0 slots
+(0xb61db0) 96051200
+(0xb64290) chose 0 slots
+(0xb61db0) 96153600
+(0xb64290) chose 0 slots
+(0xb61db0) 96256000
+(0xb64290) chose 0 slots
+(0xb61db0) 96358400
+(0xb64290) chose 0 slots
+(0xb61db0) 96460800
+(0xb64290) chose 0 slots
+(0xb61db0) 96563200
+(0xb64290) chose 0 slots
+(0xb61db0) 96665600
+(0xb64290) chose 0 slots
+(0xb61db0) 96768000
+(0xb64290) chose 0 slots
+(0xb61db0) 96870400
+(0xb64290) chose 0 slots
+(0xb61db0) 96972800
+(0xb64290) chose 0 slots
+(0xb61db0) 97075200
+(0xb64290) chose 0 slots
+(0xb61db0) 97177600
+(0xb64290) chose 0 slots
+(0xb61db0) 97280000
+(0xb64290) chose 0 slots
+(0xb61db0) 97382400
+(0xb64290) chose 0 slots
+(0xb61db0) 97484800
+(0xb64290) chose 0 slots
+(0xb61db0) 97587200
+(0xb64290) chose 0 slots
+(0xb61db0) 97689600
+(0xb64290) chose 0 slots
+(0xb61db0) 97792000
+(0xb64290) chose 0 slots
+(0xb61db0) 97894400
+(0xb64290) chose 0 slots
+(0xb61db0) 97996800
+(0xb64290) chose 0 slots
+(0xb61db0) 98099200
+(0xb64290) chose 0 slots
+(0xb61db0) 98201600
+(0xb64290) chose 0 slots
+(0xb61db0) 98304000
+(0xb64290) chose 0 slots
+(0xb61db0) 98406400
+(0xb64290) chose 0 slots
+(0xb61db0) 98508800
+(0xb64290) chose 0 slots
+(0xb61db0) 98611200
+(0xb64290) chose 0 slots
+(0xb61db0) 98713600
+(0xb64290) chose 0 slots
+(0xb61db0) 98816000
+(0xb64290) chose 0 slots
+(0xb61db0) 98918400
+(0xb64290) chose 0 slots
+(0xb61db0) 99020800
+(0xb64290) chose 0 slots
+(0xb61db0) 99123200
+(0xb64290) chose 0 slots
+(0xb61db0) 99225600
+(0xb64290) chose 0 slots
+(0xb61db0) 99328000
+(0xb64290) chose 0 slots
+(0xb61db0) 99430400
+(0xb64290) chose 0 slots
+(0xb61db0) 99532800
+(0xb64290) chose 0 slots
+(0xb61db0) 99635200
+(0xb64290) chose 0 slots
+(0xb61db0) 99737600
+(0xb64290) chose 0 slots
+(0xb61db0) 99840000
+(0xb64290) chose 0 slots
+(0xb61db0) 99942400
+(0xb64290) chose 0 slots
+(0xb61db0) 100044800
+(0xb64290) chose 0 slots
+(0xb61db0) 100147200
+(0xb64290) chose 0 slots
+(0xb61db0) 100249600
+(0xb64290) chose 0 slots
+(0xb61db0) 100352000
+(0xb64290) chose 0 slots
+(0xb61db0) 100454400
+(0xb64290) chose 0 slots
+ 
+DcfManager:~DcfManager(0xa813b0)
+-----------------------------------
+Times device started TX: 28
+Times device started RX: 1766
+ 
+Times device RX ended OK: 1482
+Times device RX ended with an error: 284
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:01] DcaTxop:DoDispose(0xa81730)
+ 
+DcfManager:~DcfState(0xa81900)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 42
+ 
+Times DcfState requested access to the channel: 26
+Times DcfState was granted access to the channel: 26
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 1
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xa81730)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 3
+Missed ACK time: 360
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00006e+07
+Packet time: 604
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xa84d90)
+-----------------------------------
+Times device started TX: 41
+Times device started RX: 1753
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 272
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:02] DcaTxop:DoDispose(0xa85110)
+ 
+DcfManager:~DcfState(0xa852e0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 80
+ 
+Times DcfState requested access to the channel: 39
+Times DcfState was granted access to the channel: 39
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 27
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xa85110)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 12
+Missed ACK time: 1460
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00126e+07
+Packet time: 12576
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xa887c0)
+-----------------------------------
+Times device started TX: 42
+Times device started RX: 1752
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 271
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:03] DcaTxop:DoDispose(0xa88b40)
+ 
+DcfManager:~DcfState(0xa87870)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 112
+ 
+Times DcfState requested access to the channel: 40
+Times DcfState was granted access to the channel: 40
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 36
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xa88b40)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1700
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00156e+07
+Packet time: 15640
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xa8c210)
+-----------------------------------
+Times device started TX: 52
+Times device started RX: 1742
+ 
+Times device RX ended OK: 1480
+Times device RX ended with an error: 262
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:04] DcaTxop:DoDispose(0xa8c590)
+ 
+DcfManager:~DcfState(0xa8b2c0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 155
+ 
+Times DcfState requested access to the channel: 50
+Times DcfState was granted access to the channel: 50
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 31
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xa8c590)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 12
+Missed ACK time: 1456
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00134e+07
+Packet time: 13432
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xa8fc50)
+-----------------------------------
+Times device started TX: 33
+Times device started RX: 1761
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 280
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:05] DcaTxop:DoDispose(0xa8ffd0)
+ 
+DcfManager:~DcfState(0xa8ed10)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 84
+ 
+Times DcfState requested access to the channel: 31
+Times DcfState was granted access to the channel: 31
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 1
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xa8ffd0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 4
+Missed ACK time: 480
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00013e+07
+Packet time: 1276
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xa936e0)
+-----------------------------------
+Times device started TX: 43
+Times device started RX: 1751
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 270
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:06] DcaTxop:DoDispose(0xa93a60)
+ 
+DcfManager:~DcfState(0xa92750)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 122
+ 
+Times DcfState requested access to the channel: 41
+Times DcfState was granted access to the channel: 41
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 62
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xa93a60)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 15
+Missed ACK time: 1812
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00202e+07
+Packet time: 20232
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xae5ab0)
+-----------------------------------
+Times device started TX: 57
+Times device started RX: 1737
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 256
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:07] DcaTxop:DoDispose(0xae5e30)
+ 
+DcfManager:~DcfState(0xae6000)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 157
+ 
+Times DcfState requested access to the channel: 55
+Times DcfState was granted access to the channel: 55
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 44
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xae5e30)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 15
+Missed ACK time: 1816
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00173e+07
+Packet time: 17296
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xae9520)
+-----------------------------------
+Times device started TX: 42
+Times device started RX: 1752
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 271
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:08] DcaTxop:DoDispose(0xae98a0)
+ 
+DcfManager:~DcfState(0xae9a70)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 68
+ 
+Times DcfState requested access to the channel: 40
+Times DcfState was granted access to the channel: 40
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 26
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xae98a0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1696
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00122e+07
+Packet time: 12244
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xaecf90)
+-----------------------------------
+Times device started TX: 47
+Times device started RX: 1747
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 266
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:09] DcaTxop:DoDispose(0xaed310)
+ 
+DcfManager:~DcfState(0xaed4e0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 118
+ 
+Times DcfState requested access to the channel: 45
+Times DcfState was granted access to the channel: 45
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 34
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xaed310)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1696
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.0015e+07
+Packet time: 14960
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xaf0a90)
+-----------------------------------
+Times device started TX: 39
+Times device started RX: 1755
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 274
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:0a] DcaTxop:DoDispose(0xaf0e10)
+ 
+DcfManager:~DcfState(0xaf0fe0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 67
+ 
+Times DcfState requested access to the channel: 37
+Times DcfState was granted access to the channel: 37
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 10
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xaf0e10)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 7
+Missed ACK time: 848
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.0005e+07
+Packet time: 5032
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xaf4500)
+-----------------------------------
+Times device started TX: 42
+Times device started RX: 1752
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 271
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:0b] DcaTxop:DoDispose(0xaf4880)
+ 
+DcfManager:~DcfState(0xaf4a50)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 88
+ 
+Times DcfState requested access to the channel: 40
+Times DcfState was granted access to the channel: 40
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 31
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xaf4880)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 11
+Missed ACK time: 1336
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00131e+07
+Packet time: 13100
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xaf7fd0)
+-----------------------------------
+Times device started TX: 43
+Times device started RX: 1751
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 270
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:0c] DcaTxop:DoDispose(0xaf8350)
+ 
+DcfManager:~DcfState(0xaf7090)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 119
+ 
+Times DcfState requested access to the channel: 41
+Times DcfState was granted access to the channel: 41
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 78
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xaf8350)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 16
+Missed ACK time: 1940
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00215e+07
+Packet time: 21480
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xafba20)
+-----------------------------------
+Times device started TX: 47
+Times device started RX: 1747
+ 
+Times device RX ended OK: 1480
+Times device RX ended with an error: 267
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:0d] DcaTxop:DoDispose(0xafbda0)
+ 
+DcfManager:~DcfState(0xafaae0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 129
+ 
+Times DcfState requested access to the channel: 45
+Times DcfState was granted access to the channel: 45
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 47
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xafbda0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 15
+Missed ACK time: 1820
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00178e+07
+Packet time: 17832
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xaff470)
+-----------------------------------
+Times device started TX: 42
+Times device started RX: 1752
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 271
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:0e] DcaTxop:DoDispose(0xaff7f0)
+ 
+DcfManager:~DcfState(0xafe530)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 131
+ 
+Times DcfState requested access to the channel: 40
+Times DcfState was granted access to the channel: 40
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 52
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xaff7f0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 15
+Missed ACK time: 1820
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00195e+07
+Packet time: 19516
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb02ec0)
+-----------------------------------
+Times device started TX: 54
+Times device started RX: 1740
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 259
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:0f] DcaTxop:DoDispose(0xb03240)
+ 
+DcfManager:~DcfState(0xb01f80)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 176
+ 
+Times DcfState requested access to the channel: 52
+Times DcfState was granted access to the channel: 52
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 69
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb03240)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 16
+Missed ACK time: 1940
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00211e+07
+Packet time: 21120
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb068a0)
+-----------------------------------
+Times device started TX: 37
+Times device started RX: 1757
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 276
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:10] DcaTxop:DoDispose(0xb06c20)
+ 
+DcfManager:~DcfState(0xb06df0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 76
+ 
+Times DcfState requested access to the channel: 35
+Times DcfState was granted access to the channel: 35
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 22
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb06c20)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1688
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00112e+07
+Packet time: 11232
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb0a310)
+-----------------------------------
+Times device started TX: 50
+Times device started RX: 1744
+ 
+Times device RX ended OK: 1479
+Times device RX ended with an error: 265
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:11] DcaTxop:DoDispose(0xb0a690)
+ 
+DcfManager:~DcfState(0xb0a860)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 120
+ 
+Times DcfState requested access to the channel: 48
+Times DcfState was granted access to the channel: 48
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 48
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb0a690)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 20
+Missed ACK time: 2416
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00187e+07
+Packet time: 18680
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb0de70)
+-----------------------------------
+Times device started TX: 39
+Times device started RX: 1755
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 274
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:12] DcaTxop:DoDispose(0xb0e1f0)
+ 
+DcfManager:~DcfState(0xb0e3c0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 77
+ 
+Times DcfState requested access to the channel: 37
+Times DcfState was granted access to the channel: 37
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 40
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb0e1f0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1704
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.0017e+07
+Packet time: 16976
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb118e0)
+-----------------------------------
+Times device started TX: 43
+Times device started RX: 1751
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 270
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:13] DcaTxop:DoDispose(0xb11c60)
+ 
+DcfManager:~DcfState(0xb11e30)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 139
+ 
+Times DcfState requested access to the channel: 41
+Times DcfState was granted access to the channel: 41
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 44
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb11c60)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 15
+Missed ACK time: 1820
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00175e+07
+Packet time: 17456
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb15350)
+-----------------------------------
+Times device started TX: 50
+Times device started RX: 1744
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 263
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:14] DcaTxop:DoDispose(0xb156d0)
+ 
+DcfManager:~DcfState(0xb158a0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 122
+ 
+Times DcfState requested access to the channel: 48
+Times DcfState was granted access to the channel: 48
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 17
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb156d0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 12
+Missed ACK time: 1452
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00087e+07
+Packet time: 8680
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb18e20)
+-----------------------------------
+Times device started TX: 44
+Times device started RX: 1750
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 269
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:15] DcaTxop:DoDispose(0xb191a0)
+ 
+DcfManager:~DcfState(0xb17ee0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 152
+ 
+Times DcfState requested access to the channel: 42
+Times DcfState was granted access to the channel: 42
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 26
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb191a0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 11
+Missed ACK time: 1328
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00119e+07
+Packet time: 11912
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb1c870)
+-----------------------------------
+Times device started TX: 36
+Times device started RX: 1758
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 277
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:16] DcaTxop:DoDispose(0xb1cbf0)
+ 
+DcfManager:~DcfState(0xb1b930)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 46
+ 
+Times DcfState requested access to the channel: 34
+Times DcfState was granted access to the channel: 34
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 8
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb1cbf0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 10
+Missed ACK time: 1208
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00044e+07
+Packet time: 4352
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb202c0)
+-----------------------------------
+Times device started TX: 56
+Times device started RX: 1738
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 257
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:17] DcaTxop:DoDispose(0xb20640)
+ 
+DcfManager:~DcfState(0xb1f380)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 163
+ 
+Times DcfState requested access to the channel: 54
+Times DcfState was granted access to the channel: 54
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 58
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb20640)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 15
+Missed ACK time: 1812
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00199e+07
+Packet time: 19872
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb23d10)
+-----------------------------------
+Times device started TX: 21
+Times device started RX: 1773
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 292
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:18] DcaTxop:DoDispose(0xb24090)
+ 
+DcfManager:~DcfState(0xb22dd0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 18
+ 
+Times DcfState requested access to the channel: 19
+Times DcfState was granted access to the channel: 19
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 15
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb24090)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 11
+Missed ACK time: 1332
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00077e+07
+Packet time: 7676
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb27700)
+-----------------------------------
+Times device started TX: 62
+Times device started RX: 1732
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 251
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:19] DcaTxop:DoDispose(0xb27a80)
+ 
+DcfManager:~DcfState(0xb27c50)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 178
+ 
+Times DcfState requested access to the channel: 60
+Times DcfState was granted access to the channel: 60
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 86
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb27a80)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 22
+Missed ACK time: 2668
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00218e+07
+Packet time: 21820
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb2b170)
+-----------------------------------
+Times device started TX: 47
+Times device started RX: 1747
+ 
+Times device RX ended OK: 1482
+Times device RX ended with an error: 265
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:1a] DcaTxop:DoDispose(0xb2b4f0)
+ 
+DcfManager:~DcfState(0xb2b6c0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 80
+ 
+Times DcfState requested access to the channel: 45
+Times DcfState was granted access to the channel: 45
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 51
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb2b4f0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 18
+Missed ACK time: 2176
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.0019e+07
+Packet time: 19008
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb2ebe0)
+-----------------------------------
+Times device started TX: 48
+Times device started RX: 1746
+ 
+Times device RX ended OK: 1480
+Times device RX ended with an error: 266
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:1b] DcaTxop:DoDispose(0xb2ef60)
+ 
+DcfManager:~DcfState(0xb2f130)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 125
+ 
+Times DcfState requested access to the channel: 46
+Times DcfState was granted access to the channel: 46
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 64
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb2ef60)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 17
+Missed ACK time: 2064
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00206e+07
+Packet time: 20624
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb32650)
+-----------------------------------
+Times device started TX: 56
+Times device started RX: 1738
+ 
+Times device RX ended OK: 1478
+Times device RX ended with an error: 260
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:1c] DcaTxop:DoDispose(0xb329d0)
+ 
+DcfManager:~DcfState(0xb32ba0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 119
+ 
+Times DcfState requested access to the channel: 54
+Times DcfState was granted access to the channel: 54
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 35
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb329d0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1684
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00145e+07
+Packet time: 14452
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb360c0)
+-----------------------------------
+Times device started TX: 66
+Times device started RX: 1728
+ 
+Times device RX ended OK: 1480
+Times device RX ended with an error: 248
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:1d] DcaTxop:DoDispose(0xb36440)
+ 
+DcfManager:~DcfState(0xb36610)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 174
+ 
+Times DcfState requested access to the channel: 64
+Times DcfState was granted access to the channel: 64
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 87
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb36440)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 22
+Missed ACK time: 2656
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.0022e+07
+Packet time: 22020
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb39b90)
+-----------------------------------
+Times device started TX: 55
+Times device started RX: 1739
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 258
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:1e] DcaTxop:DoDispose(0xb39f10)
+ 
+DcfManager:~DcfState(0xb38c50)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 143
+ 
+Times DcfState requested access to the channel: 53
+Times DcfState was granted access to the channel: 53
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 38
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb39f10)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1700
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00163e+07
+Packet time: 16316
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb3d5e0)
+-----------------------------------
+Times device started TX: 52
+Times device started RX: 1742
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 261
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:1f] DcaTxop:DoDispose(0xb3d960)
+ 
+DcfManager:~DcfState(0xb3c6a0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 113
+ 
+Times DcfState requested access to the channel: 50
+Times DcfState was granted access to the channel: 50
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 41
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb3d960)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1712
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00166e+07
+Packet time: 16648
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb41030)
+-----------------------------------
+Times device started TX: 43
+Times device started RX: 1751
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 270
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:20] DcaTxop:DoDispose(0xb413b0)
+ 
+DcfManager:~DcfState(0xb400f0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 106
+ 
+Times DcfState requested access to the channel: 41
+Times DcfState was granted access to the channel: 41
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 41
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb413b0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 12
+Missed ACK time: 1456
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00171e+07
+Packet time: 17136
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb44a80)
+-----------------------------------
+Times device started TX: 52
+Times device started RX: 1742
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 261
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:21] DcaTxop:DoDispose(0xb44e00)
+ 
+DcfManager:~DcfState(0xb43b40)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 71
+ 
+Times DcfState requested access to the channel: 50
+Times DcfState was granted access to the channel: 50
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 20
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb44e00)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 13
+Missed ACK time: 1576
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00104e+07
+Packet time: 10384
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb48670)
+-----------------------------------
+Times device started TX: 59
+Times device started RX: 1735
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 254
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:22] DcaTxop:DoDispose(0xb489f0)
+ 
+DcfManager:~DcfState(0xb48bc0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 172
+ 
+Times DcfState requested access to the channel: 57
+Times DcfState was granted access to the channel: 57
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 67
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb489f0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 17
+Missed ACK time: 2060
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00208e+07
+Packet time: 20784
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb4c0e0)
+-----------------------------------
+Times device started TX: 31
+Times device started RX: 1763
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 282
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:23] DcaTxop:DoDispose(0xb4c460)
+ 
+DcfManager:~DcfState(0xb4c630)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 51
+ 
+Times DcfState requested access to the channel: 29
+Times DcfState was granted access to the channel: 29
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 17
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb4c460)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 10
+Missed ACK time: 1208
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00092e+07
+Packet time: 9184
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb4fb50)
+-----------------------------------
+Times device started TX: 42
+Times device started RX: 1752
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 271
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:24] DcaTxop:DoDispose(0xb4fed0)
+ 
+DcfManager:~DcfState(0xb500a0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 125
+ 
+Times DcfState requested access to the channel: 40
+Times DcfState was granted access to the channel: 40
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 12
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb4fed0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 7
+Missed ACK time: 856
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00059e+07
+Packet time: 5884
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb535c0)
+-----------------------------------
+Times device started TX: 54
+Times device started RX: 1740
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 259
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:25] DcaTxop:DoDispose(0xb53940)
+ 
+DcfManager:~DcfState(0xb53b10)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 148
+ 
+Times DcfState requested access to the channel: 52
+Times DcfState was granted access to the channel: 52
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 51
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb53940)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 15
+Missed ACK time: 1808
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00183e+07
+Packet time: 18348
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb57030)
+-----------------------------------
+Times device started TX: 46
+Times device started RX: 1748
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 267
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:26] DcaTxop:DoDispose(0xb573b0)
+ 
+DcfManager:~DcfState(0xb57580)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 93
+ 
+Times DcfState requested access to the channel: 44
+Times DcfState was granted access to the channel: 44
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 56
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb573b0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 20
+Missed ACK time: 2424
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.002e+07
+Packet time: 20032
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb5ab00)
+-----------------------------------
+Times device started TX: 36
+Times device started RX: 1758
+ 
+Times device RX ended OK: 1479
+Times device RX ended with an error: 279
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:27] DcaTxop:DoDispose(0xb5ae80)
+ 
+DcfManager:~DcfState(0xb59bc0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 62
+ 
+Times DcfState requested access to the channel: 34
+Times DcfState was granted access to the channel: 34
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 3
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb5ae80)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 5
+Missed ACK time: 608
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00019e+07
+Packet time: 1948
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb5e550)
+-----------------------------------
+Times device started TX: 44
+Times device started RX: 1750
+ 
+Times device RX ended OK: 1481
+Times device RX ended with an error: 269
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:28] DcaTxop:DoDispose(0xb5e8d0)
+ 
+DcfManager:~DcfState(0xb5d610)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 59
+ 
+Times DcfState requested access to the channel: 42
+Times DcfState was granted access to the channel: 42
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 14
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb5e8d0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 14
+Missed ACK time: 1692
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00082e+07
+Packet time: 8180
+ 
+-----------------------------------
+[mac=00:00:00:00:00:29] DcaTxop:DoDispose(0xb64100)
+ 
+DcfManager:~DcfState(0xb64290)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 0
+ 
+Times DcfState requested access to the channel: 982
+Times DcfState was granted access to the channel: 982
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 0
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb64100)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 0
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 0
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 0
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 0
+Missed ACK time: 0
+ 
+Dequeued Packet at: 0
+Got ACK for Packet at: 0
+Packet time: 0
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0xb61db0)
+-----------------------------------
+Times device started TX: 1290
+Times device started RX: 504
+ 
+Times device RX ended OK: 240
+Times device RX ended with an error: 264
+ 
+Duration of last TX: +752000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:29] DcaTxop:DoDispose(0xb62130)
+ 
+DcfManager:~DcfState(0xb61060)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 147
+ 
+Times DcfState requested access to the channel: 148
+Times DcfState was granted access to the channel: 148
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 0
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0xb62130)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 0
+Number of Association Response Packets queued: 40
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 80
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 80
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 0
+Missed ACK time: 0
+ 
+Dequeued Packet at: 0
+Got ACK for Packet at: 0
+Packet time: 0
+ 
+-----------------------------------
+ 
