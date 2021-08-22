@@ -1,1884 +1,1804 @@
-Waf: Entering directory `/home/trishachakraborty/ns3/ns-allinone-3.25/ns-3.25/build'
-Waf: Leaving directory `/home/trishachakraborty/ns3/ns-allinone-3.25/ns-3.25/build'
+Waf: Entering directory `/home/tc2006/ns3/ns-allinone-3.25/ns-3.25/build'
+Waf: Leaving directory `/home/tc2006/ns3/ns-allinone-3.25/ns-3.25/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (1.415s)
+'build' finished successfully (1.589s)
 
 NUMCLIENTS:10
 
-(0xca5ed0) 30
-(0xc48b70) 832
-(0xc416a0) 832
-(0xc9e9b0) 832
-(0xc367e0) 832
-(0xc32e00) 832
-(0xc48ef0) Missed ACK 945
-(0xc41a20) Missed ACK 945
-(0xc9ed30) Missed ACK 945
-(0xc36b60) Missed ACK 945
-(0xc33180) Missed ACK 945
-(0xc9e9b0) 995
-(0xc367e0) 995
-(0xc9ed30) Missed ACK 1108
-(0xc36b60) Missed ACK 1108
-(0xc367e0) 1158
-(0xca5ed0) 1206
-(0xca5ed0) 1290
-(0xc367e0) 1334
-(0xc48b70) 1580
-(0xc45130) 1580
-(0xc9af40) 1580
-(0xc9e9b0) 1580
-(0xc3dc60) 1580
-(0xca24b0) 1580
-(0xc3a220) 1580
-(0xc48ef0) Missed ACK 1693
-(0xc454b0) Missed ACK 1693
-(0xc9b2c0) Missed ACK 1693
-(0xc9ed30) Missed ACK 1693
-(0xc3dfe0) Missed ACK 1693
-(0xca2830) Missed ACK 1693
-(0xc3a5a0) Missed ACK 1693
-(0xc9af40) 1743
-(0xc3dc60) 1743
-(0xca24b0) 1743
-(0xc9b2c0) Missed ACK 1856
-(0xc3dfe0) Missed ACK 1856
-(0xca2830) Missed ACK 1856
-(0xc416a0) 1911
-(0xc45130) 1911
-(0xc32e00) 1911
-(0xc41a20) Missed ACK 2024
-(0xc454b0) Missed ACK 2024
-(0xc33180) Missed ACK 2024
-(0xc416a0) 2074
-(0xc32e00) 2074
-(0xc41a20) Missed ACK 2187
-(0xc33180) Missed ACK 2187
-(0xc3dc60) 2242
-(0xc3a220) 2242
-(0xc48b70) 2242
-(0xca24b0) 2242
-(0xc3dfe0) Missed ACK 2355
-(0xc3a5a0) Missed ACK 2355
-(0xc48ef0) Missed ACK 2355
-(0xca2830) Missed ACK 2355
-(0xc9af40) 2410
-(0xc32e00) 2410
-(0xc9b2c0) Missed ACK 2523
-(0xc33180) Missed ACK 2523
-(0xc45130) 2578
-(0xca5ed0) 2626
-(0xca5ed0) 2710
-(0xc45130) 2754
-(0xc416a0) 3000
-(0xc9e9b0) 3000
-(0xc41a20) Missed ACK 3113
-(0xc9ed30) Missed ACK 3113
-(0xc3dc60) 3168
-(0xca5ed0) 3216
-(0xca5ed0) 3300
-(0xc3dc60) 3344
-(0xc3a220) 3610
-(0xca5ed0) 3658
-(0xca5ed0) 3742
-(0xc3a220) 3786
-(0xc48b70) 4032
-(0xca5ed0) 4080
-(0xca5ed0) 4164
-(0xc48b70) 4208
-(0xc9af40) 4454
-(0xca24b0) 4454
-(0xc9b2c0) Missed ACK 4567
-(0xca2830) Missed ACK 4567
-(0xca24b0) 4637
-(0xca5ed0) 4685
-(0xca5ed0) 4769
-(0xca24b0) 4813
-(0xc32e00) 5060
-(0xca5ed0) 5108
-(0xca5ed0) 5192
-(0xc32e00) 5236
-(0xc416a0) 5542
-(0xca5ed0) 5590
-(0xca5ed0) 5674
-(0xc416a0) 5718
-(0xc9af40) 5964
-(0xca5ed0) 6012
-(0xca5ed0) 6096
-(0xc9af40) 6140
-(0xc9e9b0) 6386
-(0xca5ed0) 6434
-(0xca5ed0) 6518
-(0xc9e9b0) 6562
-(0xca5ed0) 102400
-(0xca5ed0) 204800
-(0xca5ed0) 307200
-(0xca5ed0) 409600
-(0xca5ed0) 512000
-(0xca5ed0) 614400
-(0xca5ed0) 716800
-(0xca5ed0) 819200
-(0xca5ed0) 921600
-(0xca5ed0) 1024000
-(0xca5ed0) 1126400
-(0xca5ed0) 1228800
-(0xca5ed0) 1331200
-(0xca5ed0) 1433600
-(0xca5ed0) 1536000
-(0xca5ed0) 1638400
-(0xca5ed0) 1740800
-(0xca5ed0) 1843200
-(0xca5ed0) 1945600
-(0xca5ed0) 2048000
-(0xca5ed0) 2150400
-(0xca5ed0) 2252800
-(0xca5ed0) 2355200
-(0xca5ed0) 2457600
-(0xca5ed0) 2560000
-(0xca5ed0) 2662400
-(0xca5ed0) 2764800
-(0xca5ed0) 2867200
-(0xca5ed0) 2969600
-(0xca5ed0) 3072000
-(0xca5ed0) 3174400
-(0xca5ed0) 3276800
-(0xca5ed0) 3379200
-(0xca5ed0) 3481600
-(0xca5ed0) 3584000
-(0xca5ed0) 3686400
-(0xca5ed0) 3788800
-(0xca5ed0) 3891200
-(0xca5ed0) 3993600
-(0xca5ed0) 4096000
-(0xca5ed0) 4198400
-(0xca5ed0) 4300800
-(0xca5ed0) 4403200
-(0xca5ed0) 4505600
-(0xca5ed0) 4608000
-(0xca5ed0) 4710400
-(0xca5ed0) 4812800
-(0xca5ed0) 4915200
-(0xca5ed0) 5017600
-(0xca5ed0) 5120000
-(0xca5ed0) 5222400
-(0xca5ed0) 5324800
-(0xca5ed0) 5427200
-(0xca5ed0) 5529600
-(0xca5ed0) 5632000
-(0xca5ed0) 5734400
-(0xca5ed0) 5836800
-(0xca5ed0) 5939200
-(0xca5ed0) 6041600
-(0xca5ed0) 6144000
-(0xca5ed0) 6246400
-(0xca5ed0) 6348800
-(0xca5ed0) 6451200
-(0xca5ed0) 6553600
-(0xca5ed0) 6656000
-(0xca5ed0) 6758400
-(0xca5ed0) 6860800
-(0xca5ed0) 6963200
-(0xca5ed0) 7065600
-(0xca5ed0) 7168000
-(0xca5ed0) 7270400
-(0xca5ed0) 7372800
-(0xca5ed0) 7475200
-(0xca5ed0) 7577600
-(0xca5ed0) 7680000
-(0xca5ed0) 7782400
-(0xca5ed0) 7884800
-(0xca5ed0) 7987200
-(0xca5ed0) 8089600
-(0xca5ed0) 8192000
-(0xca5ed0) 8294400
-(0xca5ed0) 8396800
-(0xca5ed0) 8499200
-(0xca5ed0) 8601600
-(0xca5ed0) 8704000
-(0xca5ed0) 8806400
-(0xca5ed0) 8908800
-(0xca5ed0) 9011200
-(0xca5ed0) 9113600
-(0xca5ed0) 9216000
-(0xca5ed0) 9318400
-(0xca5ed0) 9420800
-(0xca5ed0) 9523200
-(0xca5ed0) 9625600
-(0xca5ed0) 9728000
-(0xca5ed0) 9830400
-(0xca5ed0) 9932800
-(0xca5ed0) 10035200
-(0xca5ed0) 10137600
-(0xca5ed0) 10240000
-(0xca5ed0) 10342400
-(0xca5ed0) 10444800
-(0xca5ed0) 10547200
-(0xca5ed0) 10649600
-(0xca5ed0) 10752000
-(0xca5ed0) 10854400
-(0xca5ed0) 10956800
-(0xca5ed0) 11059200
-(0xca5ed0) 11161600
-(0xca5ed0) 11264000
-(0xca5ed0) 11366400
-(0xca5ed0) 11468800
-(0xca5ed0) 11571200
-(0xca5ed0) 11673600
-(0xca5ed0) 11776000
-(0xca5ed0) 11878400
-(0xca5ed0) 11980800
-(0xca5ed0) 12083200
-(0xca5ed0) 12185600
-(0xca5ed0) 12288000
-(0xca5ed0) 12390400
-(0xca5ed0) 12492800
-(0xca5ed0) 12595200
-(0xca5ed0) 12697600
-(0xca5ed0) 12800000
-(0xca5ed0) 12902400
-(0xca5ed0) 13004800
-(0xca5ed0) 13107200
-(0xca5ed0) 13209600
-(0xca5ed0) 13312000
-(0xca5ed0) 13414400
-(0xca5ed0) 13516800
-(0xca5ed0) 13619200
-(0xca5ed0) 13721600
-(0xca5ed0) 13824000
-(0xca5ed0) 13926400
-(0xca5ed0) 14028800
-(0xca5ed0) 14131200
-(0xca5ed0) 14233600
-(0xca5ed0) 14336000
-(0xca5ed0) 14438400
-(0xca5ed0) 14540800
-(0xca5ed0) 14643200
-(0xca5ed0) 14745600
-(0xca5ed0) 14848000
-(0xca5ed0) 14950400
-(0xca5ed0) 15052800
-(0xca5ed0) 15155200
-(0xca5ed0) 15257600
-(0xca5ed0) 15360000
-(0xca5ed0) 15462400
-(0xca5ed0) 15564800
-(0xca5ed0) 15667200
-(0xca5ed0) 15769600
-(0xca5ed0) 15872000
-(0xca5ed0) 15974400
-(0xca5ed0) 16076800
-(0xca5ed0) 16179200
-(0xca5ed0) 16281600
-(0xca5ed0) 16384000
-(0xca5ed0) 16486400
-(0xca5ed0) 16588800
-(0xca5ed0) 16691200
-(0xca5ed0) 16793600
-(0xca5ed0) 16896000
-(0xca5ed0) 16998400
-(0xca5ed0) 17100800
-(0xca5ed0) 17203200
-(0xca5ed0) 17305600
-(0xca5ed0) 17408000
-(0xca5ed0) 17510400
-(0xca5ed0) 17612800
-(0xca5ed0) 17715200
-(0xca5ed0) 17817600
-(0xca5ed0) 17920000
-(0xca5ed0) 18022400
-(0xca5ed0) 18124800
-(0xca5ed0) 18227200
-(0xca5ed0) 18329600
-(0xca5ed0) 18432000
-(0xca5ed0) 18534400
-(0xca5ed0) 18636800
-(0xca5ed0) 18739200
-(0xca5ed0) 18841600
-(0xca5ed0) 18944000
-(0xca5ed0) 19046400
-(0xca5ed0) 19148800
-(0xca5ed0) 19251200
-(0xca5ed0) 19353600
-(0xca5ed0) 19456000
-(0xca5ed0) 19558400
-(0xca5ed0) 19660800
-(0xca5ed0) 19763200
-(0xca5ed0) 19865600
-(0xca5ed0) 19968000
-(0xca5ed0) 20070400
-(0xca5ed0) 20172800
-(0xca5ed0) 20275200
-(0xca5ed0) 20377600
-(0xca5ed0) 20480000
-(0xca5ed0) 20582400
-(0xca5ed0) 20684800
-(0xca5ed0) 20787200
-(0xca5ed0) 20889600
-(0xca5ed0) 20992000
-(0xca5ed0) 21094400
-(0xca5ed0) 21196800
-(0xca5ed0) 21299200
-(0xca5ed0) 21401600
-(0xca5ed0) 21504000
-(0xca5ed0) 21606400
-(0xca5ed0) 21708800
-(0xca5ed0) 21811200
-(0xca5ed0) 21913600
-(0xca5ed0) 22016000
-(0xca5ed0) 22118400
-(0xca5ed0) 22220800
-(0xca5ed0) 22323200
-(0xca5ed0) 22425600
-(0xca5ed0) 22528000
-(0xca5ed0) 22630400
-(0xca5ed0) 22732800
-(0xca5ed0) 22835200
-(0xca5ed0) 22937600
-(0xca5ed0) 23040000
-(0xca5ed0) 23142400
-(0xca5ed0) 23244800
-(0xca5ed0) 23347200
-(0xca5ed0) 23449600
-(0xca5ed0) 23552000
-(0xca5ed0) 23654400
-(0xca5ed0) 23756800
-(0xca5ed0) 23859200
-(0xca5ed0) 23961600
-(0xca5ed0) 24064000
-(0xca5ed0) 24166400
-(0xca5ed0) 24268800
-(0xca5ed0) 24371200
-(0xca5ed0) 24473600
-(0xca5ed0) 24576000
-(0xca5ed0) 24678400
-(0xca5ed0) 24780800
-(0xca5ed0) 24883200
-(0xca5ed0) 24985600
-(0xca5ed0) 25088000
-(0xca5ed0) 25190400
-(0xca5ed0) 25292800
-(0xca5ed0) 25395200
-(0xca5ed0) 25497600
-(0xca5ed0) 25600000
-(0xca5ed0) 25702400
-(0xca5ed0) 25804800
-(0xca5ed0) 25907200
-(0xca5ed0) 26009600
-(0xca5ed0) 26112000
-(0xca5ed0) 26214400
-(0xca5ed0) 26316800
-(0xca5ed0) 26419200
-(0xca5ed0) 26521600
-(0xca5ed0) 26624000
-(0xca5ed0) 26726400
-(0xca5ed0) 26828800
-(0xca5ed0) 26931200
-(0xca5ed0) 27033600
-(0xca5ed0) 27136000
-(0xca5ed0) 27238400
-(0xca5ed0) 27340800
-(0xca5ed0) 27443200
-(0xca5ed0) 27545600
-(0xca5ed0) 27648000
-(0xca5ed0) 27750400
-(0xca5ed0) 27852800
-(0xca5ed0) 27955200
-(0xca5ed0) 28057600
-(0xca5ed0) 28160000
-(0xca5ed0) 28262400
-(0xca5ed0) 28364800
-(0xca5ed0) 28467200
-(0xca5ed0) 28569600
-(0xca5ed0) 28672000
-(0xca5ed0) 28774400
-(0xca5ed0) 28876800
-(0xca5ed0) 28979200
-(0xca5ed0) 29081600
-(0xca5ed0) 29184000
-(0xca5ed0) 29286400
-(0xca5ed0) 29388800
-(0xca5ed0) 29491200
-(0xca5ed0) 29593600
-(0xca5ed0) 29696000
-(0xca5ed0) 29798400
-(0xca5ed0) 29900800
-(0xc48b70) 30000000
-(0xc9af40) 30000000
-(0xc48ef0) Missed ACK 30000113
-(0xc9b2c0) Missed ACK 30000113
-(0xc48b70) 30000163
-(0xca5ed0) 30000211
-(0xca5ed0) 30000295
-(0xca5ed0) 30001049
-(0xc48b70) 30001097
-(0xc48b70) 30001181
-(0xca5ed0) 30001237
-(0xc9af40) 30001341
-(0xca5ed0) 30001389
-(0xca5ed0) 30001473
-(0xca5ed0) 30002227
-(0xc416a0) 30002227
-(0xca6250) Missed ACK 30002340
-(0xc41a20) Missed ACK 30002340
-(0xca5ed0) 30002390
-(0xc9af40) 30002438
-(0xc9af40) 30002542
-(0xca24b0) 30002542
-(0xca2830) Missed ACK 30002655
-(0xc9b2c0) Missed ACK 30002663
-(0xca24b0) 30002705
-(0xca5ed0) 30002753
-(0xca5ed0) 30002837
-(0xca5ed0) 30003571
-(0xca5ed0) 30004373
-(0xc3dc60) 30004373
-(0xca6250) Missed ACK 30004486
-(0xc3dfe0) Missed ACK 30004486
-(0xc416a0) 30004541
-(0xca5ed0) 30004589
-(0xca5ed0) 30004693
-(0xc9af40) 30004693
-(0xca6250) Missed ACK 30004806
-(0xc9b2c0) Missed ACK 30004814
-(0xc3dc60) 30004861
-(0xca5ed0) 30004909
-(0xc9af40) 30004993
-(0xca5ed0) 30005049
-(0xc367e0) 30005133
-(0xca5ed0) 30005182
-(0xca5ed0) 30005306
-(0xca24b0) 30005354
-(0xca24b0) 30005438
-(0xca5ed0) 30005438
-(0xca2830) Missed ACK 30005559
-(0xca5ed0) 30006192
-(0xc45130) 30006192
-(0xc9e9b0) 30006192
-(0xca24b0) 30006192
-(0xc3a220) 30006192
-(0xca6250) Missed ACK 30006305
-(0xc454b0) Missed ACK 30006305
-(0xc9ed30) Missed ACK 30006305
-(0xc3a5a0) Missed ACK 30006305
-(0xca2830) Missed ACK 30006313
-(0xca5ed0) 30006355
-(0xc416a0) 30006403
-(0xc416a0) 30006487
-(0xca24b0) 30006487
-(0xc41a20) Missed ACK 30006608
-(0xca2830) Missed ACK 30006608
-(0xca5ed0) 30006663
-(0xc32e00) 30007417
-(0xca5ed0) 30007465
-(0xca5ed0) 30007569
-(0xc45130) 30007569
-(0xc9e9b0) 30007569
-(0xc3a220) 30007569
-(0xca6250) Missed ACK 30007682
-(0xc454b0) Missed ACK 30007682
-(0xc9ed30) Missed ACK 30007682
-(0xc3a5a0) Missed ACK 30007682
-(0xca5ed0) 30007732
-(0xc45130) 30007732
-(0xca6250) Missed ACK 30007845
-(0xc454b0) Missed ACK 30007845
-(0xca5ed0) 30007895
-(0xc3dc60) 30007943
-(0xc3dc60) 30008027
-(0xca5ed0) 30008083
-(0xca5ed0) 30008187
-(0xc416a0) 30008187
-(0xc41a20) Missed ACK 30008308
-(0xca5ed0) 30008961
-(0xca24b0) 30008961
-(0xc3a220) 30008961
-(0xca6250) Missed ACK 30009074
-(0xc3a5a0) Missed ACK 30009074
-(0xca2830) Missed ACK 30009082
-(0xca5ed0) 30009124
-(0xc367e0) 30009172
-(0xc367e0) 30009256
-(0xca5ed0) 30009256
-(0xc36b60) Missed ACK 30009377
-(0xca5ed0) 30010010
-(0xc32e00) 30010058
-(0xc32e00) 30010142
-(0xca5ed0) 30010198
-(0xc9e9b0) 30010303
-(0xca5ed0) 30010351
-(0xca5ed0) 30010435
-(0xca5ed0) 30011209
-(0xc3a220) 30011209
-(0xc367e0) 30011209
-(0xca6250) Missed ACK 30011322
-(0xc3a5a0) Missed ACK 30011322
-(0xc36b60) Missed ACK 30011330
-(0xc45130) 30011377
-(0xc416a0) 30011377
-(0xc454b0) Missed ACK 30011490
-(0xc41a20) Missed ACK 30011498
-(0xc367e0) 30011553
-(0xca5ed0) 30011609
-(0xca5ed0) 30011713
-(0xc9e9b0) 30011761
-(0xc9e9b0) 30011845
-(0xca5ed0) 30011901
-(0xca24b0) 30012085
-(0xca5ed0) 30012141
-(0xc45130) 30012245
-(0xca5ed0) 30012293
-(0xca5ed0) 30012377
-(0xca5ed0) 30013131
-(0xc45130) 30013179
-(0xc45130) 30013263
-(0xca5ed0) 30013319
-(0xc416a0) 30013423
-(0xca5ed0) 30013479
-(0xc3a220) 30013583
-(0xca5ed0) 30013632
-(0xca5ed0) 30013716
-(0xca5ed0) 30014490
-(0xc3a220) 30014538
-(0xc3a220) 30014622
-(0xca5ed0) 30014678
-(0xca5ed0) 30105600
-(0xca5ed0) 30208000
-(0xca5ed0) 30310400
-(0xca5ed0) 30412800
-(0xca5ed0) 30515200
-(0xca5ed0) 30617600
-(0xca5ed0) 30720000
-(0xca5ed0) 30822400
-(0xca5ed0) 30924800
-(0xca5ed0) 31027200
-(0xca5ed0) 31129600
-(0xca5ed0) 31232000
-(0xca5ed0) 31334400
-(0xca5ed0) 31436800
-(0xca5ed0) 31539200
-(0xca5ed0) 31641600
-(0xca5ed0) 31744000
-(0xca5ed0) 31846400
-(0xca5ed0) 31948800
-(0xca5ed0) 32051200
-(0xca5ed0) 32153600
-(0xca5ed0) 32256000
-(0xca5ed0) 32358400
-(0xca5ed0) 32460800
-(0xca5ed0) 32563200
-(0xca5ed0) 32665600
-(0xca5ed0) 32768000
-(0xca5ed0) 32870400
-(0xca5ed0) 32972800
-(0xca5ed0) 33075200
-(0xca5ed0) 33177600
-(0xca5ed0) 33280000
-(0xca5ed0) 33382400
-(0xca5ed0) 33484800
-(0xca5ed0) 33587200
-(0xca5ed0) 33689600
-(0xca5ed0) 33792000
-(0xca5ed0) 33894400
-(0xca5ed0) 33996800
-(0xca5ed0) 34099200
-(0xca5ed0) 34201600
-(0xca5ed0) 34304000
-(0xca5ed0) 34406400
-(0xca5ed0) 34508800
-(0xca5ed0) 34611200
-(0xca5ed0) 34713600
-(0xca5ed0) 34816000
-(0xca5ed0) 34918400
-(0xca5ed0) 35020800
-(0xca5ed0) 35123200
-(0xca5ed0) 35225600
-(0xca5ed0) 35328000
-(0xca5ed0) 35430400
-(0xca5ed0) 35532800
-(0xca5ed0) 35635200
-(0xca5ed0) 35737600
-(0xca5ed0) 35840000
-(0xca5ed0) 35942400
-(0xca5ed0) 36044800
-(0xca5ed0) 36147200
-(0xca5ed0) 36249600
-(0xca5ed0) 36352000
-(0xca5ed0) 36454400
-(0xca5ed0) 36556800
-(0xca5ed0) 36659200
-(0xca5ed0) 36761600
-(0xca5ed0) 36864000
-(0xca5ed0) 36966400
-(0xca5ed0) 37068800
-(0xca5ed0) 37171200
-(0xca5ed0) 37273600
-(0xca5ed0) 37376000
-(0xca5ed0) 37478400
-(0xca5ed0) 37580800
-(0xca5ed0) 37683200
-(0xca5ed0) 37785600
-(0xca5ed0) 37888000
-(0xca5ed0) 37990400
-(0xca5ed0) 38092800
-(0xca5ed0) 38195200
-(0xca5ed0) 38297600
-(0xca5ed0) 38400000
-(0xca5ed0) 38502400
-(0xca5ed0) 38604800
-(0xca5ed0) 38707200
-(0xca5ed0) 38809600
-(0xca5ed0) 38912000
-(0xca5ed0) 39014400
-(0xca5ed0) 39116800
-(0xca5ed0) 39219200
-(0xca5ed0) 39321600
-(0xca5ed0) 39424000
-(0xca5ed0) 39526400
-(0xca5ed0) 39628800
-(0xca5ed0) 39731200
-(0xca5ed0) 39833600
-(0xca5ed0) 39936000
-(0xca5ed0) 40038400
-(0xca5ed0) 40140800
-(0xca5ed0) 40243200
-(0xca5ed0) 40345600
-(0xca5ed0) 40448000
-(0xca5ed0) 40550400
-(0xca5ed0) 40652800
-(0xca5ed0) 40755200
-(0xca5ed0) 40857600
-(0xca5ed0) 40960000
-(0xca5ed0) 41062400
-(0xca5ed0) 41164800
-(0xca5ed0) 41267200
-(0xca5ed0) 41369600
-(0xca5ed0) 41472000
-(0xca5ed0) 41574400
-(0xca5ed0) 41676800
-(0xca5ed0) 41779200
-(0xca5ed0) 41881600
-(0xca5ed0) 41984000
-(0xca5ed0) 42086400
-(0xca5ed0) 42188800
-(0xca5ed0) 42291200
-(0xca5ed0) 42393600
-(0xca5ed0) 42496000
-(0xca5ed0) 42598400
-(0xca5ed0) 42700800
-(0xca5ed0) 42803200
-(0xca5ed0) 42905600
-(0xca5ed0) 43008000
-(0xca5ed0) 43110400
-(0xca5ed0) 43212800
-(0xca5ed0) 43315200
-(0xca5ed0) 43417600
-(0xca5ed0) 43520000
-(0xca5ed0) 43622400
-(0xca5ed0) 43724800
-(0xca5ed0) 43827200
-(0xca5ed0) 43929600
-(0xca5ed0) 44032000
-(0xca5ed0) 44134400
-(0xca5ed0) 44236800
-(0xca5ed0) 44339200
-(0xca5ed0) 44441600
-(0xca5ed0) 44544000
-(0xca5ed0) 44646400
-(0xca5ed0) 44748800
-(0xca5ed0) 44851200
-(0xca5ed0) 44953600
-(0xca5ed0) 45056000
-(0xca5ed0) 45158400
-(0xca5ed0) 45260800
-(0xca5ed0) 45363200
-(0xca5ed0) 45465600
-(0xca5ed0) 45568000
-(0xca5ed0) 45670400
-(0xca5ed0) 45772800
-(0xca5ed0) 45875200
-(0xca5ed0) 45977600
-(0xca5ed0) 46080000
-(0xca5ed0) 46182400
-(0xca5ed0) 46284800
-(0xca5ed0) 46387200
-(0xca5ed0) 46489600
-(0xca5ed0) 46592000
-(0xca5ed0) 46694400
-(0xca5ed0) 46796800
-(0xca5ed0) 46899200
-(0xca5ed0) 47001600
-(0xca5ed0) 47104000
-(0xca5ed0) 47206400
-(0xca5ed0) 47308800
-(0xca5ed0) 47411200
-(0xca5ed0) 47513600
-(0xca5ed0) 47616000
-(0xca5ed0) 47718400
-(0xca5ed0) 47820800
-(0xca5ed0) 47923200
-(0xca5ed0) 48025600
-(0xca5ed0) 48128000
-(0xca5ed0) 48230400
-(0xca5ed0) 48332800
-(0xca5ed0) 48435200
-(0xca5ed0) 48537600
-(0xca5ed0) 48640000
-(0xca5ed0) 48742400
-(0xca5ed0) 48844800
-(0xca5ed0) 48947200
-(0xca5ed0) 49049600
-(0xca5ed0) 49152000
-(0xca5ed0) 49254400
-(0xca5ed0) 49356800
-(0xca5ed0) 49459200
-(0xca5ed0) 49561600
-(0xca5ed0) 49664000
-(0xca5ed0) 49766400
-(0xca5ed0) 49868800
-(0xca5ed0) 49971200
-(0xca5ed0) 50073600
-(0xca5ed0) 50176000
-(0xca5ed0) 50278400
-(0xca5ed0) 50380800
-(0xca5ed0) 50483200
-(0xca5ed0) 50585600
-(0xca5ed0) 50688000
-(0xca5ed0) 50790400
-(0xca5ed0) 50892800
-(0xca5ed0) 50995200
-(0xca5ed0) 51097600
-(0xca5ed0) 51200000
-(0xca5ed0) 51302400
-(0xca5ed0) 51404800
-(0xca5ed0) 51507200
-(0xca5ed0) 51609600
-(0xca5ed0) 51712000
-(0xca5ed0) 51814400
-(0xca5ed0) 51916800
-(0xca5ed0) 52019200
-(0xca5ed0) 52121600
-(0xca5ed0) 52224000
-(0xca5ed0) 52326400
-(0xca5ed0) 52428800
-(0xca5ed0) 52531200
-(0xca5ed0) 52633600
-(0xca5ed0) 52736000
-(0xca5ed0) 52838400
-(0xca5ed0) 52940800
-(0xca5ed0) 53043200
-(0xca5ed0) 53145600
-(0xca5ed0) 53248000
-(0xca5ed0) 53350400
-(0xca5ed0) 53452800
-(0xca5ed0) 53555200
-(0xca5ed0) 53657600
-(0xca5ed0) 53760000
-(0xca5ed0) 53862400
-(0xca5ed0) 53964800
-(0xca5ed0) 54067200
-(0xca5ed0) 54169600
-(0xca5ed0) 54272000
-(0xca5ed0) 54374400
-(0xca5ed0) 54476800
-(0xca5ed0) 54579200
-(0xca5ed0) 54681600
-(0xca5ed0) 54784000
-(0xca5ed0) 54886400
-(0xca5ed0) 54988800
-(0xca5ed0) 55091200
-(0xca5ed0) 55193600
-(0xca5ed0) 55296000
-(0xca5ed0) 55398400
-(0xca5ed0) 55500800
-(0xca5ed0) 55603200
-(0xca5ed0) 55705600
-(0xca5ed0) 55808000
-(0xca5ed0) 55910400
-(0xca5ed0) 56012800
-(0xca5ed0) 56115200
-(0xca5ed0) 56217600
-(0xca5ed0) 56320000
-(0xca5ed0) 56422400
-(0xca5ed0) 56524800
-(0xca5ed0) 56627200
-(0xca5ed0) 56729600
-(0xca5ed0) 56832000
-(0xca5ed0) 56934400
-(0xca5ed0) 57036800
-(0xca5ed0) 57139200
-(0xca5ed0) 57241600
-(0xca5ed0) 57344000
-(0xca5ed0) 57446400
-(0xca5ed0) 57548800
-(0xca5ed0) 57651200
-(0xca5ed0) 57753600
-(0xca5ed0) 57856000
-(0xca5ed0) 57958400
-(0xca5ed0) 58060800
-(0xca5ed0) 58163200
-(0xca5ed0) 58265600
-(0xca5ed0) 58368000
-(0xca5ed0) 58470400
-(0xca5ed0) 58572800
-(0xca5ed0) 58675200
-(0xca5ed0) 58777600
-(0xca5ed0) 58880000
-(0xca5ed0) 58982400
-(0xca5ed0) 59084800
-(0xca5ed0) 59187200
-(0xca5ed0) 59289600
-(0xca5ed0) 59392000
-(0xca5ed0) 59494400
-(0xca5ed0) 59596800
-(0xca5ed0) 59699200
-(0xca5ed0) 59801600
-(0xca5ed0) 59904000
-(0xc32e00) 60000000
-(0xc367e0) 60000000
-(0xc3a220) 60000000
-(0xc3dc60) 60000000
-(0xc416a0) 60000000
-(0xc45130) 60000000
-(0xc48b70) 60000000
-(0xc9af40) 60000000
-(0xc9e9b0) 60000000
-(0xca24b0) 60000000
-(0xc33180) Missed ACK 60000121
-(0xc33350) chose 0 slots
-(0xc36b60) Missed ACK 60000121
-(0xc36d30) chose 1 slots
-(0xc3a5a0) Missed ACK 60000121
-(0xc3a770) chose 1 slots
-(0xc3dfe0) Missed ACK 60000121
-(0xc3cd00) chose 2 slots
-(0xc41a20) Missed ACK 60000121
-(0xc40760) chose 0 slots
-(0xc454b0) Missed ACK 60000121
-(0xc441a0) chose 0 slots
-(0xc48ef0) Missed ACK 60000121
-(0xc47c30) chose 0 slots
-(0xc9b2c0) Missed ACK 60000121
-(0xc9b490) chose 0 slots
-(0xc9ed30) Missed ACK 60000121
-(0xc9ef00) chose 2 slots
-(0xca2830) Missed ACK 60000121
-(0xca2a00) chose 1 slots
-(0xc32e00) 60000171
-(0xc416a0) 60000171
-(0xc45130) 60000171
-(0xc48b70) 60000171
-(0xc9af40) 60000171
-(0xc33180) Missed ACK 60000292
-(0xc33350) chose 1 slots
-(0xc41a20) Missed ACK 60000292
-(0xc40760) chose 0 slots
-(0xc454b0) Missed ACK 60000292
-(0xc441a0) chose 2 slots
-(0xc48ef0) Missed ACK 60000292
-(0xc47c30) chose 5 slots
-(0xc9b2c0) Missed ACK 60000292
-(0xc9b490) chose 3 slots
-(0xc416a0) 60000342
-(0xca5ed0) 60000398
-(0xc40760) chose 0 slots
-(0xca24b0) 60000502
-(0xc3a220) 60000502
-(0xc367e0) 60000502
-(0xc32e00) 60000502
-(0xca2830) Missed ACK 60000623
-(0xca2a00) chose 1 slots
-(0xc3a5a0) Missed ACK 60000623
-(0xc3a770) chose 3 slots
-(0xc36b60) Missed ACK 60000623
-(0xc36d30) chose 5 slots
-(0xc33180) Missed ACK 60000623
-(0xc33350) chose 4 slots
-(0xc9e9b0) 60000678
-(0xc3dc60) 60000678
-(0xc45130) 60000678
-(0xc9ed30) Missed ACK 60000799
-(0xc9ef00) chose 1 slots
-(0xc3dfe0) Missed ACK 60000799
-(0xc3cd00) chose 2 slots
-(0xc454b0) Missed ACK 60000799
-(0xc441a0) chose 0 slots
-(0xc45130) 60000849
-(0xca5ed0) 60000905
-(0xc441a0) chose 1 slots
-(0xc9af40) 60001009
-(0xc9e9b0) 60001009
-(0xca24b0) 60001009
-(0xc9b2c0) Missed ACK 60001130
-(0xc9b490) chose 8 slots
-(0xc9ed30) Missed ACK 60001130
-(0xc9ef00) chose 8 slots
-(0xca2830) Missed ACK 60001130
-(0xca2a00) chose 3 slots
-(0xc3dc60) 60001185
-(0xca5ed0) 60001241
-(0xc3cd00) chose 0 slots
-(0xc48b70) 60001345
-(0xc3a220) 60001345
-(0xc48ef0) Missed ACK 60001466
-(0xc47c30) chose 3 slots
-(0xc3a5a0) Missed ACK 60001466
-(0xc3a770) chose 1 slots
-(0xc32e00) 60001521
-(0xca5ed0) 60001577
-(0xc33350) chose 0 slots
-(0xca24b0) 60001681
-(0xc3a220) 60001681
-(0xc367e0) 60001681
-(0xca2830) Missed ACK 60001802
-(0xca2a00) chose 5 slots
-(0xc3a5a0) Missed ACK 60001802
-(0xc3a770) chose 10 slots
-(0xc36b60) Missed ACK 60001802
-(0xc36d30) chose 6 slots
-(0xc48b70) 60001877
-(0xca5ed0) 60001933
-(0xc47c30) chose 0 slots
-(0xc9af40) 60002077
-(0xc9e9b0) 60002077
-(0xc9b2c0) Missed ACK 60002198
-(0xc9b490) chose 2 slots
-(0xc9ed30) Missed ACK 60002198
-(0xc9ef00) chose 2 slots
-(0xca24b0) 60002253
-(0xca5ed0) 60002309
-(0xca2a00) chose 1 slots
-(0xc367e0) 60002413
-(0xca5ed0) 60002470
-(0xc36d30) chose 0 slots
-(0xc9af40) 60002574
-(0xc9e9b0) 60002574
-(0xc9b2c0) Missed ACK 60002695
-(0xc9b490) chose 18 slots
-(0xc9ed30) Missed ACK 60002695
-(0xc9ef00) chose 0 slots
-(0xc9e9b0) 60002745
-(0xca5ed0) 60002801
-(0xc9ef00) chose 0 slots
-(0xc3a220) 60002945
-(0xca5ed0) 60003001
-(0xc3a770) chose 0 slots
-(0xc9af40) 60003385
-(0xca5ed0) 60003441
-(0xc9b490) chose 1 slots
-(0xca5ed0) 60006400
-(0xca8430) chose 0 slots
-(0xca5ed0) 60108800
-(0xca8430) chose 0 slots
-(0xca5ed0) 60211200
-(0xca8430) chose 0 slots
-(0xca5ed0) 60313600
-(0xca8430) chose 0 slots
-(0xca5ed0) 60416000
-(0xca8430) chose 0 slots
-(0xca5ed0) 60518400
-(0xca8430) chose 0 slots
-(0xca5ed0) 60620800
-(0xca8430) chose 0 slots
-(0xca5ed0) 60723200
-(0xca8430) chose 0 slots
-(0xca5ed0) 60825600
-(0xca8430) chose 0 slots
-(0xca5ed0) 60928000
-(0xca8430) chose 0 slots
-(0xca5ed0) 61030400
-(0xca8430) chose 0 slots
-(0xca5ed0) 61132800
-(0xca8430) chose 0 slots
-(0xca5ed0) 61235200
-(0xca8430) chose 0 slots
-(0xca5ed0) 61337600
-(0xca8430) chose 0 slots
-(0xca5ed0) 61440000
-(0xca8430) chose 0 slots
-(0xca5ed0) 61542400
-(0xca8430) chose 0 slots
-(0xca5ed0) 61644800
-(0xca8430) chose 0 slots
-(0xca5ed0) 61747200
-(0xca8430) chose 0 slots
-(0xca5ed0) 61849600
-(0xca8430) chose 0 slots
-(0xca5ed0) 61952000
-(0xca8430) chose 0 slots
-(0xca5ed0) 62054400
-(0xca8430) chose 0 slots
-(0xca5ed0) 62156800
-(0xca8430) chose 0 slots
-(0xca5ed0) 62259200
-(0xca8430) chose 0 slots
-(0xca5ed0) 62361600
-(0xca8430) chose 0 slots
-(0xca5ed0) 62464000
-(0xca8430) chose 0 slots
-(0xca5ed0) 62566400
-(0xca8430) chose 0 slots
-(0xca5ed0) 62668800
-(0xca8430) chose 0 slots
-(0xca5ed0) 62771200
-(0xca8430) chose 0 slots
-(0xca5ed0) 62873600
-(0xca8430) chose 0 slots
-(0xca5ed0) 62976000
-(0xca8430) chose 0 slots
-(0xca5ed0) 63078400
-(0xca8430) chose 0 slots
-(0xca5ed0) 63180800
-(0xca8430) chose 0 slots
-(0xca5ed0) 63283200
-(0xca8430) chose 0 slots
-(0xca5ed0) 63385600
-(0xca8430) chose 0 slots
-(0xca5ed0) 63488000
-(0xca8430) chose 0 slots
-(0xca5ed0) 63590400
-(0xca8430) chose 0 slots
-(0xca5ed0) 63692800
-(0xca8430) chose 0 slots
-(0xca5ed0) 63795200
-(0xca8430) chose 0 slots
-(0xca5ed0) 63897600
-(0xca8430) chose 0 slots
-(0xca5ed0) 64000000
-(0xca8430) chose 0 slots
-(0xca5ed0) 64102400
-(0xca8430) chose 0 slots
-(0xca5ed0) 64204800
-(0xca8430) chose 0 slots
-(0xca5ed0) 64307200
-(0xca8430) chose 0 slots
-(0xca5ed0) 64409600
-(0xca8430) chose 0 slots
-(0xca5ed0) 64512000
-(0xca8430) chose 0 slots
-(0xca5ed0) 64614400
-(0xca8430) chose 0 slots
-(0xca5ed0) 64716800
-(0xca8430) chose 0 slots
-(0xca5ed0) 64819200
-(0xca8430) chose 0 slots
-(0xca5ed0) 64921600
-(0xca8430) chose 0 slots
-(0xca5ed0) 65024000
-(0xca8430) chose 0 slots
-(0xca5ed0) 65126400
-(0xca8430) chose 0 slots
-(0xca5ed0) 65228800
-(0xca8430) chose 0 slots
-(0xca5ed0) 65331200
-(0xca8430) chose 0 slots
-(0xca5ed0) 65433600
-(0xca8430) chose 0 slots
-(0xca5ed0) 65536000
-(0xca8430) chose 0 slots
-(0xca5ed0) 65638400
-(0xca8430) chose 0 slots
-(0xca5ed0) 65740800
-(0xca8430) chose 0 slots
-(0xca5ed0) 65843200
-(0xca8430) chose 0 slots
-(0xca5ed0) 65945600
-(0xca8430) chose 0 slots
-(0xca5ed0) 66048000
-(0xca8430) chose 0 slots
-(0xca5ed0) 66150400
-(0xca8430) chose 0 slots
-(0xca5ed0) 66252800
-(0xca8430) chose 0 slots
-(0xca5ed0) 66355200
-(0xca8430) chose 0 slots
-(0xca5ed0) 66457600
-(0xca8430) chose 0 slots
-(0xca5ed0) 66560000
-(0xca8430) chose 0 slots
-(0xca5ed0) 66662400
-(0xca8430) chose 0 slots
-(0xca5ed0) 66764800
-(0xca8430) chose 0 slots
-(0xca5ed0) 66867200
-(0xca8430) chose 0 slots
-(0xca5ed0) 66969600
-(0xca8430) chose 0 slots
-(0xca5ed0) 67072000
-(0xca8430) chose 0 slots
-(0xca5ed0) 67174400
-(0xca8430) chose 0 slots
-(0xca5ed0) 67276800
-(0xca8430) chose 0 slots
-(0xca5ed0) 67379200
-(0xca8430) chose 0 slots
-(0xca5ed0) 67481600
-(0xca8430) chose 0 slots
-(0xca5ed0) 67584000
-(0xca8430) chose 0 slots
-(0xca5ed0) 67686400
-(0xca8430) chose 0 slots
-(0xca5ed0) 67788800
-(0xca8430) chose 0 slots
-(0xca5ed0) 67891200
-(0xca8430) chose 0 slots
-(0xca5ed0) 67993600
-(0xca8430) chose 0 slots
-(0xca5ed0) 68096000
-(0xca8430) chose 0 slots
-(0xca5ed0) 68198400
-(0xca8430) chose 0 slots
-(0xca5ed0) 68300800
-(0xca8430) chose 0 slots
-(0xca5ed0) 68403200
-(0xca8430) chose 0 slots
-(0xca5ed0) 68505600
-(0xca8430) chose 0 slots
-(0xca5ed0) 68608000
-(0xca8430) chose 0 slots
-(0xca5ed0) 68710400
-(0xca8430) chose 0 slots
-(0xca5ed0) 68812800
-(0xca8430) chose 0 slots
-(0xca5ed0) 68915200
-(0xca8430) chose 0 slots
-(0xca5ed0) 69017600
-(0xca8430) chose 0 slots
-(0xca5ed0) 69120000
-(0xca8430) chose 0 slots
-(0xca5ed0) 69222400
-(0xca8430) chose 0 slots
-(0xca5ed0) 69324800
-(0xca8430) chose 0 slots
-(0xca5ed0) 69427200
-(0xca8430) chose 0 slots
-(0xca5ed0) 69529600
-(0xca8430) chose 0 slots
-(0xca5ed0) 69632000
-(0xca8430) chose 0 slots
-(0xca5ed0) 69734400
-(0xca8430) chose 0 slots
-(0xca5ed0) 69836800
-(0xca8430) chose 0 slots
-(0xca5ed0) 69939200
-(0xca8430) chose 0 slots
-(0xca5ed0) 70041600
-(0xca8430) chose 0 slots
-(0xca5ed0) 70144000
-(0xca8430) chose 0 slots
-(0xca5ed0) 70246400
-(0xca8430) chose 0 slots
-(0xca5ed0) 70348800
-(0xca8430) chose 0 slots
-(0xca5ed0) 70451200
-(0xca8430) chose 0 slots
-(0xca5ed0) 70553600
-(0xca8430) chose 0 slots
-(0xca5ed0) 70656000
-(0xca8430) chose 0 slots
-(0xca5ed0) 70758400
-(0xca8430) chose 0 slots
-(0xca5ed0) 70860800
-(0xca8430) chose 0 slots
-(0xca5ed0) 70963200
-(0xca8430) chose 0 slots
-(0xca5ed0) 71065600
-(0xca8430) chose 0 slots
-(0xca5ed0) 71168000
-(0xca8430) chose 0 slots
-(0xca5ed0) 71270400
-(0xca8430) chose 0 slots
-(0xca5ed0) 71372800
-(0xca8430) chose 0 slots
-(0xca5ed0) 71475200
-(0xca8430) chose 0 slots
-(0xca5ed0) 71577600
-(0xca8430) chose 0 slots
-(0xca5ed0) 71680000
-(0xca8430) chose 0 slots
-(0xca5ed0) 71782400
-(0xca8430) chose 0 slots
-(0xca5ed0) 71884800
-(0xca8430) chose 0 slots
-(0xca5ed0) 71987200
-(0xca8430) chose 0 slots
-(0xca5ed0) 72089600
-(0xca8430) chose 0 slots
-(0xca5ed0) 72192000
-(0xca8430) chose 0 slots
-(0xca5ed0) 72294400
-(0xca8430) chose 0 slots
-(0xca5ed0) 72396800
-(0xca8430) chose 0 slots
-(0xca5ed0) 72499200
-(0xca8430) chose 0 slots
-(0xca5ed0) 72601600
-(0xca8430) chose 0 slots
-(0xca5ed0) 72704000
-(0xca8430) chose 0 slots
-(0xca5ed0) 72806400
-(0xca8430) chose 0 slots
-(0xca5ed0) 72908800
-(0xca8430) chose 0 slots
-(0xca5ed0) 73011200
-(0xca8430) chose 0 slots
-(0xca5ed0) 73113600
-(0xca8430) chose 0 slots
-(0xca5ed0) 73216000
-(0xca8430) chose 0 slots
-(0xca5ed0) 73318400
-(0xca8430) chose 0 slots
-(0xca5ed0) 73420800
-(0xca8430) chose 0 slots
-(0xca5ed0) 73523200
-(0xca8430) chose 0 slots
-(0xca5ed0) 73625600
-(0xca8430) chose 0 slots
-(0xca5ed0) 73728000
-(0xca8430) chose 0 slots
-(0xca5ed0) 73830400
-(0xca8430) chose 0 slots
-(0xca5ed0) 73932800
-(0xca8430) chose 0 slots
-(0xca5ed0) 74035200
-(0xca8430) chose 0 slots
-(0xca5ed0) 74137600
-(0xca8430) chose 0 slots
-(0xca5ed0) 74240000
-(0xca8430) chose 0 slots
-(0xca5ed0) 74342400
-(0xca8430) chose 0 slots
-(0xca5ed0) 74444800
-(0xca8430) chose 0 slots
-(0xca5ed0) 74547200
-(0xca8430) chose 0 slots
-(0xca5ed0) 74649600
-(0xca8430) chose 0 slots
-(0xca5ed0) 74752000
-(0xca8430) chose 0 slots
-(0xca5ed0) 74854400
-(0xca8430) chose 0 slots
-(0xca5ed0) 74956800
-(0xca8430) chose 0 slots
-(0xca5ed0) 75059200
-(0xca8430) chose 0 slots
-(0xca5ed0) 75161600
-(0xca8430) chose 0 slots
-(0xca5ed0) 75264000
-(0xca8430) chose 0 slots
-(0xca5ed0) 75366400
-(0xca8430) chose 0 slots
-(0xca5ed0) 75468800
-(0xca8430) chose 0 slots
-(0xca5ed0) 75571200
-(0xca8430) chose 0 slots
-(0xca5ed0) 75673600
-(0xca8430) chose 0 slots
-(0xca5ed0) 75776000
-(0xca8430) chose 0 slots
-(0xca5ed0) 75878400
-(0xca8430) chose 0 slots
-(0xca5ed0) 75980800
-(0xca8430) chose 0 slots
-(0xca5ed0) 76083200
-(0xca8430) chose 0 slots
-(0xca5ed0) 76185600
-(0xca8430) chose 0 slots
-(0xca5ed0) 76288000
-(0xca8430) chose 0 slots
-(0xca5ed0) 76390400
-(0xca8430) chose 0 slots
-(0xca5ed0) 76492800
-(0xca8430) chose 0 slots
-(0xca5ed0) 76595200
-(0xca8430) chose 0 slots
-(0xca5ed0) 76697600
-(0xca8430) chose 0 slots
-(0xca5ed0) 76800000
-(0xca8430) chose 0 slots
-(0xca5ed0) 76902400
-(0xca8430) chose 0 slots
-(0xca5ed0) 77004800
-(0xca8430) chose 0 slots
-(0xca5ed0) 77107200
-(0xca8430) chose 0 slots
-(0xca5ed0) 77209600
-(0xca8430) chose 0 slots
-(0xca5ed0) 77312000
-(0xca8430) chose 0 slots
-(0xca5ed0) 77414400
-(0xca8430) chose 0 slots
-(0xca5ed0) 77516800
-(0xca8430) chose 0 slots
-(0xca5ed0) 77619200
-(0xca8430) chose 0 slots
-(0xca5ed0) 77721600
-(0xca8430) chose 0 slots
-(0xca5ed0) 77824000
-(0xca8430) chose 0 slots
-(0xca5ed0) 77926400
-(0xca8430) chose 0 slots
-(0xca5ed0) 78028800
-(0xca8430) chose 0 slots
-(0xca5ed0) 78131200
-(0xca8430) chose 0 slots
-(0xca5ed0) 78233600
-(0xca8430) chose 0 slots
-(0xca5ed0) 78336000
-(0xca8430) chose 0 slots
-(0xca5ed0) 78438400
-(0xca8430) chose 0 slots
-(0xca5ed0) 78540800
-(0xca8430) chose 0 slots
-(0xca5ed0) 78643200
-(0xca8430) chose 0 slots
-(0xca5ed0) 78745600
-(0xca8430) chose 0 slots
-(0xca5ed0) 78848000
-(0xca8430) chose 0 slots
-(0xca5ed0) 78950400
-(0xca8430) chose 0 slots
-(0xca5ed0) 79052800
-(0xca8430) chose 0 slots
-(0xca5ed0) 79155200
-(0xca8430) chose 0 slots
-(0xca5ed0) 79257600
-(0xca8430) chose 0 slots
-(0xca5ed0) 79360000
-(0xca8430) chose 0 slots
-(0xca5ed0) 79462400
-(0xca8430) chose 0 slots
-(0xca5ed0) 79564800
-(0xca8430) chose 0 slots
-(0xca5ed0) 79667200
-(0xca8430) chose 0 slots
-(0xca5ed0) 79769600
-(0xca8430) chose 0 slots
-(0xca5ed0) 79872000
-(0xca8430) chose 0 slots
-(0xca5ed0) 79974400
-(0xca8430) chose 0 slots
-(0xca5ed0) 80076800
-(0xca8430) chose 0 slots
-(0xca5ed0) 80179200
-(0xca8430) chose 0 slots
-(0xca5ed0) 80281600
-(0xca8430) chose 0 slots
-(0xca5ed0) 80384000
-(0xca8430) chose 0 slots
-(0xca5ed0) 80486400
-(0xca8430) chose 0 slots
-(0xca5ed0) 80588800
-(0xca8430) chose 0 slots
-(0xca5ed0) 80691200
-(0xca8430) chose 0 slots
-(0xca5ed0) 80793600
-(0xca8430) chose 0 slots
-(0xca5ed0) 80896000
-(0xca8430) chose 0 slots
-(0xca5ed0) 80998400
-(0xca8430) chose 0 slots
-(0xca5ed0) 81100800
-(0xca8430) chose 0 slots
-(0xca5ed0) 81203200
-(0xca8430) chose 0 slots
-(0xca5ed0) 81305600
-(0xca8430) chose 0 slots
-(0xca5ed0) 81408000
-(0xca8430) chose 0 slots
-(0xca5ed0) 81510400
-(0xca8430) chose 0 slots
-(0xca5ed0) 81612800
-(0xca8430) chose 0 slots
-(0xca5ed0) 81715200
-(0xca8430) chose 0 slots
-(0xca5ed0) 81817600
-(0xca8430) chose 0 slots
-(0xca5ed0) 81920000
-(0xca8430) chose 0 slots
-(0xca5ed0) 82022400
-(0xca8430) chose 0 slots
-(0xca5ed0) 82124800
-(0xca8430) chose 0 slots
-(0xca5ed0) 82227200
-(0xca8430) chose 0 slots
-(0xca5ed0) 82329600
-(0xca8430) chose 0 slots
-(0xca5ed0) 82432000
-(0xca8430) chose 0 slots
-(0xca5ed0) 82534400
-(0xca8430) chose 0 slots
-(0xca5ed0) 82636800
-(0xca8430) chose 0 slots
-(0xca5ed0) 82739200
-(0xca8430) chose 0 slots
-(0xca5ed0) 82841600
-(0xca8430) chose 0 slots
-(0xca5ed0) 82944000
-(0xca8430) chose 0 slots
-(0xca5ed0) 83046400
-(0xca8430) chose 0 slots
-(0xca5ed0) 83148800
-(0xca8430) chose 0 slots
-(0xca5ed0) 83251200
-(0xca8430) chose 0 slots
-(0xca5ed0) 83353600
-(0xca8430) chose 0 slots
-(0xca5ed0) 83456000
-(0xca8430) chose 0 slots
-(0xca5ed0) 83558400
-(0xca8430) chose 0 slots
-(0xca5ed0) 83660800
-(0xca8430) chose 0 slots
-(0xca5ed0) 83763200
-(0xca8430) chose 0 slots
-(0xca5ed0) 83865600
-(0xca8430) chose 0 slots
-(0xca5ed0) 83968000
-(0xca8430) chose 0 slots
-(0xca5ed0) 84070400
-(0xca8430) chose 0 slots
-(0xca5ed0) 84172800
-(0xca8430) chose 0 slots
-(0xca5ed0) 84275200
-(0xca8430) chose 0 slots
-(0xca5ed0) 84377600
-(0xca8430) chose 0 slots
-(0xca5ed0) 84480000
-(0xca8430) chose 0 slots
-(0xca5ed0) 84582400
-(0xca8430) chose 0 slots
-(0xca5ed0) 84684800
-(0xca8430) chose 0 slots
-(0xca5ed0) 84787200
-(0xca8430) chose 0 slots
-(0xca5ed0) 84889600
-(0xca8430) chose 0 slots
-(0xca5ed0) 84992000
-(0xca8430) chose 0 slots
-(0xca5ed0) 85094400
-(0xca8430) chose 0 slots
-(0xca5ed0) 85196800
-(0xca8430) chose 0 slots
-(0xca5ed0) 85299200
-(0xca8430) chose 0 slots
-(0xca5ed0) 85401600
-(0xca8430) chose 0 slots
-(0xca5ed0) 85504000
-(0xca8430) chose 0 slots
-(0xca5ed0) 85606400
-(0xca8430) chose 0 slots
-(0xca5ed0) 85708800
-(0xca8430) chose 0 slots
-(0xca5ed0) 85811200
-(0xca8430) chose 0 slots
-(0xca5ed0) 85913600
-(0xca8430) chose 0 slots
-(0xca5ed0) 86016000
-(0xca8430) chose 0 slots
-(0xca5ed0) 86118400
-(0xca8430) chose 0 slots
-(0xca5ed0) 86220800
-(0xca8430) chose 0 slots
-(0xca5ed0) 86323200
-(0xca8430) chose 0 slots
-(0xca5ed0) 86425600
-(0xca8430) chose 0 slots
-(0xca5ed0) 86528000
-(0xca8430) chose 0 slots
-(0xca5ed0) 86630400
-(0xca8430) chose 0 slots
-(0xca5ed0) 86732800
-(0xca8430) chose 0 slots
-(0xca5ed0) 86835200
-(0xca8430) chose 0 slots
-(0xca5ed0) 86937600
-(0xca8430) chose 0 slots
-(0xca5ed0) 87040000
-(0xca8430) chose 0 slots
-(0xca5ed0) 87142400
-(0xca8430) chose 0 slots
-(0xca5ed0) 87244800
-(0xca8430) chose 0 slots
-(0xca5ed0) 87347200
-(0xca8430) chose 0 slots
-(0xca5ed0) 87449600
-(0xca8430) chose 0 slots
-(0xca5ed0) 87552000
-(0xca8430) chose 0 slots
-(0xca5ed0) 87654400
-(0xca8430) chose 0 slots
-(0xca5ed0) 87756800
-(0xca8430) chose 0 slots
-(0xca5ed0) 87859200
-(0xca8430) chose 0 slots
-(0xca5ed0) 87961600
-(0xca8430) chose 0 slots
-(0xca5ed0) 88064000
-(0xca8430) chose 0 slots
-(0xca5ed0) 88166400
-(0xca8430) chose 0 slots
-(0xca5ed0) 88268800
-(0xca8430) chose 0 slots
-(0xca5ed0) 88371200
-(0xca8430) chose 0 slots
-(0xca5ed0) 88473600
-(0xca8430) chose 0 slots
-(0xca5ed0) 88576000
-(0xca8430) chose 0 slots
-(0xca5ed0) 88678400
-(0xca8430) chose 0 slots
-(0xca5ed0) 88780800
-(0xca8430) chose 0 slots
-(0xca5ed0) 88883200
-(0xca8430) chose 0 slots
-(0xca5ed0) 88985600
-(0xca8430) chose 0 slots
-(0xca5ed0) 89088000
-(0xca8430) chose 0 slots
-(0xca5ed0) 89190400
-(0xca8430) chose 0 slots
-(0xca5ed0) 89292800
-(0xca8430) chose 0 slots
-(0xca5ed0) 89395200
-(0xca8430) chose 0 slots
-(0xca5ed0) 89497600
-(0xca8430) chose 0 slots
-(0xca5ed0) 89600000
-(0xca8430) chose 0 slots
-(0xca5ed0) 89702400
-(0xca8430) chose 0 slots
-(0xca5ed0) 89804800
-(0xca8430) chose 0 slots
-(0xca5ed0) 89907200
-(0xca8430) chose 0 slots
-(0xca5ed0) 90009600
-(0xca8430) chose 0 slots
-(0xca5ed0) 90112000
-(0xca8430) chose 0 slots
-(0xca5ed0) 90214400
-(0xca8430) chose 0 slots
-(0xca5ed0) 90316800
-(0xca8430) chose 0 slots
-(0xca5ed0) 90419200
-(0xca8430) chose 0 slots
-(0xca5ed0) 90521600
-(0xca8430) chose 0 slots
-(0xca5ed0) 90624000
-(0xca8430) chose 0 slots
-(0xca5ed0) 90726400
-(0xca8430) chose 0 slots
-(0xca5ed0) 90828800
-(0xca8430) chose 0 slots
-(0xca5ed0) 90931200
-(0xca8430) chose 0 slots
-(0xca5ed0) 91033600
-(0xca8430) chose 0 slots
-(0xca5ed0) 91136000
-(0xca8430) chose 0 slots
-(0xca5ed0) 91238400
-(0xca8430) chose 0 slots
-(0xca5ed0) 91340800
-(0xca8430) chose 0 slots
-(0xca5ed0) 91443200
-(0xca8430) chose 0 slots
-(0xca5ed0) 91545600
-(0xca8430) chose 0 slots
-(0xca5ed0) 91648000
-(0xca8430) chose 0 slots
-(0xca5ed0) 91750400
-(0xca8430) chose 0 slots
-(0xca5ed0) 91852800
-(0xca8430) chose 0 slots
-(0xca5ed0) 91955200
-(0xca8430) chose 0 slots
-(0xca5ed0) 92057600
-(0xca8430) chose 0 slots
-(0xca5ed0) 92160000
-(0xca8430) chose 0 slots
-(0xca5ed0) 92262400
-(0xca8430) chose 0 slots
-(0xca5ed0) 92364800
-(0xca8430) chose 0 slots
-(0xca5ed0) 92467200
-(0xca8430) chose 0 slots
-(0xca5ed0) 92569600
-(0xca8430) chose 0 slots
-(0xca5ed0) 92672000
-(0xca8430) chose 0 slots
-(0xca5ed0) 92774400
-(0xca8430) chose 0 slots
-(0xca5ed0) 92876800
-(0xca8430) chose 0 slots
-(0xca5ed0) 92979200
-(0xca8430) chose 0 slots
-(0xca5ed0) 93081600
-(0xca8430) chose 0 slots
-(0xca5ed0) 93184000
-(0xca8430) chose 0 slots
-(0xca5ed0) 93286400
-(0xca8430) chose 0 slots
-(0xca5ed0) 93388800
-(0xca8430) chose 0 slots
-(0xca5ed0) 93491200
-(0xca8430) chose 0 slots
-(0xca5ed0) 93593600
-(0xca8430) chose 0 slots
-(0xca5ed0) 93696000
-(0xca8430) chose 0 slots
-(0xca5ed0) 93798400
-(0xca8430) chose 0 slots
-(0xca5ed0) 93900800
-(0xca8430) chose 0 slots
-(0xca5ed0) 94003200
-(0xca8430) chose 0 slots
-(0xca5ed0) 94105600
-(0xca8430) chose 0 slots
-(0xca5ed0) 94208000
-(0xca8430) chose 0 slots
-(0xca5ed0) 94310400
-(0xca8430) chose 0 slots
-(0xca5ed0) 94412800
-(0xca8430) chose 0 slots
-(0xca5ed0) 94515200
-(0xca8430) chose 0 slots
-(0xca5ed0) 94617600
-(0xca8430) chose 0 slots
-(0xca5ed0) 94720000
-(0xca8430) chose 0 slots
-(0xca5ed0) 94822400
-(0xca8430) chose 0 slots
-(0xca5ed0) 94924800
-(0xca8430) chose 0 slots
-(0xca5ed0) 95027200
-(0xca8430) chose 0 slots
-(0xca5ed0) 95129600
-(0xca8430) chose 0 slots
-(0xca5ed0) 95232000
-(0xca8430) chose 0 slots
-(0xca5ed0) 95334400
-(0xca8430) chose 0 slots
-(0xca5ed0) 95436800
-(0xca8430) chose 0 slots
-(0xca5ed0) 95539200
-(0xca8430) chose 0 slots
-(0xca5ed0) 95641600
-(0xca8430) chose 0 slots
-(0xca5ed0) 95744000
-(0xca8430) chose 0 slots
-(0xca5ed0) 95846400
-(0xca8430) chose 0 slots
-(0xca5ed0) 95948800
-(0xca8430) chose 0 slots
-(0xca5ed0) 96051200
-(0xca8430) chose 0 slots
-(0xca5ed0) 96153600
-(0xca8430) chose 0 slots
-(0xca5ed0) 96256000
-(0xca8430) chose 0 slots
-(0xca5ed0) 96358400
-(0xca8430) chose 0 slots
-(0xca5ed0) 96460800
-(0xca8430) chose 0 slots
-(0xca5ed0) 96563200
-(0xca8430) chose 0 slots
-(0xca5ed0) 96665600
-(0xca8430) chose 0 slots
-(0xca5ed0) 96768000
-(0xca8430) chose 0 slots
-(0xca5ed0) 96870400
-(0xca8430) chose 0 slots
-(0xca5ed0) 96972800
-(0xca8430) chose 0 slots
-(0xca5ed0) 97075200
-(0xca8430) chose 0 slots
-(0xca5ed0) 97177600
-(0xca8430) chose 0 slots
-(0xca5ed0) 97280000
-(0xca8430) chose 0 slots
-(0xca5ed0) 97382400
-(0xca8430) chose 0 slots
-(0xca5ed0) 97484800
-(0xca8430) chose 0 slots
-(0xca5ed0) 97587200
-(0xca8430) chose 0 slots
-(0xca5ed0) 97689600
-(0xca8430) chose 0 slots
-(0xca5ed0) 97792000
-(0xca8430) chose 0 slots
-(0xca5ed0) 97894400
-(0xca8430) chose 0 slots
-(0xca5ed0) 97996800
-(0xca8430) chose 0 slots
-(0xca5ed0) 98099200
-(0xca8430) chose 0 slots
-(0xca5ed0) 98201600
-(0xca8430) chose 0 slots
-(0xca5ed0) 98304000
-(0xca8430) chose 0 slots
-(0xca5ed0) 98406400
-(0xca8430) chose 0 slots
-(0xca5ed0) 98508800
-(0xca8430) chose 0 slots
-(0xca5ed0) 98611200
-(0xca8430) chose 0 slots
-(0xca5ed0) 98713600
-(0xca8430) chose 0 slots
-(0xca5ed0) 98816000
-(0xca8430) chose 0 slots
-(0xca5ed0) 98918400
-(0xca8430) chose 0 slots
-(0xca5ed0) 99020800
-(0xca8430) chose 0 slots
-(0xca5ed0) 99123200
-(0xca8430) chose 0 slots
-(0xca5ed0) 99225600
-(0xca8430) chose 0 slots
-(0xca5ed0) 99328000
-(0xca8430) chose 0 slots
-(0xca5ed0) 99430400
-(0xca8430) chose 0 slots
-(0xca5ed0) 99532800
-(0xca8430) chose 0 slots
-(0xca5ed0) 99635200
-(0xca8430) chose 0 slots
-(0xca5ed0) 99737600
-(0xca8430) chose 0 slots
-(0xca5ed0) 99840000
-(0xca8430) chose 0 slots
-(0xca5ed0) 99942400
-(0xca8430) chose 0 slots
-(0xca5ed0) 100044800
-(0xca8430) chose 0 slots
-(0xca5ed0) 100147200
-(0xca8430) chose 0 slots
-(0xca5ed0) 100249600
-(0xca8430) chose 0 slots
-(0xca5ed0) 100352000
-(0xca8430) chose 0 slots
-(0xca5ed0) 100454400
-(0xca8430) chose 0 slots
+(0x24872b0) 30
+(0x247fe00) 834
+(0x2429f70) 834
+(0x2422aa0) 834
+(0x2417be0) 834
+(0x24141d0) 834
+(0x2480180) Missed ACK 947
+(0x242a2f0) Missed ACK 947
+(0x2422e20) Missed ACK 947
+(0x2417f60) Missed ACK 947
+(0x2414550) Missed ACK 947
+(0x247c330) 969
+(0x24838d0) 969
+(0x2426530) 969
+(0x241f060) 969
+(0x247c6b0) Missed ACK 1082
+(0x2483c50) Missed ACK 1082
+(0x24268b0) Missed ACK 1082
+(0x241f3e0) Missed ACK 1082
+(0x247fe00) 1095
+(0x2417be0) 1095
+(0x2480180) Missed ACK 1208
+(0x2417f60) Missed ACK 1208
+(0x247c330) 1221
+(0x24838d0) 1221
+(0x241f060) 1221
+(0x247c6b0) Missed ACK 1334
+(0x2483c50) Missed ACK 1334
+(0x241f3e0) Missed ACK 1334
+(0x2417be0) 1347
+(0x24872b0) 1395
+(0x24872b0) 1457
+(0x2417be0) 1505
+(0x247fe00) 1736
+(0x24838d0) 1736
+(0x2429f70) 1736
+(0x2426530) 1736
+(0x241f060) 1736
+(0x241b620) 1736
+(0x2480180) Missed ACK 1849
+(0x2483c50) Missed ACK 1849
+(0x242a2f0) Missed ACK 1849
+(0x24268b0) Missed ACK 1849
+(0x241f3e0) Missed ACK 1849
+(0x241b9a0) Missed ACK 1849
+(0x247c330) 1871
+(0x2422aa0) 1871
+(0x24141d0) 1871
+(0x247c6b0) Missed ACK 1984
+(0x2422e20) Missed ACK 1984
+(0x2414550) Missed ACK 1984
+(0x2422aa0) 2012
+(0x24141d0) 2012
+(0x2422e20) Missed ACK 2125
+(0x2414550) Missed ACK 2125
+(0x241b620) 2147
+(0x2429f70) 2147
+(0x241b9a0) Missed ACK 2260
+(0x242a2f0) Missed ACK 2260
+(0x241f060) 2282
+(0x2426530) 2282
+(0x24141d0) 2282
+(0x241f3e0) Missed ACK 2395
+(0x24268b0) Missed ACK 2395
+(0x2414550) Missed ACK 2395
+(0x247fe00) 2426
+(0x24872b0) 2474
+(0x24872b0) 2536
+(0x247fe00) 2584
+(0x2422aa0) 2815
+(0x24872b0) 2863
+(0x24872b0) 2925
+(0x2422aa0) 2973
+(0x24838d0) 3204
+(0x2426530) 3204
+(0x241f060) 3204
+(0x2483c50) Missed ACK 3317
+(0x24268b0) Missed ACK 3317
+(0x241f3e0) Missed ACK 3317
+(0x247c330) 3339
+(0x241b620) 3339
+(0x247c6b0) Missed ACK 3452
+(0x241b9a0) Missed ACK 3452
+(0x2429f70) 3474
+(0x24838d0) 3474
+(0x242a2f0) Missed ACK 3587
+(0x2483c50) Missed ACK 3587
+(0x24141d0) 3645
+(0x24872b0) 3693
+(0x24872b0) 3755
+(0x24141d0) 3803
+(0x241f060) 4034
+(0x24872b0) 4082
+(0x24872b0) 4144
+(0x241f060) 4192
+(0x247c330) 4423
+(0x24872b0) 4472
+(0x24872b0) 4534
+(0x247c330) 4582
+(0x241b620) 4813
+(0x24872b0) 4861
+(0x24872b0) 4923
+(0x241b620) 4971
+(0x24838d0) 5211
+(0x24872b0) 5259
+(0x24872b0) 5321
+(0x24838d0) 5369
+(0x2426530) 5600
+(0x24872b0) 5648
+(0x24872b0) 5710
+(0x2426530) 5758
+(0x2429f70) 6007
+(0x24872b0) 6055
+(0x24872b0) 6117
+(0x2429f70) 6165
+(0x24872b0) 102400
+(0x24872b0) 204800
+(0x24872b0) 307200
+(0x24872b0) 409600
+(0x24872b0) 512000
+(0x24872b0) 614400
+(0x24872b0) 716800
+(0x24872b0) 819200
+(0x24872b0) 921600
+(0x24872b0) 1024000
+(0x24872b0) 1126400
+(0x24872b0) 1228800
+(0x24872b0) 1331200
+(0x24872b0) 1433600
+(0x24872b0) 1536000
+(0x24872b0) 1638400
+(0x24872b0) 1740800
+(0x24872b0) 1843200
+(0x24872b0) 1945600
+(0x24872b0) 2048000
+(0x24872b0) 2150400
+(0x24872b0) 2252800
+(0x24872b0) 2355200
+(0x24872b0) 2457600
+(0x24872b0) 2560000
+(0x24872b0) 2662400
+(0x24872b0) 2764800
+(0x24872b0) 2867200
+(0x24872b0) 2969600
+(0x24872b0) 3072000
+(0x24872b0) 3174400
+(0x24872b0) 3276800
+(0x24872b0) 3379200
+(0x24872b0) 3481600
+(0x24872b0) 3584000
+(0x24872b0) 3686400
+(0x24872b0) 3788800
+(0x24872b0) 3891200
+(0x24872b0) 3993600
+(0x24872b0) 4096000
+(0x24872b0) 4198400
+(0x24872b0) 4300800
+(0x24872b0) 4403200
+(0x24872b0) 4505600
+(0x24872b0) 4608000
+(0x24872b0) 4710400
+(0x24872b0) 4812800
+(0x24872b0) 4915200
+(0x24872b0) 5017600
+(0x24872b0) 5120000
+(0x24872b0) 5222400
+(0x24872b0) 5324800
+(0x24872b0) 5427200
+(0x24872b0) 5529600
+(0x24872b0) 5632000
+(0x24872b0) 5734400
+(0x24872b0) 5836800
+(0x24872b0) 5939200
+(0x24872b0) 6041600
+(0x24872b0) 6144000
+(0x24872b0) 6246400
+(0x24872b0) 6348800
+(0x24872b0) 6451200
+(0x24872b0) 6553600
+(0x24872b0) 6656000
+(0x24872b0) 6758400
+(0x24872b0) 6860800
+(0x24872b0) 6963200
+(0x24872b0) 7065600
+(0x24872b0) 7168000
+(0x24872b0) 7270400
+(0x24872b0) 7372800
+(0x24872b0) 7475200
+(0x24872b0) 7577600
+(0x24872b0) 7680000
+(0x24872b0) 7782400
+(0x24872b0) 7884800
+(0x24872b0) 7987200
+(0x24872b0) 8089600
+(0x24872b0) 8192000
+(0x24872b0) 8294400
+(0x24872b0) 8396800
+(0x24872b0) 8499200
+(0x24872b0) 8601600
+(0x24872b0) 8704000
+(0x24872b0) 8806400
+(0x24872b0) 8908800
+(0x24872b0) 9011200
+(0x24872b0) 9113600
+(0x24872b0) 9216000
+(0x24872b0) 9318400
+(0x24872b0) 9420800
+(0x24872b0) 9523200
+(0x24872b0) 9625600
+(0x24872b0) 9728000
+(0x24872b0) 9830400
+(0x24872b0) 9932800
+(0x24872b0) 10035200
+(0x24872b0) 10137600
+(0x24872b0) 10240000
+(0x24872b0) 10342400
+(0x24872b0) 10444800
+(0x24872b0) 10547200
+(0x24872b0) 10649600
+(0x24872b0) 10752000
+(0x24872b0) 10854400
+(0x24872b0) 10956800
+(0x24872b0) 11059200
+(0x24872b0) 11161600
+(0x24872b0) 11264000
+(0x24872b0) 11366400
+(0x24872b0) 11468800
+(0x24872b0) 11571200
+(0x24872b0) 11673600
+(0x24872b0) 11776000
+(0x24872b0) 11878400
+(0x24872b0) 11980800
+(0x24872b0) 12083200
+(0x24872b0) 12185600
+(0x24872b0) 12288000
+(0x24872b0) 12390400
+(0x24872b0) 12492800
+(0x24872b0) 12595200
+(0x24872b0) 12697600
+(0x24872b0) 12800000
+(0x24872b0) 12902400
+(0x24872b0) 13004800
+(0x24872b0) 13107200
+(0x24872b0) 13209600
+(0x24872b0) 13312000
+(0x24872b0) 13414400
+(0x24872b0) 13516800
+(0x24872b0) 13619200
+(0x24872b0) 13721600
+(0x24872b0) 13824000
+(0x24872b0) 13926400
+(0x24872b0) 14028800
+(0x24872b0) 14131200
+(0x24872b0) 14233600
+(0x24872b0) 14336000
+(0x24872b0) 14438400
+(0x24872b0) 14540800
+(0x24872b0) 14643200
+(0x24872b0) 14745600
+(0x24872b0) 14848000
+(0x24872b0) 14950400
+(0x24872b0) 15052800
+(0x24872b0) 15155200
+(0x24872b0) 15257600
+(0x24872b0) 15360000
+(0x24872b0) 15462400
+(0x24872b0) 15564800
+(0x24872b0) 15667200
+(0x24872b0) 15769600
+(0x24872b0) 15872000
+(0x24872b0) 15974400
+(0x24872b0) 16076800
+(0x24872b0) 16179200
+(0x24872b0) 16281600
+(0x24872b0) 16384000
+(0x24872b0) 16486400
+(0x24872b0) 16588800
+(0x24872b0) 16691200
+(0x24872b0) 16793600
+(0x24872b0) 16896000
+(0x24872b0) 16998400
+(0x24872b0) 17100800
+(0x24872b0) 17203200
+(0x24872b0) 17305600
+(0x24872b0) 17408000
+(0x24872b0) 17510400
+(0x24872b0) 17612800
+(0x24872b0) 17715200
+(0x24872b0) 17817600
+(0x24872b0) 17920000
+(0x24872b0) 18022400
+(0x24872b0) 18124800
+(0x24872b0) 18227200
+(0x24872b0) 18329600
+(0x24872b0) 18432000
+(0x24872b0) 18534400
+(0x24872b0) 18636800
+(0x24872b0) 18739200
+(0x24872b0) 18841600
+(0x24872b0) 18944000
+(0x24872b0) 19046400
+(0x24872b0) 19148800
+(0x24872b0) 19251200
+(0x24872b0) 19353600
+(0x24872b0) 19456000
+(0x24872b0) 19558400
+(0x24872b0) 19660800
+(0x24872b0) 19763200
+(0x24872b0) 19865600
+(0x24872b0) 19968000
+(0x24872b0) 20070400
+(0x24872b0) 20172800
+(0x24872b0) 20275200
+(0x24872b0) 20377600
+(0x24872b0) 20480000
+(0x24872b0) 20582400
+(0x24872b0) 20684800
+(0x24872b0) 20787200
+(0x24872b0) 20889600
+(0x24872b0) 20992000
+(0x24872b0) 21094400
+(0x24872b0) 21196800
+(0x24872b0) 21299200
+(0x24872b0) 21401600
+(0x24872b0) 21504000
+(0x24872b0) 21606400
+(0x24872b0) 21708800
+(0x24872b0) 21811200
+(0x24872b0) 21913600
+(0x24872b0) 22016000
+(0x24872b0) 22118400
+(0x24872b0) 22220800
+(0x24872b0) 22323200
+(0x24872b0) 22425600
+(0x24872b0) 22528000
+(0x24872b0) 22630400
+(0x24872b0) 22732800
+(0x24872b0) 22835200
+(0x24872b0) 22937600
+(0x24872b0) 23040000
+(0x24872b0) 23142400
+(0x24872b0) 23244800
+(0x24872b0) 23347200
+(0x24872b0) 23449600
+(0x24872b0) 23552000
+(0x24872b0) 23654400
+(0x24872b0) 23756800
+(0x24872b0) 23859200
+(0x24872b0) 23961600
+(0x24872b0) 24064000
+(0x24872b0) 24166400
+(0x24872b0) 24268800
+(0x24872b0) 24371200
+(0x24872b0) 24473600
+(0x24872b0) 24576000
+(0x24872b0) 24678400
+(0x24872b0) 24780800
+(0x24872b0) 24883200
+(0x24872b0) 24985600
+(0x24872b0) 25088000
+(0x24872b0) 25190400
+(0x24872b0) 25292800
+(0x24872b0) 25395200
+(0x24872b0) 25497600
+(0x24872b0) 25600000
+(0x24872b0) 25702400
+(0x24872b0) 25804800
+(0x24872b0) 25907200
+(0x24872b0) 26009600
+(0x24872b0) 26112000
+(0x24872b0) 26214400
+(0x24872b0) 26316800
+(0x24872b0) 26419200
+(0x24872b0) 26521600
+(0x24872b0) 26624000
+(0x24872b0) 26726400
+(0x24872b0) 26828800
+(0x24872b0) 26931200
+(0x24872b0) 27033600
+(0x24872b0) 27136000
+(0x24872b0) 27238400
+(0x24872b0) 27340800
+(0x24872b0) 27443200
+(0x24872b0) 27545600
+(0x24872b0) 27648000
+(0x24872b0) 27750400
+(0x24872b0) 27852800
+(0x24872b0) 27955200
+(0x24872b0) 28057600
+(0x24872b0) 28160000
+(0x24872b0) 28262400
+(0x24872b0) 28364800
+(0x24872b0) 28467200
+(0x24872b0) 28569600
+(0x24872b0) 28672000
+(0x24872b0) 28774400
+(0x24872b0) 28876800
+(0x24872b0) 28979200
+(0x24872b0) 29081600
+(0x24872b0) 29184000
+(0x24872b0) 29286400
+(0x24872b0) 29388800
+(0x24872b0) 29491200
+(0x24872b0) 29593600
+(0x24872b0) 29696000
+(0x24872b0) 29798400
+(0x24872b0) 29900800
+(0x2429f70) 30000000
+(0x247c330) 30000000
+(0x242a2f0) Missed ACK 30000113
+(0x247c6b0) Missed ACK 30000113
+(0x2429f70) 30000141
+(0x24872b0) 30000189
+(0x24872b0) 30000251
+(0x24872b0) 30000983
+(0x2429f70) 30001031
+(0x2429f70) 30001093
+(0x24872b0) 30001149
+(0x247c330) 30001220
+(0x24872b0) 30001268
+(0x24872b0) 30001330
+(0x24872b0) 30002062
+(0x24838d0) 30002062
+(0x2422aa0) 30002062
+(0x2487630) Missed ACK 30002175
+(0x2483c50) Missed ACK 30002175
+(0x2422e20) Missed ACK 30002175
+(0x24872b0) 30002203
+(0x24838d0) 30002203
+(0x2422aa0) 30002203
+(0x2487630) Missed ACK 30002316
+(0x2483c50) Missed ACK 30002316
+(0x2422e20) Missed ACK 30002316
+(0x24838d0) 30002344
+(0x24872b0) 30002392
+(0x24872b0) 30002499
+(0x2422aa0) 30002499
+(0x2487630) Missed ACK 30002612
+(0x2422e20) Missed ACK 30002612
+(0x24872b0) 30002676
+(0x247c330) 30002724
+(0x247c330) 30002786
+(0x24872b0) 30002786
+(0x247c6b0) Missed ACK 30002907
+(0x24872b0) 30003509
+(0x24872b0) 30004313
+(0x241f060) 30004313
+(0x2487630) Missed ACK 30004426
+(0x241f3e0) Missed ACK 30004426
+(0x24872b0) 30004454
+(0x24838d0) 30004502
+(0x24838d0) 30004564
+(0x24872b0) 30004620
+(0x247c330) 30004691
+(0x241f060) 30004691
+(0x241f3e0) Missed ACK 30004804
+(0x247c6b0) Missed ACK 30004812
+(0x2422aa0) 30004826
+(0x24872b0) 30004874
+(0x24872b0) 30004936
+(0x247c330) 30004936
+(0x247c6b0) Missed ACK 30005057
+(0x24872b0) 30005668
+(0x2417be0) 30005668
+(0x2487630) Missed ACK 30005781
+(0x2417f60) Missed ACK 30005781
+(0x24872b0) 30005818
+(0x2417be0) 30005818
+(0x2487630) Missed ACK 30005931
+(0x2417f60) Missed ACK 30005931
+(0x241f060) 30005962
+(0x24872b0) 30006011
+(0x247fe00) 30006073
+(0x241b620) 30006073
+(0x2480180) Missed ACK 30006186
+(0x241b9a0) Missed ACK 30006186
+(0x2426530) 30006208
+(0x24872b0) 30006256
+(0x241b620) 30006318
+(0x24872b0) 30006366
+(0x247fe00) 30006446
+(0x24872b0) 30006494
+(0x247c330) 30006565
+(0x2417be0) 30006565
+(0x2417f60) Missed ACK 30006678
+(0x247c6b0) Missed ACK 30006686
+(0x24872b0) 30006708
+(0x2422aa0) 30006756
+(0x2422aa0) 30006818
+(0x24872b0) 30006818
+(0x2422e20) Missed ACK 30006939
+(0x24872b0) 30007550
+(0x24141d0) 30007550
+(0x2487630) Missed ACK 30007663
+(0x2414550) Missed ACK 30007663
+(0x247c330) 30007685
+(0x2417be0) 30007685
+(0x2417f60) Missed ACK 30007798
+(0x247c6b0) Missed ACK 30007806
+(0x24141d0) 30007820
+(0x24872b0) 30007868
+(0x24872b0) 30007939
+(0x2422aa0) 30007939
+(0x2487630) Missed ACK 30008052
+(0x2422e20) Missed ACK 30008060
+(0x2417be0) 30008092
+(0x24872b0) 30008141
+(0x24872b0) 30008239
+(0x241f060) 30008287
+(0x241f060) 30008349
+(0x24872b0) 30008349
+(0x241f3e0) Missed ACK 30008470
+(0x24872b0) 30009081
+(0x241f060) 30009081
+(0x2487630) Missed ACK 30009194
+(0x241f3e0) Missed ACK 30009202
+(0x2422aa0) 30009216
+(0x24872b0) 30009272
+(0x24872b0) 30009343
+(0x241f060) 30009343
+(0x2487630) Missed ACK 30009456
+(0x241f3e0) Missed ACK 30009464
+(0x247c330) 30009487
+(0x24872b0) 30009543
+(0x24872b0) 30009623
+(0x2426530) 30009671
+(0x2426530) 30009733
+(0x24872b0) 30009789
+(0x24872b0) 30009860
+(0x24872b0) 30010601
+(0x241f060) 30010601
+(0x2487630) Missed ACK 30010714
+(0x241f3e0) Missed ACK 30010722
+(0x24872b0) 30010751
+(0x241b620) 30010799
+(0x241b620) 30010861
+(0x24872b0) 30010861
+(0x241b9a0) Missed ACK 30010982
+(0x24872b0) 30011593
+(0x241b620) 30011593
+(0x2487630) Missed ACK 30011706
+(0x241b9a0) Missed ACK 30011714
+(0x241f060) 30011728
+(0x24872b0) 30011784
+(0x241b620) 30011846
+(0x24872b0) 30011903
+(0x24872b0) 30011974
+(0x247fe00) 30012022
+(0x247fe00) 30012084
+(0x24872b0) 30012140
+(0x24872b0) 30012211
+(0x24872b0) 30012943
+(0x24141d0) 30012991
+(0x24141d0) 30013053
+(0x24872b0) 30013109
+(0x24872b0) 30013180
+(0x24872b0) 30013912
+(0x2417be0) 30013960
+(0x2417be0) 30014022
+(0x24872b0) 30014078
+(0x24872b0) 30105600
+(0x24872b0) 30208000
+(0x24872b0) 30310400
+(0x24872b0) 30412800
+(0x24872b0) 30515200
+(0x24872b0) 30617600
+(0x24872b0) 30720000
+(0x24872b0) 30822400
+(0x24872b0) 30924800
+(0x24872b0) 31027200
+(0x24872b0) 31129600
+(0x24872b0) 31232000
+(0x24872b0) 31334400
+(0x24872b0) 31436800
+(0x24872b0) 31539200
+(0x24872b0) 31641600
+(0x24872b0) 31744000
+(0x24872b0) 31846400
+(0x24872b0) 31948800
+(0x24872b0) 32051200
+(0x24872b0) 32153600
+(0x24872b0) 32256000
+(0x24872b0) 32358400
+(0x24872b0) 32460800
+(0x24872b0) 32563200
+(0x24872b0) 32665600
+(0x24872b0) 32768000
+(0x24872b0) 32870400
+(0x24872b0) 32972800
+(0x24872b0) 33075200
+(0x24872b0) 33177600
+(0x24872b0) 33280000
+(0x24872b0) 33382400
+(0x24872b0) 33484800
+(0x24872b0) 33587200
+(0x24872b0) 33689600
+(0x24872b0) 33792000
+(0x24872b0) 33894400
+(0x24872b0) 33996800
+(0x24872b0) 34099200
+(0x24872b0) 34201600
+(0x24872b0) 34304000
+(0x24872b0) 34406400
+(0x24872b0) 34508800
+(0x24872b0) 34611200
+(0x24872b0) 34713600
+(0x24872b0) 34816000
+(0x24872b0) 34918400
+(0x24872b0) 35020800
+(0x24872b0) 35123200
+(0x24872b0) 35225600
+(0x24872b0) 35328000
+(0x24872b0) 35430400
+(0x24872b0) 35532800
+(0x24872b0) 35635200
+(0x24872b0) 35737600
+(0x24872b0) 35840000
+(0x24872b0) 35942400
+(0x24872b0) 36044800
+(0x24872b0) 36147200
+(0x24872b0) 36249600
+(0x24872b0) 36352000
+(0x24872b0) 36454400
+(0x24872b0) 36556800
+(0x24872b0) 36659200
+(0x24872b0) 36761600
+(0x24872b0) 36864000
+(0x24872b0) 36966400
+(0x24872b0) 37068800
+(0x24872b0) 37171200
+(0x24872b0) 37273600
+(0x24872b0) 37376000
+(0x24872b0) 37478400
+(0x24872b0) 37580800
+(0x24872b0) 37683200
+(0x24872b0) 37785600
+(0x24872b0) 37888000
+(0x24872b0) 37990400
+(0x24872b0) 38092800
+(0x24872b0) 38195200
+(0x24872b0) 38297600
+(0x24872b0) 38400000
+(0x24872b0) 38502400
+(0x24872b0) 38604800
+(0x24872b0) 38707200
+(0x24872b0) 38809600
+(0x24872b0) 38912000
+(0x24872b0) 39014400
+(0x24872b0) 39116800
+(0x24872b0) 39219200
+(0x24872b0) 39321600
+(0x24872b0) 39424000
+(0x24872b0) 39526400
+(0x24872b0) 39628800
+(0x24872b0) 39731200
+(0x24872b0) 39833600
+(0x24872b0) 39936000
+(0x24872b0) 40038400
+(0x24872b0) 40140800
+(0x24872b0) 40243200
+(0x24872b0) 40345600
+(0x24872b0) 40448000
+(0x24872b0) 40550400
+(0x24872b0) 40652800
+(0x24872b0) 40755200
+(0x24872b0) 40857600
+(0x24872b0) 40960000
+(0x24872b0) 41062400
+(0x24872b0) 41164800
+(0x24872b0) 41267200
+(0x24872b0) 41369600
+(0x24872b0) 41472000
+(0x24872b0) 41574400
+(0x24872b0) 41676800
+(0x24872b0) 41779200
+(0x24872b0) 41881600
+(0x24872b0) 41984000
+(0x24872b0) 42086400
+(0x24872b0) 42188800
+(0x24872b0) 42291200
+(0x24872b0) 42393600
+(0x24872b0) 42496000
+(0x24872b0) 42598400
+(0x24872b0) 42700800
+(0x24872b0) 42803200
+(0x24872b0) 42905600
+(0x24872b0) 43008000
+(0x24872b0) 43110400
+(0x24872b0) 43212800
+(0x24872b0) 43315200
+(0x24872b0) 43417600
+(0x24872b0) 43520000
+(0x24872b0) 43622400
+(0x24872b0) 43724800
+(0x24872b0) 43827200
+(0x24872b0) 43929600
+(0x24872b0) 44032000
+(0x24872b0) 44134400
+(0x24872b0) 44236800
+(0x24872b0) 44339200
+(0x24872b0) 44441600
+(0x24872b0) 44544000
+(0x24872b0) 44646400
+(0x24872b0) 44748800
+(0x24872b0) 44851200
+(0x24872b0) 44953600
+(0x24872b0) 45056000
+(0x24872b0) 45158400
+(0x24872b0) 45260800
+(0x24872b0) 45363200
+(0x24872b0) 45465600
+(0x24872b0) 45568000
+(0x24872b0) 45670400
+(0x24872b0) 45772800
+(0x24872b0) 45875200
+(0x24872b0) 45977600
+(0x24872b0) 46080000
+(0x24872b0) 46182400
+(0x24872b0) 46284800
+(0x24872b0) 46387200
+(0x24872b0) 46489600
+(0x24872b0) 46592000
+(0x24872b0) 46694400
+(0x24872b0) 46796800
+(0x24872b0) 46899200
+(0x24872b0) 47001600
+(0x24872b0) 47104000
+(0x24872b0) 47206400
+(0x24872b0) 47308800
+(0x24872b0) 47411200
+(0x24872b0) 47513600
+(0x24872b0) 47616000
+(0x24872b0) 47718400
+(0x24872b0) 47820800
+(0x24872b0) 47923200
+(0x24872b0) 48025600
+(0x24872b0) 48128000
+(0x24872b0) 48230400
+(0x24872b0) 48332800
+(0x24872b0) 48435200
+(0x24872b0) 48537600
+(0x24872b0) 48640000
+(0x24872b0) 48742400
+(0x24872b0) 48844800
+(0x24872b0) 48947200
+(0x24872b0) 49049600
+(0x24872b0) 49152000
+(0x24872b0) 49254400
+(0x24872b0) 49356800
+(0x24872b0) 49459200
+(0x24872b0) 49561600
+(0x24872b0) 49664000
+(0x24872b0) 49766400
+(0x24872b0) 49868800
+(0x24872b0) 49971200
+(0x24872b0) 50073600
+(0x24872b0) 50176000
+(0x24872b0) 50278400
+(0x24872b0) 50380800
+(0x24872b0) 50483200
+(0x24872b0) 50585600
+(0x24872b0) 50688000
+(0x24872b0) 50790400
+(0x24872b0) 50892800
+(0x24872b0) 50995200
+(0x24872b0) 51097600
+(0x24872b0) 51200000
+(0x24872b0) 51302400
+(0x24872b0) 51404800
+(0x24872b0) 51507200
+(0x24872b0) 51609600
+(0x24872b0) 51712000
+(0x24872b0) 51814400
+(0x24872b0) 51916800
+(0x24872b0) 52019200
+(0x24872b0) 52121600
+(0x24872b0) 52224000
+(0x24872b0) 52326400
+(0x24872b0) 52428800
+(0x24872b0) 52531200
+(0x24872b0) 52633600
+(0x24872b0) 52736000
+(0x24872b0) 52838400
+(0x24872b0) 52940800
+(0x24872b0) 53043200
+(0x24872b0) 53145600
+(0x24872b0) 53248000
+(0x24872b0) 53350400
+(0x24872b0) 53452800
+(0x24872b0) 53555200
+(0x24872b0) 53657600
+(0x24872b0) 53760000
+(0x24872b0) 53862400
+(0x24872b0) 53964800
+(0x24872b0) 54067200
+(0x24872b0) 54169600
+(0x24872b0) 54272000
+(0x24872b0) 54374400
+(0x24872b0) 54476800
+(0x24872b0) 54579200
+(0x24872b0) 54681600
+(0x24872b0) 54784000
+(0x24872b0) 54886400
+(0x24872b0) 54988800
+(0x24872b0) 55091200
+(0x24872b0) 55193600
+(0x24872b0) 55296000
+(0x24872b0) 55398400
+(0x24872b0) 55500800
+(0x24872b0) 55603200
+(0x24872b0) 55705600
+(0x24872b0) 55808000
+(0x24872b0) 55910400
+(0x24872b0) 56012800
+(0x24872b0) 56115200
+(0x24872b0) 56217600
+(0x24872b0) 56320000
+(0x24872b0) 56422400
+(0x24872b0) 56524800
+(0x24872b0) 56627200
+(0x24872b0) 56729600
+(0x24872b0) 56832000
+(0x24872b0) 56934400
+(0x24872b0) 57036800
+(0x24872b0) 57139200
+(0x24872b0) 57241600
+(0x24872b0) 57344000
+(0x24872b0) 57446400
+(0x24872b0) 57548800
+(0x24872b0) 57651200
+(0x24872b0) 57753600
+(0x24872b0) 57856000
+(0x24872b0) 57958400
+(0x24872b0) 58060800
+(0x24872b0) 58163200
+(0x24872b0) 58265600
+(0x24872b0) 58368000
+(0x24872b0) 58470400
+(0x24872b0) 58572800
+(0x24872b0) 58675200
+(0x24872b0) 58777600
+(0x24872b0) 58880000
+(0x24872b0) 58982400
+(0x24872b0) 59084800
+(0x24872b0) 59187200
+(0x24872b0) 59289600
+(0x24872b0) 59392000
+(0x24872b0) 59494400
+(0x24872b0) 59596800
+(0x24872b0) 59699200
+(0x24872b0) 59801600
+(0x24872b0) 59904000
+(0x24141d0) 60000000
+(0x2417be0) 60000000
+(0x241b620) 60000000
+(0x241f060) 60000000
+(0x2422aa0) 60000000
+(0x2426530) 60000000
+(0x2429f70) 60000000
+(0x247c330) 60000000
+(0x247fe00) 60000000
+(0x24838d0) 60000000
+(0x2414550) Missed ACK 60000121
+(0x2414720) chose 0 slots
+(0x2417f60) Missed ACK 60000121
+(0x2418130) chose 2 slots
+(0x241b9a0) Missed ACK 60000121
+(0x241bb70) chose 1 slots
+(0x241f3e0) Missed ACK 60000121
+(0x241e100) chose 2 slots
+(0x2422e20) Missed ACK 60000121
+(0x2421b60) chose 0 slots
+(0x24268b0) Missed ACK 60000121
+(0x24255a0) chose 1 slots
+(0x242a2f0) Missed ACK 60000121
+(0x2429030) chose 2 slots
+(0x247c6b0) Missed ACK 60000121
+(0x247c880) chose 0 slots
+(0x2480180) Missed ACK 60000121
+(0x247eec0) chose 0 slots
+(0x2483c50) Missed ACK 60000121
+(0x2482910) chose 2 slots
+(0x24141d0) 60000149
+(0x2422aa0) 60000149
+(0x247c330) 60000149
+(0x247fe00) 60000149
+(0x2414550) Missed ACK 60000270
+(0x2414720) chose 1 slots
+(0x2422e20) Missed ACK 60000270
+(0x2421b60) chose 0 slots
+(0x247c6b0) Missed ACK 60000270
+(0x247c880) chose 5 slots
+(0x2480180) Missed ACK 60000270
+(0x247eec0) chose 5 slots
+(0x2426530) 60000292
+(0x241b620) 60000292
+(0x24268b0) Missed ACK 60000413
+(0x24255a0) chose 0 slots
+(0x241b9a0) Missed ACK 60000413
+(0x241bb70) chose 1 slots
+(0x2422aa0) 60000426
+(0x24872b0) 60000482
+(0x2421b60) chose 0 slots
+(0x2426530) 60000544
+(0x24872b0) 60000600
+(0x24255a0) chose 0 slots
+(0x24838d0) 60000671
+(0x2429f70) 60000671
+(0x241f060) 60000671
+(0x241b620) 60000671
+(0x2417be0) 60000671
+(0x24141d0) 60000671
+(0x2483c50) Missed ACK 60000792
+(0x2482910) chose 0 slots
+(0x242a2f0) Missed ACK 60000792
+(0x2429030) chose 2 slots
+(0x241f3e0) Missed ACK 60000792
+(0x241e100) chose 4 slots
+(0x241b9a0) Missed ACK 60000792
+(0x241bb70) chose 7 slots
+(0x2417f60) Missed ACK 60000792
+(0x2418130) chose 0 slots
+(0x2414550) Missed ACK 60000792
+(0x2414720) chose 4 slots
+(0x24838d0) 60000820
+(0x2417be0) 60000820
+(0x2483c50) Missed ACK 60000941
+(0x2482910) chose 4 slots
+(0x2417f60) Missed ACK 60000941
+(0x2418130) chose 5 slots
+(0x2429f70) 60000972
+(0x24872b0) 60001028
+(0x2429030) chose 0 slots
+(0x247fe00) 60001099
+(0x247c330) 60001099
+(0x2480180) Missed ACK 60001220
+(0x247eec0) chose 2 slots
+(0x247c6b0) Missed ACK 60001220
+(0x247c880) chose 5 slots
+(0x241f060) 60001242
+(0x24141d0) 60001242
+(0x241f3e0) Missed ACK 60001363
+(0x241e100) chose 1 slots
+(0x2414550) Missed ACK 60001363
+(0x2414720) chose 4 slots
+(0x247fe00) 60001394
+(0x24872b0) 60001450
+(0x247eec0) chose 1 slots
+(0x24838d0) 60001521
+(0x241f060) 60001521
+(0x2483c50) Missed ACK 60001642
+(0x2482910) chose 3 slots
+(0x241f3e0) Missed ACK 60001642
+(0x241e100) chose 2 slots
+(0x241b620) 60001664
+(0x24872b0) 60001720
+(0x241bb70) chose 0 slots
+(0x247c330) 60001791
+(0x2417be0) 60001791
+(0x247c6b0) Missed ACK 60001912
+(0x247c880) chose 7 slots
+(0x2417f60) Missed ACK 60001912
+(0x2418130) chose 4 slots
+(0x241f060) 60001934
+(0x24872b0) 60001990
+(0x241e100) chose 1 slots
+(0x24838d0) 60002061
+(0x24141d0) 60002061
+(0x2483c50) Missed ACK 60002182
+(0x2482910) chose 6 slots
+(0x2414550) Missed ACK 60002182
+(0x2414720) chose 0 slots
+(0x24141d0) 60002210
+(0x24872b0) 60002267
+(0x2414720) chose 1 slots
+(0x2417be0) 60002347
+(0x24872b0) 60002403
+(0x2418130) chose 0 slots
+(0x247c330) 60002492
+(0x24872b0) 60002548
+(0x247c880) chose 0 slots
+(0x24838d0) 60002619
+(0x24872b0) 60002675
+(0x2482910) chose 0 slots
+(0x24872b0) 60006400
+(0x2489790) chose 0 slots
+(0x24872b0) 60108800
+(0x2489790) chose 0 slots
+(0x24872b0) 60211200
+(0x2489790) chose 0 slots
+(0x24872b0) 60313600
+(0x2489790) chose 0 slots
+(0x24872b0) 60416000
+(0x2489790) chose 0 slots
+(0x24872b0) 60518400
+(0x2489790) chose 0 slots
+(0x24872b0) 60620800
+(0x2489790) chose 0 slots
+(0x24872b0) 60723200
+(0x2489790) chose 0 slots
+(0x24872b0) 60825600
+(0x2489790) chose 0 slots
+(0x24872b0) 60928000
+(0x2489790) chose 0 slots
+(0x24872b0) 61030400
+(0x2489790) chose 0 slots
+(0x24872b0) 61132800
+(0x2489790) chose 0 slots
+(0x24872b0) 61235200
+(0x2489790) chose 0 slots
+(0x24872b0) 61337600
+(0x2489790) chose 0 slots
+(0x24872b0) 61440000
+(0x2489790) chose 0 slots
+(0x24872b0) 61542400
+(0x2489790) chose 0 slots
+(0x24872b0) 61644800
+(0x2489790) chose 0 slots
+(0x24872b0) 61747200
+(0x2489790) chose 0 slots
+(0x24872b0) 61849600
+(0x2489790) chose 0 slots
+(0x24872b0) 61952000
+(0x2489790) chose 0 slots
+(0x24872b0) 62054400
+(0x2489790) chose 0 slots
+(0x24872b0) 62156800
+(0x2489790) chose 0 slots
+(0x24872b0) 62259200
+(0x2489790) chose 0 slots
+(0x24872b0) 62361600
+(0x2489790) chose 0 slots
+(0x24872b0) 62464000
+(0x2489790) chose 0 slots
+(0x24872b0) 62566400
+(0x2489790) chose 0 slots
+(0x24872b0) 62668800
+(0x2489790) chose 0 slots
+(0x24872b0) 62771200
+(0x2489790) chose 0 slots
+(0x24872b0) 62873600
+(0x2489790) chose 0 slots
+(0x24872b0) 62976000
+(0x2489790) chose 0 slots
+(0x24872b0) 63078400
+(0x2489790) chose 0 slots
+(0x24872b0) 63180800
+(0x2489790) chose 0 slots
+(0x24872b0) 63283200
+(0x2489790) chose 0 slots
+(0x24872b0) 63385600
+(0x2489790) chose 0 slots
+(0x24872b0) 63488000
+(0x2489790) chose 0 slots
+(0x24872b0) 63590400
+(0x2489790) chose 0 slots
+(0x24872b0) 63692800
+(0x2489790) chose 0 slots
+(0x24872b0) 63795200
+(0x2489790) chose 0 slots
+(0x24872b0) 63897600
+(0x2489790) chose 0 slots
+(0x24872b0) 64000000
+(0x2489790) chose 0 slots
+(0x24872b0) 64102400
+(0x2489790) chose 0 slots
+(0x24872b0) 64204800
+(0x2489790) chose 0 slots
+(0x24872b0) 64307200
+(0x2489790) chose 0 slots
+(0x24872b0) 64409600
+(0x2489790) chose 0 slots
+(0x24872b0) 64512000
+(0x2489790) chose 0 slots
+(0x24872b0) 64614400
+(0x2489790) chose 0 slots
+(0x24872b0) 64716800
+(0x2489790) chose 0 slots
+(0x24872b0) 64819200
+(0x2489790) chose 0 slots
+(0x24872b0) 64921600
+(0x2489790) chose 0 slots
+(0x24872b0) 65024000
+(0x2489790) chose 0 slots
+(0x24872b0) 65126400
+(0x2489790) chose 0 slots
+(0x24872b0) 65228800
+(0x2489790) chose 0 slots
+(0x24872b0) 65331200
+(0x2489790) chose 0 slots
+(0x24872b0) 65433600
+(0x2489790) chose 0 slots
+(0x24872b0) 65536000
+(0x2489790) chose 0 slots
+(0x24872b0) 65638400
+(0x2489790) chose 0 slots
+(0x24872b0) 65740800
+(0x2489790) chose 0 slots
+(0x24872b0) 65843200
+(0x2489790) chose 0 slots
+(0x24872b0) 65945600
+(0x2489790) chose 0 slots
+(0x24872b0) 66048000
+(0x2489790) chose 0 slots
+(0x24872b0) 66150400
+(0x2489790) chose 0 slots
+(0x24872b0) 66252800
+(0x2489790) chose 0 slots
+(0x24872b0) 66355200
+(0x2489790) chose 0 slots
+(0x24872b0) 66457600
+(0x2489790) chose 0 slots
+(0x24872b0) 66560000
+(0x2489790) chose 0 slots
+(0x24872b0) 66662400
+(0x2489790) chose 0 slots
+(0x24872b0) 66764800
+(0x2489790) chose 0 slots
+(0x24872b0) 66867200
+(0x2489790) chose 0 slots
+(0x24872b0) 66969600
+(0x2489790) chose 0 slots
+(0x24872b0) 67072000
+(0x2489790) chose 0 slots
+(0x24872b0) 67174400
+(0x2489790) chose 0 slots
+(0x24872b0) 67276800
+(0x2489790) chose 0 slots
+(0x24872b0) 67379200
+(0x2489790) chose 0 slots
+(0x24872b0) 67481600
+(0x2489790) chose 0 slots
+(0x24872b0) 67584000
+(0x2489790) chose 0 slots
+(0x24872b0) 67686400
+(0x2489790) chose 0 slots
+(0x24872b0) 67788800
+(0x2489790) chose 0 slots
+(0x24872b0) 67891200
+(0x2489790) chose 0 slots
+(0x24872b0) 67993600
+(0x2489790) chose 0 slots
+(0x24872b0) 68096000
+(0x2489790) chose 0 slots
+(0x24872b0) 68198400
+(0x2489790) chose 0 slots
+(0x24872b0) 68300800
+(0x2489790) chose 0 slots
+(0x24872b0) 68403200
+(0x2489790) chose 0 slots
+(0x24872b0) 68505600
+(0x2489790) chose 0 slots
+(0x24872b0) 68608000
+(0x2489790) chose 0 slots
+(0x24872b0) 68710400
+(0x2489790) chose 0 slots
+(0x24872b0) 68812800
+(0x2489790) chose 0 slots
+(0x24872b0) 68915200
+(0x2489790) chose 0 slots
+(0x24872b0) 69017600
+(0x2489790) chose 0 slots
+(0x24872b0) 69120000
+(0x2489790) chose 0 slots
+(0x24872b0) 69222400
+(0x2489790) chose 0 slots
+(0x24872b0) 69324800
+(0x2489790) chose 0 slots
+(0x24872b0) 69427200
+(0x2489790) chose 0 slots
+(0x24872b0) 69529600
+(0x2489790) chose 0 slots
+(0x24872b0) 69632000
+(0x2489790) chose 0 slots
+(0x24872b0) 69734400
+(0x2489790) chose 0 slots
+(0x24872b0) 69836800
+(0x2489790) chose 0 slots
+(0x24872b0) 69939200
+(0x2489790) chose 0 slots
+(0x24872b0) 70041600
+(0x2489790) chose 0 slots
+(0x24872b0) 70144000
+(0x2489790) chose 0 slots
+(0x24872b0) 70246400
+(0x2489790) chose 0 slots
+(0x24872b0) 70348800
+(0x2489790) chose 0 slots
+(0x24872b0) 70451200
+(0x2489790) chose 0 slots
+(0x24872b0) 70553600
+(0x2489790) chose 0 slots
+(0x24872b0) 70656000
+(0x2489790) chose 0 slots
+(0x24872b0) 70758400
+(0x2489790) chose 0 slots
+(0x24872b0) 70860800
+(0x2489790) chose 0 slots
+(0x24872b0) 70963200
+(0x2489790) chose 0 slots
+(0x24872b0) 71065600
+(0x2489790) chose 0 slots
+(0x24872b0) 71168000
+(0x2489790) chose 0 slots
+(0x24872b0) 71270400
+(0x2489790) chose 0 slots
+(0x24872b0) 71372800
+(0x2489790) chose 0 slots
+(0x24872b0) 71475200
+(0x2489790) chose 0 slots
+(0x24872b0) 71577600
+(0x2489790) chose 0 slots
+(0x24872b0) 71680000
+(0x2489790) chose 0 slots
+(0x24872b0) 71782400
+(0x2489790) chose 0 slots
+(0x24872b0) 71884800
+(0x2489790) chose 0 slots
+(0x24872b0) 71987200
+(0x2489790) chose 0 slots
+(0x24872b0) 72089600
+(0x2489790) chose 0 slots
+(0x24872b0) 72192000
+(0x2489790) chose 0 slots
+(0x24872b0) 72294400
+(0x2489790) chose 0 slots
+(0x24872b0) 72396800
+(0x2489790) chose 0 slots
+(0x24872b0) 72499200
+(0x2489790) chose 0 slots
+(0x24872b0) 72601600
+(0x2489790) chose 0 slots
+(0x24872b0) 72704000
+(0x2489790) chose 0 slots
+(0x24872b0) 72806400
+(0x2489790) chose 0 slots
+(0x24872b0) 72908800
+(0x2489790) chose 0 slots
+(0x24872b0) 73011200
+(0x2489790) chose 0 slots
+(0x24872b0) 73113600
+(0x2489790) chose 0 slots
+(0x24872b0) 73216000
+(0x2489790) chose 0 slots
+(0x24872b0) 73318400
+(0x2489790) chose 0 slots
+(0x24872b0) 73420800
+(0x2489790) chose 0 slots
+(0x24872b0) 73523200
+(0x2489790) chose 0 slots
+(0x24872b0) 73625600
+(0x2489790) chose 0 slots
+(0x24872b0) 73728000
+(0x2489790) chose 0 slots
+(0x24872b0) 73830400
+(0x2489790) chose 0 slots
+(0x24872b0) 73932800
+(0x2489790) chose 0 slots
+(0x24872b0) 74035200
+(0x2489790) chose 0 slots
+(0x24872b0) 74137600
+(0x2489790) chose 0 slots
+(0x24872b0) 74240000
+(0x2489790) chose 0 slots
+(0x24872b0) 74342400
+(0x2489790) chose 0 slots
+(0x24872b0) 74444800
+(0x2489790) chose 0 slots
+(0x24872b0) 74547200
+(0x2489790) chose 0 slots
+(0x24872b0) 74649600
+(0x2489790) chose 0 slots
+(0x24872b0) 74752000
+(0x2489790) chose 0 slots
+(0x24872b0) 74854400
+(0x2489790) chose 0 slots
+(0x24872b0) 74956800
+(0x2489790) chose 0 slots
+(0x24872b0) 75059200
+(0x2489790) chose 0 slots
+(0x24872b0) 75161600
+(0x2489790) chose 0 slots
+(0x24872b0) 75264000
+(0x2489790) chose 0 slots
+(0x24872b0) 75366400
+(0x2489790) chose 0 slots
+(0x24872b0) 75468800
+(0x2489790) chose 0 slots
+(0x24872b0) 75571200
+(0x2489790) chose 0 slots
+(0x24872b0) 75673600
+(0x2489790) chose 0 slots
+(0x24872b0) 75776000
+(0x2489790) chose 0 slots
+(0x24872b0) 75878400
+(0x2489790) chose 0 slots
+(0x24872b0) 75980800
+(0x2489790) chose 0 slots
+(0x24872b0) 76083200
+(0x2489790) chose 0 slots
+(0x24872b0) 76185600
+(0x2489790) chose 0 slots
+(0x24872b0) 76288000
+(0x2489790) chose 0 slots
+(0x24872b0) 76390400
+(0x2489790) chose 0 slots
+(0x24872b0) 76492800
+(0x2489790) chose 0 slots
+(0x24872b0) 76595200
+(0x2489790) chose 0 slots
+(0x24872b0) 76697600
+(0x2489790) chose 0 slots
+(0x24872b0) 76800000
+(0x2489790) chose 0 slots
+(0x24872b0) 76902400
+(0x2489790) chose 0 slots
+(0x24872b0) 77004800
+(0x2489790) chose 0 slots
+(0x24872b0) 77107200
+(0x2489790) chose 0 slots
+(0x24872b0) 77209600
+(0x2489790) chose 0 slots
+(0x24872b0) 77312000
+(0x2489790) chose 0 slots
+(0x24872b0) 77414400
+(0x2489790) chose 0 slots
+(0x24872b0) 77516800
+(0x2489790) chose 0 slots
+(0x24872b0) 77619200
+(0x2489790) chose 0 slots
+(0x24872b0) 77721600
+(0x2489790) chose 0 slots
+(0x24872b0) 77824000
+(0x2489790) chose 0 slots
+(0x24872b0) 77926400
+(0x2489790) chose 0 slots
+(0x24872b0) 78028800
+(0x2489790) chose 0 slots
+(0x24872b0) 78131200
+(0x2489790) chose 0 slots
+(0x24872b0) 78233600
+(0x2489790) chose 0 slots
+(0x24872b0) 78336000
+(0x2489790) chose 0 slots
+(0x24872b0) 78438400
+(0x2489790) chose 0 slots
+(0x24872b0) 78540800
+(0x2489790) chose 0 slots
+(0x24872b0) 78643200
+(0x2489790) chose 0 slots
+(0x24872b0) 78745600
+(0x2489790) chose 0 slots
+(0x24872b0) 78848000
+(0x2489790) chose 0 slots
+(0x24872b0) 78950400
+(0x2489790) chose 0 slots
+(0x24872b0) 79052800
+(0x2489790) chose 0 slots
+(0x24872b0) 79155200
+(0x2489790) chose 0 slots
+(0x24872b0) 79257600
+(0x2489790) chose 0 slots
+(0x24872b0) 79360000
+(0x2489790) chose 0 slots
+(0x24872b0) 79462400
+(0x2489790) chose 0 slots
+(0x24872b0) 79564800
+(0x2489790) chose 0 slots
+(0x24872b0) 79667200
+(0x2489790) chose 0 slots
+(0x24872b0) 79769600
+(0x2489790) chose 0 slots
+(0x24872b0) 79872000
+(0x2489790) chose 0 slots
+(0x24872b0) 79974400
+(0x2489790) chose 0 slots
+(0x24872b0) 80076800
+(0x2489790) chose 0 slots
+(0x24872b0) 80179200
+(0x2489790) chose 0 slots
+(0x24872b0) 80281600
+(0x2489790) chose 0 slots
+(0x24872b0) 80384000
+(0x2489790) chose 0 slots
+(0x24872b0) 80486400
+(0x2489790) chose 0 slots
+(0x24872b0) 80588800
+(0x2489790) chose 0 slots
+(0x24872b0) 80691200
+(0x2489790) chose 0 slots
+(0x24872b0) 80793600
+(0x2489790) chose 0 slots
+(0x24872b0) 80896000
+(0x2489790) chose 0 slots
+(0x24872b0) 80998400
+(0x2489790) chose 0 slots
+(0x24872b0) 81100800
+(0x2489790) chose 0 slots
+(0x24872b0) 81203200
+(0x2489790) chose 0 slots
+(0x24872b0) 81305600
+(0x2489790) chose 0 slots
+(0x24872b0) 81408000
+(0x2489790) chose 0 slots
+(0x24872b0) 81510400
+(0x2489790) chose 0 slots
+(0x24872b0) 81612800
+(0x2489790) chose 0 slots
+(0x24872b0) 81715200
+(0x2489790) chose 0 slots
+(0x24872b0) 81817600
+(0x2489790) chose 0 slots
+(0x24872b0) 81920000
+(0x2489790) chose 0 slots
+(0x24872b0) 82022400
+(0x2489790) chose 0 slots
+(0x24872b0) 82124800
+(0x2489790) chose 0 slots
+(0x24872b0) 82227200
+(0x2489790) chose 0 slots
+(0x24872b0) 82329600
+(0x2489790) chose 0 slots
+(0x24872b0) 82432000
+(0x2489790) chose 0 slots
+(0x24872b0) 82534400
+(0x2489790) chose 0 slots
+(0x24872b0) 82636800
+(0x2489790) chose 0 slots
+(0x24872b0) 82739200
+(0x2489790) chose 0 slots
+(0x24872b0) 82841600
+(0x2489790) chose 0 slots
+(0x24872b0) 82944000
+(0x2489790) chose 0 slots
+(0x24872b0) 83046400
+(0x2489790) chose 0 slots
+(0x24872b0) 83148800
+(0x2489790) chose 0 slots
+(0x24872b0) 83251200
+(0x2489790) chose 0 slots
+(0x24872b0) 83353600
+(0x2489790) chose 0 slots
+(0x24872b0) 83456000
+(0x2489790) chose 0 slots
+(0x24872b0) 83558400
+(0x2489790) chose 0 slots
+(0x24872b0) 83660800
+(0x2489790) chose 0 slots
+(0x24872b0) 83763200
+(0x2489790) chose 0 slots
+(0x24872b0) 83865600
+(0x2489790) chose 0 slots
+(0x24872b0) 83968000
+(0x2489790) chose 0 slots
+(0x24872b0) 84070400
+(0x2489790) chose 0 slots
+(0x24872b0) 84172800
+(0x2489790) chose 0 slots
+(0x24872b0) 84275200
+(0x2489790) chose 0 slots
+(0x24872b0) 84377600
+(0x2489790) chose 0 slots
+(0x24872b0) 84480000
+(0x2489790) chose 0 slots
+(0x24872b0) 84582400
+(0x2489790) chose 0 slots
+(0x24872b0) 84684800
+(0x2489790) chose 0 slots
+(0x24872b0) 84787200
+(0x2489790) chose 0 slots
+(0x24872b0) 84889600
+(0x2489790) chose 0 slots
+(0x24872b0) 84992000
+(0x2489790) chose 0 slots
+(0x24872b0) 85094400
+(0x2489790) chose 0 slots
+(0x24872b0) 85196800
+(0x2489790) chose 0 slots
+(0x24872b0) 85299200
+(0x2489790) chose 0 slots
+(0x24872b0) 85401600
+(0x2489790) chose 0 slots
+(0x24872b0) 85504000
+(0x2489790) chose 0 slots
+(0x24872b0) 85606400
+(0x2489790) chose 0 slots
+(0x24872b0) 85708800
+(0x2489790) chose 0 slots
+(0x24872b0) 85811200
+(0x2489790) chose 0 slots
+(0x24872b0) 85913600
+(0x2489790) chose 0 slots
+(0x24872b0) 86016000
+(0x2489790) chose 0 slots
+(0x24872b0) 86118400
+(0x2489790) chose 0 slots
+(0x24872b0) 86220800
+(0x2489790) chose 0 slots
+(0x24872b0) 86323200
+(0x2489790) chose 0 slots
+(0x24872b0) 86425600
+(0x2489790) chose 0 slots
+(0x24872b0) 86528000
+(0x2489790) chose 0 slots
+(0x24872b0) 86630400
+(0x2489790) chose 0 slots
+(0x24872b0) 86732800
+(0x2489790) chose 0 slots
+(0x24872b0) 86835200
+(0x2489790) chose 0 slots
+(0x24872b0) 86937600
+(0x2489790) chose 0 slots
+(0x24872b0) 87040000
+(0x2489790) chose 0 slots
+(0x24872b0) 87142400
+(0x2489790) chose 0 slots
+(0x24872b0) 87244800
+(0x2489790) chose 0 slots
+(0x24872b0) 87347200
+(0x2489790) chose 0 slots
+(0x24872b0) 87449600
+(0x2489790) chose 0 slots
+(0x24872b0) 87552000
+(0x2489790) chose 0 slots
+(0x24872b0) 87654400
+(0x2489790) chose 0 slots
+(0x24872b0) 87756800
+(0x2489790) chose 0 slots
+(0x24872b0) 87859200
+(0x2489790) chose 0 slots
+(0x24872b0) 87961600
+(0x2489790) chose 0 slots
+(0x24872b0) 88064000
+(0x2489790) chose 0 slots
+(0x24872b0) 88166400
+(0x2489790) chose 0 slots
+(0x24872b0) 88268800
+(0x2489790) chose 0 slots
+(0x24872b0) 88371200
+(0x2489790) chose 0 slots
+(0x24872b0) 88473600
+(0x2489790) chose 0 slots
+(0x24872b0) 88576000
+(0x2489790) chose 0 slots
+(0x24872b0) 88678400
+(0x2489790) chose 0 slots
+(0x24872b0) 88780800
+(0x2489790) chose 0 slots
+(0x24872b0) 88883200
+(0x2489790) chose 0 slots
+(0x24872b0) 88985600
+(0x2489790) chose 0 slots
+(0x24872b0) 89088000
+(0x2489790) chose 0 slots
+(0x24872b0) 89190400
+(0x2489790) chose 0 slots
+(0x24872b0) 89292800
+(0x2489790) chose 0 slots
+(0x24872b0) 89395200
+(0x2489790) chose 0 slots
+(0x24872b0) 89497600
+(0x2489790) chose 0 slots
+(0x24872b0) 89600000
+(0x2489790) chose 0 slots
+(0x24872b0) 89702400
+(0x2489790) chose 0 slots
+(0x24872b0) 89804800
+(0x2489790) chose 0 slots
+(0x24872b0) 89907200
+(0x2489790) chose 0 slots
+(0x24872b0) 90009600
+(0x2489790) chose 0 slots
+(0x24872b0) 90112000
+(0x2489790) chose 0 slots
+(0x24872b0) 90214400
+(0x2489790) chose 0 slots
+(0x24872b0) 90316800
+(0x2489790) chose 0 slots
+(0x24872b0) 90419200
+(0x2489790) chose 0 slots
+(0x24872b0) 90521600
+(0x2489790) chose 0 slots
+(0x24872b0) 90624000
+(0x2489790) chose 0 slots
+(0x24872b0) 90726400
+(0x2489790) chose 0 slots
+(0x24872b0) 90828800
+(0x2489790) chose 0 slots
+(0x24872b0) 90931200
+(0x2489790) chose 0 slots
+(0x24872b0) 91033600
+(0x2489790) chose 0 slots
+(0x24872b0) 91136000
+(0x2489790) chose 0 slots
+(0x24872b0) 91238400
+(0x2489790) chose 0 slots
+(0x24872b0) 91340800
+(0x2489790) chose 0 slots
+(0x24872b0) 91443200
+(0x2489790) chose 0 slots
+(0x24872b0) 91545600
+(0x2489790) chose 0 slots
+(0x24872b0) 91648000
+(0x2489790) chose 0 slots
+(0x24872b0) 91750400
+(0x2489790) chose 0 slots
+(0x24872b0) 91852800
+(0x2489790) chose 0 slots
+(0x24872b0) 91955200
+(0x2489790) chose 0 slots
+(0x24872b0) 92057600
+(0x2489790) chose 0 slots
+(0x24872b0) 92160000
+(0x2489790) chose 0 slots
+(0x24872b0) 92262400
+(0x2489790) chose 0 slots
+(0x24872b0) 92364800
+(0x2489790) chose 0 slots
+(0x24872b0) 92467200
+(0x2489790) chose 0 slots
+(0x24872b0) 92569600
+(0x2489790) chose 0 slots
+(0x24872b0) 92672000
+(0x2489790) chose 0 slots
+(0x24872b0) 92774400
+(0x2489790) chose 0 slots
+(0x24872b0) 92876800
+(0x2489790) chose 0 slots
+(0x24872b0) 92979200
+(0x2489790) chose 0 slots
+(0x24872b0) 93081600
+(0x2489790) chose 0 slots
+(0x24872b0) 93184000
+(0x2489790) chose 0 slots
+(0x24872b0) 93286400
+(0x2489790) chose 0 slots
+(0x24872b0) 93388800
+(0x2489790) chose 0 slots
+(0x24872b0) 93491200
+(0x2489790) chose 0 slots
+(0x24872b0) 93593600
+(0x2489790) chose 0 slots
+(0x24872b0) 93696000
+(0x2489790) chose 0 slots
+(0x24872b0) 93798400
+(0x2489790) chose 0 slots
+(0x24872b0) 93900800
+(0x2489790) chose 0 slots
+(0x24872b0) 94003200
+(0x2489790) chose 0 slots
+(0x24872b0) 94105600
+(0x2489790) chose 0 slots
+(0x24872b0) 94208000
+(0x2489790) chose 0 slots
+(0x24872b0) 94310400
+(0x2489790) chose 0 slots
+(0x24872b0) 94412800
+(0x2489790) chose 0 slots
+(0x24872b0) 94515200
+(0x2489790) chose 0 slots
+(0x24872b0) 94617600
+(0x2489790) chose 0 slots
+(0x24872b0) 94720000
+(0x2489790) chose 0 slots
+(0x24872b0) 94822400
+(0x2489790) chose 0 slots
+(0x24872b0) 94924800
+(0x2489790) chose 0 slots
+(0x24872b0) 95027200
+(0x2489790) chose 0 slots
+(0x24872b0) 95129600
+(0x2489790) chose 0 slots
+(0x24872b0) 95232000
+(0x2489790) chose 0 slots
+(0x24872b0) 95334400
+(0x2489790) chose 0 slots
+(0x24872b0) 95436800
+(0x2489790) chose 0 slots
+(0x24872b0) 95539200
+(0x2489790) chose 0 slots
+(0x24872b0) 95641600
+(0x2489790) chose 0 slots
+(0x24872b0) 95744000
+(0x2489790) chose 0 slots
+(0x24872b0) 95846400
+(0x2489790) chose 0 slots
+(0x24872b0) 95948800
+(0x2489790) chose 0 slots
+(0x24872b0) 96051200
+(0x2489790) chose 0 slots
+(0x24872b0) 96153600
+(0x2489790) chose 0 slots
+(0x24872b0) 96256000
+(0x2489790) chose 0 slots
+(0x24872b0) 96358400
+(0x2489790) chose 0 slots
+(0x24872b0) 96460800
+(0x2489790) chose 0 slots
+(0x24872b0) 96563200
+(0x2489790) chose 0 slots
+(0x24872b0) 96665600
+(0x2489790) chose 0 slots
+(0x24872b0) 96768000
+(0x2489790) chose 0 slots
+(0x24872b0) 96870400
+(0x2489790) chose 0 slots
+(0x24872b0) 96972800
+(0x2489790) chose 0 slots
+(0x24872b0) 97075200
+(0x2489790) chose 0 slots
+(0x24872b0) 97177600
+(0x2489790) chose 0 slots
+(0x24872b0) 97280000
+(0x2489790) chose 0 slots
+(0x24872b0) 97382400
+(0x2489790) chose 0 slots
+(0x24872b0) 97484800
+(0x2489790) chose 0 slots
+(0x24872b0) 97587200
+(0x2489790) chose 0 slots
+(0x24872b0) 97689600
+(0x2489790) chose 0 slots
+(0x24872b0) 97792000
+(0x2489790) chose 0 slots
+(0x24872b0) 97894400
+(0x2489790) chose 0 slots
+(0x24872b0) 97996800
+(0x2489790) chose 0 slots
+(0x24872b0) 98099200
+(0x2489790) chose 0 slots
+(0x24872b0) 98201600
+(0x2489790) chose 0 slots
+(0x24872b0) 98304000
+(0x2489790) chose 0 slots
+(0x24872b0) 98406400
+(0x2489790) chose 0 slots
+(0x24872b0) 98508800
+(0x2489790) chose 0 slots
+(0x24872b0) 98611200
+(0x2489790) chose 0 slots
+(0x24872b0) 98713600
+(0x2489790) chose 0 slots
+(0x24872b0) 98816000
+(0x2489790) chose 0 slots
+(0x24872b0) 98918400
+(0x2489790) chose 0 slots
+(0x24872b0) 99020800
+(0x2489790) chose 0 slots
+(0x24872b0) 99123200
+(0x2489790) chose 0 slots
+(0x24872b0) 99225600
+(0x2489790) chose 0 slots
+(0x24872b0) 99328000
+(0x2489790) chose 0 slots
+(0x24872b0) 99430400
+(0x2489790) chose 0 slots
+(0x24872b0) 99532800
+(0x2489790) chose 0 slots
+(0x24872b0) 99635200
+(0x2489790) chose 0 slots
+(0x24872b0) 99737600
+(0x2489790) chose 0 slots
+(0x24872b0) 99840000
+(0x2489790) chose 0 slots
+(0x24872b0) 99942400
+(0x2489790) chose 0 slots
+(0x24872b0) 100044800
+(0x2489790) chose 0 slots
+(0x24872b0) 100147200
+(0x2489790) chose 0 slots
+(0x24872b0) 100249600
+(0x2489790) chose 0 slots
+(0x24872b0) 100352000
+(0x2489790) chose 0 slots
+(0x24872b0) 100454400
+(0x2489790) chose 0 slots
  
-DcfManager:~DcfManager(0xc32e00)
------------------------------------
-Times device started TX: 13
-Times device started RX: 1130
- 
-Times device RX ended OK: 1104
-Times device RX ended with an error: 26
- 
-Duration of last TX: +46000.0ns
------------------------------------
- 
-[mac=00:00:00:00:00:01] DcaTxop:DoDispose(0xc33180)
- 
-DcfManager:~DcfState(0xc33350)
------------------------------------
-Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 17
- 
-Times DcfState requested access to the channel: 11
-Times DcfState was granted access to the channel: 11
- 
-Number of collisions: 0
-Number of internal collisions: 0
- 
-No more slots: 5
- 
------------------------------------
- 
-DcaTxop:~DcaTxop(0xc33180)
------------------------------------
-WifiMacQueue0
-Number of ACK Packets queued: 0
-Number of Association Request Packets queued: 1
-Number of Association Response Packets queued: 0
-Number of CTS Packets queued: 0
-Number of RTS Packets queued: 0
-Number of DATA Packets queued: 3
- 
-Times device got a CTS: 0
-Times device missed a CTS: 0
- 
-Times device got an ACK: 4
-Times device missed an ACK & Failed: 0
-Times device missed an ACK & Retransmitted (Last Data Packet): 3
-Missed ACK time: 360
- 
-Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00016e+07
-Packet time: 1612
- 
------------------------------------
- 
-DcfManager:~DcfManager(0xc367e0)
------------------------------------
-Times device started TX: 13
-Times device started RX: 1130
- 
-Times device RX ended OK: 1104
-Times device RX ended with an error: 26
- 
-Duration of last TX: +46000.0ns
------------------------------------
- 
-[mac=00:00:00:00:00:02] DcaTxop:DoDispose(0xc36b60)
- 
-DcfManager:~DcfState(0xc36d30)
------------------------------------
-Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 16
- 
-Times DcfState requested access to the channel: 11
-Times DcfState was granted access to the channel: 11
- 
-Number of collisions: 0
-Number of internal collisions: 0
- 
-No more slots: 12
- 
------------------------------------
- 
-DcaTxop:~DcaTxop(0xc36b60)
------------------------------------
-WifiMacQueue0
-Number of ACK Packets queued: 0
-Number of Association Request Packets queued: 1
-Number of Association Response Packets queued: 0
-Number of CTS Packets queued: 0
-Number of RTS Packets queued: 0
-Number of DATA Packets queued: 3
- 
-Times device got a CTS: 0
-Times device missed a CTS: 0
- 
-Times device got an ACK: 4
-Times device missed an ACK & Failed: 0
-Times device missed an ACK & Retransmitted (Last Data Packet): 3
-Missed ACK time: 360
- 
-Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00025e+07
-Packet time: 2504
- 
------------------------------------
- 
-DcfManager:~DcfManager(0xc3a220)
+DcfManager:~DcfManager(0x24141d0)
 -----------------------------------
 Times device started TX: 16
-Times device started RX: 1127
+Times device started RX: 1135
  
-Times device RX ended OK: 1104
-Times device RX ended with an error: 23
+Times device RX ended OK: 1102
+Times device RX ended with an error: 33
  
 Duration of last TX: +46000.0ns
 -----------------------------------
  
-[mac=00:00:00:00:00:03] DcaTxop:DoDispose(0xc3a5a0)
+[mac=00:00:00:00:00:01] DcaTxop:DoDispose(0x2414550)
  
-DcfManager:~DcfState(0xc3a770)
+DcfManager:~DcfState(0x2414720)
 -----------------------------------
 Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 40
+-- TOTAL Slots allocated: 23
  
 Times DcfState requested access to the channel: 14
 Times DcfState was granted access to the channel: 14
@@ -1886,11 +1806,63 @@ Times DcfState was granted access to the channel: 14
 Number of collisions: 0
 Number of internal collisions: 0
  
-No more slots: 15
+No more slots: 10
  
 -----------------------------------
  
-DcaTxop:~DcaTxop(0xc3a5a0)
+DcaTxop:~DcaTxop(0x2414550)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 5
+Missed ACK time: 612
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00023e+07
+Packet time: 2300
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0x2417be0)
+-----------------------------------
+Times device started TX: 16
+Times device started RX: 1135
+ 
+Times device RX ended OK: 1103
+Times device RX ended with an error: 32
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:02] DcaTxop:DoDispose(0x2417f60)
+ 
+DcfManager:~DcfState(0x2418130)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 23
+ 
+Times DcfState requested access to the channel: 14
+Times DcfState was granted access to the channel: 14
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 11
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0x2417f60)
 -----------------------------------
 WifiMacQueue0
 Number of ACK Packets queued: 0
@@ -1909,132 +1881,28 @@ Times device missed an ACK & Retransmitted (Last Data Packet): 4
 Missed ACK time: 480
  
 Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.0003e+07
-Packet time: 3036
+Got ACK for Packet at: 6.00024e+07
+Packet time: 2436
  
 -----------------------------------
  
-DcfManager:~DcfManager(0xc3dc60)
------------------------------------
-Times device started TX: 12
-Times device started RX: 1131
- 
-Times device RX ended OK: 1104
-Times device RX ended with an error: 27
- 
-Duration of last TX: +46000.0ns
------------------------------------
- 
-[mac=00:00:00:00:00:04] DcaTxop:DoDispose(0xc3dfe0)
- 
-DcfManager:~DcfState(0xc3cd00)
------------------------------------
-Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 11
- 
-Times DcfState requested access to the channel: 10
-Times DcfState was granted access to the channel: 10
- 
-Number of collisions: 0
-Number of internal collisions: 0
- 
-No more slots: 4
- 
------------------------------------
- 
-DcaTxop:~DcaTxop(0xc3dfe0)
------------------------------------
-WifiMacQueue0
-Number of ACK Packets queued: 0
-Number of Association Request Packets queued: 1
-Number of Association Response Packets queued: 0
-Number of CTS Packets queued: 0
-Number of RTS Packets queued: 0
-Number of DATA Packets queued: 3
- 
-Times device got a CTS: 0
-Times device missed a CTS: 0
- 
-Times device got an ACK: 4
-Times device missed an ACK & Failed: 0
-Times device missed an ACK & Retransmitted (Last Data Packet): 2
-Missed ACK time: 240
- 
-Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00013e+07
-Packet time: 1276
- 
------------------------------------
- 
-DcfManager:~DcfManager(0xc416a0)
------------------------------------
-Times device started TX: 16
-Times device started RX: 1127
- 
-Times device RX ended OK: 1103
-Times device RX ended with an error: 24
- 
-Duration of last TX: +46000.0ns
------------------------------------
- 
-[mac=00:00:00:00:00:05] DcaTxop:DoDispose(0xc41a20)
- 
-DcfManager:~DcfState(0xc40760)
------------------------------------
-Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 32
- 
-Times DcfState requested access to the channel: 14
-Times DcfState was granted access to the channel: 14
- 
-Number of collisions: 0
-Number of internal collisions: 0
- 
-No more slots: 0
- 
------------------------------------
- 
-DcaTxop:~DcaTxop(0xc41a20)
------------------------------------
-WifiMacQueue0
-Number of ACK Packets queued: 0
-Number of Association Request Packets queued: 1
-Number of Association Response Packets queued: 0
-Number of CTS Packets queued: 0
-Number of RTS Packets queued: 0
-Number of DATA Packets queued: 3
- 
-Times device got a CTS: 0
-Times device missed a CTS: 0
- 
-Times device got an ACK: 4
-Times device missed an ACK & Failed: 0
-Times device missed an ACK & Retransmitted (Last Data Packet): 2
-Missed ACK time: 240
- 
-Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00004e+07
-Packet time: 432
- 
------------------------------------
- 
-DcfManager:~DcfManager(0xc45130)
+DcfManager:~DcfManager(0x241b620)
 -----------------------------------
 Times device started TX: 15
-Times device started RX: 1128
+Times device started RX: 1136
  
-Times device RX ended OK: 1104
-Times device RX ended with an error: 24
+Times device RX ended OK: 1103
+Times device RX ended with an error: 33
  
 Duration of last TX: +46000.0ns
 -----------------------------------
  
-[mac=00:00:00:00:00:06] DcaTxop:DoDispose(0xc454b0)
+[mac=00:00:00:00:00:03] DcaTxop:DoDispose(0x241b9a0)
  
-DcfManager:~DcfState(0xc441a0)
+DcfManager:~DcfState(0x241bb70)
 -----------------------------------
 Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 23
+-- TOTAL Slots allocated: 28
  
 Times DcfState requested access to the channel: 13
 Times DcfState was granted access to the channel: 13
@@ -2042,11 +1910,11 @@ Times DcfState was granted access to the channel: 13
 Number of collisions: 0
 Number of internal collisions: 0
  
-No more slots: 3
+No more slots: 9
  
 -----------------------------------
  
-DcaTxop:~DcaTxop(0xc454b0)
+DcaTxop:~DcaTxop(0x241b9a0)
 -----------------------------------
 WifiMacQueue0
 Number of ACK Packets queued: 0
@@ -2065,25 +1933,285 @@ Times device missed an ACK & Retransmitted (Last Data Packet): 3
 Missed ACK time: 360
  
 Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00009e+07
-Packet time: 940
+Got ACK for Packet at: 6.00018e+07
+Packet time: 1752
  
 -----------------------------------
  
-DcfManager:~DcfManager(0xc48b70)
+DcfManager:~DcfManager(0x241f060)
 -----------------------------------
-Times device started TX: 13
+Times device started TX: 21
 Times device started RX: 1130
  
-Times device RX ended OK: 1104
-Times device RX ended with an error: 26
+Times device RX ended OK: 1102
+Times device RX ended with an error: 28
  
 Duration of last TX: +46000.0ns
 -----------------------------------
  
-[mac=00:00:00:00:00:07] DcaTxop:DoDispose(0xc48ef0)
+[mac=00:00:00:00:00:04] DcaTxop:DoDispose(0x241f3e0)
  
-DcfManager:~DcfState(0xc47c30)
+DcfManager:~DcfState(0x241e100)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 37
+ 
+Times DcfState requested access to the channel: 19
+Times DcfState was granted access to the channel: 19
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 10
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0x241f3e0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 4
+Missed ACK time: 484
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.0002e+07
+Packet time: 2024
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0x2422aa0)
+-----------------------------------
+Times device started TX: 16
+Times device started RX: 1135
+ 
+Times device RX ended OK: 1102
+Times device RX ended with an error: 33
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:05] DcaTxop:DoDispose(0x2422e20)
+ 
+DcfManager:~DcfState(0x2421b60)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 26
+ 
+Times DcfState requested access to the channel: 14
+Times DcfState was granted access to the channel: 14
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 0
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0x2422e20)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 2
+Missed ACK time: 244
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00005e+07
+Packet time: 516
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0x2426530)
+-----------------------------------
+Times device started TX: 12
+Times device started RX: 1139
+ 
+Times device RX ended OK: 1102
+Times device RX ended with an error: 37
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:06] DcaTxop:DoDispose(0x24268b0)
+ 
+DcfManager:~DcfState(0x24255a0)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 21
+ 
+Times DcfState requested access to the channel: 10
+Times DcfState was granted access to the channel: 10
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 1
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0x24268b0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 2
+Missed ACK time: 240
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00006e+07
+Packet time: 632
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0x2429f70)
+-----------------------------------
+Times device started TX: 13
+Times device started RX: 1138
+ 
+Times device RX ended OK: 1102
+Times device RX ended with an error: 36
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:07] DcaTxop:DoDispose(0x242a2f0)
+ 
+DcfManager:~DcfState(0x2429030)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 25
+ 
+Times DcfState requested access to the channel: 11
+Times DcfState was granted access to the channel: 11
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 4
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0x242a2f0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 2
+Missed ACK time: 240
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00011e+07
+Packet time: 1064
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0x247c330)
+-----------------------------------
+Times device started TX: 20
+Times device started RX: 1131
+ 
+Times device RX ended OK: 1101
+Times device RX ended with an error: 30
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:08] DcaTxop:DoDispose(0x247c6b0)
+ 
+DcfManager:~DcfState(0x247c880)
+-----------------------------------
+Slots allocated from EdcaTxopN: 0
+-- TOTAL Slots allocated: 60
+ 
+Times DcfState requested access to the channel: 18
+Times DcfState was granted access to the channel: 18
+ 
+Number of collisions: 0
+Number of internal collisions: 0
+ 
+No more slots: 17
+ 
+-----------------------------------
+ 
+DcaTxop:~DcaTxop(0x247c6b0)
+-----------------------------------
+WifiMacQueue0
+Number of ACK Packets queued: 0
+Number of Association Request Packets queued: 1
+Number of Association Response Packets queued: 0
+Number of CTS Packets queued: 0
+Number of RTS Packets queued: 0
+Number of DATA Packets queued: 3
+ 
+Times device got a CTS: 0
+Times device missed a CTS: 0
+ 
+Times device got an ACK: 4
+Times device missed an ACK & Failed: 0
+Times device missed an ACK & Retransmitted (Last Data Packet): 4
+Missed ACK time: 484
+ 
+Dequeued Packet at: 6e+07
+Got ACK for Packet at: 6.00026e+07
+Packet time: 2584
+ 
+-----------------------------------
+ 
+DcfManager:~DcfManager(0x247fe00)
+-----------------------------------
+Times device started TX: 13
+Times device started RX: 1138
+ 
+Times device RX ended OK: 1102
+Times device RX ended with an error: 36
+ 
+Duration of last TX: +46000.0ns
+-----------------------------------
+ 
+[mac=00:00:00:00:00:09] DcaTxop:DoDispose(0x2480180)
+ 
+DcfManager:~DcfState(0x247eec0)
 -----------------------------------
 Slots allocated from EdcaTxopN: 0
 -- TOTAL Slots allocated: 18
@@ -2098,7 +2226,7 @@ No more slots: 8
  
 -----------------------------------
  
-DcaTxop:~DcaTxop(0xc48ef0)
+DcaTxop:~DcaTxop(0x2480180)
 -----------------------------------
 WifiMacQueue0
 Number of ACK Packets queued: 0
@@ -2114,31 +2242,31 @@ Times device missed a CTS: 0
 Times device got an ACK: 4
 Times device missed an ACK & Failed: 0
 Times device missed an ACK & Retransmitted (Last Data Packet): 3
-Missed ACK time: 360
+Missed ACK time: 364
  
 Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.0002e+07
-Packet time: 1968
+Got ACK for Packet at: 6.00015e+07
+Packet time: 1484
  
 -----------------------------------
  
-DcfManager:~DcfManager(0xc9af40)
+DcfManager:~DcfManager(0x24838d0)
 -----------------------------------
 Times device started TX: 18
-Times device started RX: 1125
+Times device started RX: 1133
  
-Times device RX ended OK: 1104
-Times device RX ended with an error: 21
+Times device RX ended OK: 1102
+Times device RX ended with an error: 31
  
 Duration of last TX: +46000.0ns
 -----------------------------------
  
-[mac=00:00:00:00:00:08] DcaTxop:DoDispose(0xc9b2c0)
+[mac=00:00:00:00:00:0a] DcaTxop:DoDispose(0x2483c50)
  
-DcfManager:~DcfState(0xc9b490)
+DcfManager:~DcfState(0x2482910)
 -----------------------------------
 Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 54
+-- TOTAL Slots allocated: 34
  
 Times DcfState requested access to the channel: 16
 Times DcfState was granted access to the channel: 16
@@ -2146,63 +2274,11 @@ Times DcfState was granted access to the channel: 16
 Number of collisions: 0
 Number of internal collisions: 0
  
-No more slots: 32
+No more slots: 15
  
 -----------------------------------
  
-DcaTxop:~DcaTxop(0xc9b2c0)
------------------------------------
-WifiMacQueue0
-Number of ACK Packets queued: 0
-Number of Association Request Packets queued: 1
-Number of Association Response Packets queued: 0
-Number of CTS Packets queued: 0
-Number of RTS Packets queued: 0
-Number of DATA Packets queued: 3
- 
-Times device got a CTS: 0
-Times device missed a CTS: 0
- 
-Times device got an ACK: 4
-Times device missed an ACK & Failed: 0
-Times device missed an ACK & Retransmitted (Last Data Packet): 5
-Missed ACK time: 604
- 
-Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00035e+07
-Packet time: 3476
- 
------------------------------------
- 
-DcfManager:~DcfManager(0xc9e9b0)
------------------------------------
-Times device started TX: 17
-Times device started RX: 1126
- 
-Times device RX ended OK: 1104
-Times device RX ended with an error: 22
- 
-Duration of last TX: +46000.0ns
------------------------------------
- 
-[mac=00:00:00:00:00:09] DcaTxop:DoDispose(0xc9ed30)
- 
-DcfManager:~DcfState(0xc9ef00)
------------------------------------
-Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 36
- 
-Times DcfState requested access to the channel: 15
-Times DcfState was granted access to the channel: 15
- 
-Number of collisions: 0
-Number of internal collisions: 0
- 
-No more slots: 13
- 
------------------------------------
- 
-DcaTxop:~DcaTxop(0xc9ed30)
+DcaTxop:~DcaTxop(0x2483c50)
 -----------------------------------
 WifiMacQueue0
 Number of ACK Packets queued: 0
@@ -2221,65 +2297,13 @@ Times device missed an ACK & Retransmitted (Last Data Packet): 5
 Missed ACK time: 604
  
 Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00028e+07
-Packet time: 2836
+Got ACK for Packet at: 6.00027e+07
+Packet time: 2708
  
 -----------------------------------
+[mac=00:00:00:00:00:0b] DcaTxop:DoDispose(0x2489600)
  
-DcfManager:~DcfManager(0xca24b0)
------------------------------------
-Times device started TX: 19
-Times device started RX: 1124
- 
-Times device RX ended OK: 1104
-Times device RX ended with an error: 20
- 
-Duration of last TX: +46000.0ns
------------------------------------
- 
-[mac=00:00:00:00:00:0a] DcaTxop:DoDispose(0xca2830)
- 
-DcfManager:~DcfState(0xca2a00)
------------------------------------
-Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 35
- 
-Times DcfState requested access to the channel: 17
-Times DcfState was granted access to the channel: 17
- 
-Number of collisions: 0
-Number of internal collisions: 0
- 
-No more slots: 11
- 
------------------------------------
- 
-DcaTxop:~DcaTxop(0xca2830)
------------------------------------
-WifiMacQueue0
-Number of ACK Packets queued: 0
-Number of Association Request Packets queued: 1
-Number of Association Response Packets queued: 0
-Number of CTS Packets queued: 0
-Number of RTS Packets queued: 0
-Number of DATA Packets queued: 3
- 
-Times device got a CTS: 0
-Times device missed a CTS: 0
- 
-Times device got an ACK: 4
-Times device missed an ACK & Failed: 0
-Times device missed an ACK & Retransmitted (Last Data Packet): 4
-Missed ACK time: 480
- 
-Dequeued Packet at: 6e+07
-Got ACK for Packet at: 6.00023e+07
-Packet time: 2344
- 
------------------------------------
-[mac=00:00:00:00:00:0b] DcaTxop:DoDispose(0xca82a0)
- 
-DcfManager:~DcfState(0xca8430)
+DcfManager:~DcfState(0x2489790)
 -----------------------------------
 Slots allocated from EdcaTxopN: 0
 -- TOTAL Slots allocated: 0
@@ -2294,7 +2318,7 @@ No more slots: 0
  
 -----------------------------------
  
-DcaTxop:~DcaTxop(0xca82a0)
+DcaTxop:~DcaTxop(0x2489600)
 -----------------------------------
 WifiMacQueue0
 Number of ACK Packets queued: 0
@@ -2318,26 +2342,26 @@ Packet time: 0
  
 -----------------------------------
  
-DcfManager:~DcfManager(0xca5ed0)
+DcfManager:~DcfManager(0x24872b0)
 -----------------------------------
-Times device started TX: 1060
-Times device started RX: 83
+Times device started TX: 1064
+Times device started RX: 87
  
 Times device RX ended OK: 60
-Times device RX ended with an error: 23
+Times device RX ended with an error: 27
  
-Duration of last TX: +752000.0ns
+Duration of last TX: +776000.0ns
 -----------------------------------
  
-[mac=00:00:00:00:00:0b] DcaTxop:DoDispose(0xca6250)
+[mac=00:00:00:00:00:0b] DcaTxop:DoDispose(0x2487630)
  
-DcfManager:~DcfState(0xca6420)
+DcfManager:~DcfState(0x24863e0)
 -----------------------------------
 Slots allocated from EdcaTxopN: 0
--- TOTAL Slots allocated: 19
+-- TOTAL Slots allocated: 36
  
-Times DcfState requested access to the channel: 38
-Times DcfState was granted access to the channel: 38
+Times DcfState requested access to the channel: 42
+Times DcfState was granted access to the channel: 42
  
 Number of collisions: 0
 Number of internal collisions: 0
@@ -2346,7 +2370,7 @@ No more slots: 0
  
 -----------------------------------
  
-DcaTxop:~DcaTxop(0xca6250)
+DcaTxop:~DcaTxop(0x2487630)
 -----------------------------------
 WifiMacQueue0
 Number of ACK Packets queued: 0
