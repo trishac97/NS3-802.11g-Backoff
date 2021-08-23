@@ -74,6 +74,6 @@ And 276 - 155 = 121 again, and we have the delay + ACK timeout. Then we see (rep
 
 Note that these 3 devices send at 294, but this is NOT a DIFS separation between 276; it is only a gap of 18 microseconds. They paused earlier, while the group at 155 transmitted.  After that group at 155 finished transmitting, they waited for a DIFS and started sending.
 
-Therefore, as specified, packets don't always wait for an ACK timeout. The ones that sent will do so, of course. But the ones that paused, will wait for DIFS, then unpause their countdown in backoff. This is supported by the standard, which states:
+Therefore, as specified, packets don't always wait for an ACK timeout. The ones that sent will do so, of course. But the ones that paused, will wait for DIFS, then unpause their countdown in backoff. 
 
 
